@@ -1,0 +1,1067 @@
+{
+  "schema": "orb_weaver.site_lexicon.v1",
+  "generated_at": "2026-06-16T08:01:07.850771",
+  "domain": "Halopets.com",
+  "project_id": "7",
+  "page_count": 247,
+  "terms": [
+    {
+      "term": "food",
+      "count": 5043,
+      "page_coverage": 238
+    },
+    {
+      "term": "halo",
+      "count": 3265,
+      "page_coverage": 232
+    },
+    {
+      "term": "price",
+      "count": 2787,
+      "page_coverage": 62
+    },
+    {
+      "term": "regular",
+      "count": 1830,
+      "page_coverage": 55
+    },
+    {
+      "term": "dog",
+      "count": 1236,
+      "page_coverage": 111
+    },
+    {
+      "term": "holistic",
+      "count": 1110,
+      "page_coverage": 84
+    },
+    {
+      "term": "dry",
+      "count": 1063,
+      "page_coverage": 131
+    },
+    {
+      "term": "sale",
+      "count": 902,
+      "page_coverage": 50
+    },
+    {
+      "term": "wet",
+      "count": 794,
+      "page_coverage": 124
+    },
+    {
+      "term": "dogs",
+      "count": 732,
+      "page_coverage": 137
+    },
+    {
+      "term": "chicken",
+      "count": 717,
+      "page_coverage": 74
+    },
+    {
+      "term": "origin",
+      "count": 702,
+      "page_coverage": 20
+    },
+    {
+      "term": "raw",
+      "count": 632,
+      "page_coverage": 85
+    },
+    {
+      "term": "freeze-dried",
+      "count": 607,
+      "page_coverage": 89
+    },
+    {
+      "term": "pet",
+      "count": 547,
+      "page_coverage": 72
+    },
+    {
+      "term": "treats",
+      "count": 540,
+      "page_coverage": 82
+    },
+    {
+      "term": "usa",
+      "count": 536,
+      "page_coverage": 20
+    },
+    {
+      "term": "recipe",
+      "count": 530,
+      "page_coverage": 34
+    },
+    {
+      "term": "supplement",
+      "count": 516,
+      "page_coverage": 53
+    },
+    {
+      "term": "cups",
+      "count": 481,
+      "page_coverage": 40
+    },
+    {
+      "term": "vitamin",
+      "count": 466,
+      "page_coverage": 23
+    },
+    {
+      "term": "cat",
+      "count": 452,
+      "page_coverage": 54
+    },
+    {
+      "term": "source",
+      "count": 452,
+      "page_coverage": 20
+    },
+    {
+      "term": "elevate",
+      "count": 389,
+      "page_coverage": 41
+    },
+    {
+      "term": "cats",
+      "count": 386,
+      "page_coverage": 77
+    },
+    {
+      "term": "countries",
+      "count": 382,
+      "page_coverage": 20
+    },
+    {
+      "term": "lbs",
+      "count": 363,
+      "page_coverage": 28
+    },
+    {
+      "term": "best",
+      "count": 340,
+      "page_coverage": 66
+    },
+    {
+      "term": "any",
+      "count": 310,
+      "page_coverage": 4
+    },
+    {
+      "term": "protein",
+      "count": 303,
+      "page_coverage": 26
+    },
+    {
+      "term": "recipes",
+      "count": 298,
+      "page_coverage": 31
+    },
+    {
+      "term": "country",
+      "count": 294,
+      "page_coverage": 18
+    },
+    {
+      "term": "canada",
+      "count": 260,
+      "page_coverage": 18
+    },
+    {
+      "term": "adult",
+      "count": 249,
+      "page_coverage": 21
+    },
+    {
+      "term": "certified",
+      "count": 237,
+      "page_coverage": 34
+    },
+    {
+      "term": "site",
+      "count": 232,
+      "page_coverage": 4
+    },
+    {
+      "term": "ingredients",
+      "count": 228,
+      "page_coverage": 30
+    },
+    {
+      "term": "view",
+      "count": 216,
+      "page_coverage": 54
+    },
+    {
+      "term": "world",
+      "count": 210,
+      "page_coverage": 46
+    },
+    {
+      "term": "natural",
+      "count": 191,
+      "page_coverage": 23
+    },
+    {
+      "term": "min",
+      "count": 177,
+      "page_coverage": 23
+    },
+    {
+      "term": "grain",
+      "count": 172,
+      "page_coverage": 13
+    },
+    {
+      "term": "information",
+      "count": 162,
+      "page_coverage": 4
+    },
+    {
+      "term": "vegan",
+      "count": 149,
+      "page_coverage": 14
+    },
+    {
+      "term": "use",
+      "count": 137,
+      "page_coverage": 5
+    },
+    {
+      "term": "acid",
+      "count": 126,
+      "page_coverage": 20
+    },
+    {
+      "term": "other",
+      "count": 119,
+      "page_coverage": 5
+    },
+    {
+      "term": "free",
+      "count": 118,
+      "page_coverage": 10
+    },
+    {
+      "term": "may",
+      "count": 118,
+      "page_coverage": 4
+    },
+    {
+      "term": "sweet",
+      "count": 105,
+      "page_coverage": 14
+    },
+    {
+      "term": "new",
+      "count": 96,
+      "page_coverage": 13
+    },
+    {
+      "term": "including",
+      "count": 90,
+      "page_coverage": 4
+    },
+    {
+      "term": "meat",
+      "count": 88,
+      "page_coverage": 11
+    },
+    {
+      "term": "healthy",
+      "count": 84,
+      "page_coverage": 10
+    },
+    {
+      "term": "beef",
+      "count": 76,
+      "page_coverage": 10
+    },
+    {
+      "term": "now",
+      "count": 72,
+      "page_coverage": 11
+    },
+    {
+      "term": "health",
+      "count": 69,
+      "page_coverage": 7
+    },
+    {
+      "term": "agreement",
+      "count": 68,
+      "page_coverage": 2
+    },
+    {
+      "term": "weight",
+      "count": 65,
+      "page_coverage": 9
+    },
+    {
+      "term": "salmon",
+      "count": 62,
+      "page_coverage": 11
+    },
+    {
+      "term": "case",
+      "count": 61,
+      "page_coverage": 7
+    },
+    {
+      "term": "whole",
+      "count": 60,
+      "page_coverage": 8
+    },
+    {
+      "term": "these",
+      "count": 55,
+      "page_coverage": 9
+    },
+    {
+      "term": "turkey",
+      "count": 54,
+      "page_coverage": 8
+    },
+    {
+      "term": "bully",
+      "count": 52,
+      "page_coverage": 5
+    },
+    {
+      "term": "essential",
+      "count": 50,
+      "page_coverage": 4
+    },
+    {
+      "term": "disallow",
+      "count": 50,
+      "page_coverage": 1
+    },
+    {
+      "term": "provide",
+      "count": 48,
+      "page_coverage": 2
+    },
+    {
+      "term": "sticks",
+      "count": 46,
+      "page_coverage": 5
+    },
+    {
+      "term": "content",
+      "count": 44,
+      "page_coverage": 3
+    },
+    {
+      "term": "find",
+      "count": 43,
+      "page_coverage": 8
+    },
+    {
+      "term": "indoor",
+      "count": 43,
+      "page_coverage": 5
+    },
+    {
+      "term": "meal",
+      "count": 42,
+      "page_coverage": 8
+    },
+    {
+      "term": "dental",
+      "count": 42,
+      "page_coverage": 6
+    },
+    {
+      "term": "pets",
+      "count": 41,
+      "page_coverage": 6
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "regular price",
+      "count": 1858,
+      "page_coverage": 62
+    },
+    {
+      "phrase": "freeze-dried raw",
+      "count": 1014,
+      "page_coverage": 193
+    },
+    {
+      "phrase": "price regular",
+      "count": 933,
+      "page_coverage": 55
+    },
+    {
+      "phrase": "wet food",
+      "count": 922,
+      "page_coverage": 210
+    },
+    {
+      "phrase": "price sale",
+      "count": 915,
+      "page_coverage": 55
+    },
+    {
+      "phrase": "sale price",
+      "count": 915,
+      "page_coverage": 55
+    },
+    {
+      "phrase": "regular price sale",
+      "count": 915,
+      "page_coverage": 55
+    },
+    {
+      "phrase": "dry food",
+      "count": 882,
+      "page_coverage": 204
+    },
+    {
+      "phrase": "dog food",
+      "count": 743,
+      "page_coverage": 93
+    },
+    {
+      "phrase": "world best",
+      "count": 725,
+      "page_coverage": 181
+    },
+    {
+      "phrase": "halo holistic",
+      "count": 519,
+      "page_coverage": 67
+    },
+    {
+      "phrase": "origin usa",
+      "count": 436,
+      "page_coverage": 20
+    },
+    {
+      "phrase": "food regular",
+      "count": 435,
+      "page_coverage": 33
+    },
+    {
+      "phrase": "food regular price",
+      "count": 435,
+      "page_coverage": 33
+    },
+    {
+      "phrase": "find store",
+      "count": 419,
+      "page_coverage": 139
+    },
+    {
+      "phrase": "countries origin",
+      "count": 382,
+      "page_coverage": 20
+    },
+    {
+      "phrase": "lbs cups",
+      "count": 338,
+      "page_coverage": 33
+    },
+    {
+      "phrase": "country origin",
+      "count": 320,
+      "page_coverage": 20
+    },
+    {
+      "phrase": "dry dog",
+      "count": 280,
+      "page_coverage": 22
+    },
+    {
+      "phrase": "grain free",
+      "count": 277,
+      "page_coverage": 43
+    },
+    {
+      "phrase": "cups lbs",
+      "count": 271,
+      "page_coverage": 28
+    },
+    {
+      "phrase": "price holistic",
+      "count": 263,
+      "page_coverage": 23
+    },
+    {
+      "phrase": "sale price holistic",
+      "count": 243,
+      "page_coverage": 21
+    },
+    {
+      "phrase": "natural flavor",
+      "count": 235,
+      "page_coverage": 77
+    },
+    {
+      "phrase": "dry dog food",
+      "count": 235,
+      "page_coverage": 18
+    },
+    {
+      "phrase": "country origin usa",
+      "count": 234,
+      "page_coverage": 20
+    },
+    {
+      "phrase": "cat food",
+      "count": 223,
+      "page_coverage": 35
+    },
+    {
+      "phrase": "dog food regular",
+      "count": 218,
+      "page_coverage": 17
+    },
+    {
+      "phrase": "recipe adult",
+      "count": 208,
+      "page_coverage": 19
+    },
+    {
+      "phrase": "price elevate",
+      "count": 205,
+      "page_coverage": 19
+    },
+    {
+      "phrase": "countries origin usa",
+      "count": 202,
+      "page_coverage": 20
+    },
+    {
+      "phrase": "sale price elevate",
+      "count": 181,
+      "page_coverage": 15
+    },
+    {
+      "phrase": "adult dry",
+      "count": 150,
+      "page_coverage": 14
+    },
+    {
+      "phrase": "holistic recipes",
+      "count": 146,
+      "page_coverage": 36
+    },
+    {
+      "phrase": "vitamin supplement",
+      "count": 145,
+      "page_coverage": 39
+    },
+    {
+      "phrase": "new food",
+      "count": 141,
+      "page_coverage": 35
+    },
+    {
+      "phrase": "source vitamin",
+      "count": 138,
+      "page_coverage": 20
+    },
+    {
+      "phrase": "food freeze-dried",
+      "count": 137,
+      "page_coverage": 67
+    },
+    {
+      "phrase": "dogs dry",
+      "count": 136,
+      "page_coverage": 68
+    },
+    {
+      "phrase": "supplement source",
+      "count": 136,
+      "page_coverage": 20
+    },
+    {
+      "phrase": "usa france",
+      "count": 134,
+      "page_coverage": 20
+    },
+    {
+      "phrase": "france poland",
+      "count": 134,
+      "page_coverage": 20
+    },
+    {
+      "phrase": "poland spain",
+      "count": 124,
+      "page_coverage": 18
+    },
+    {
+      "phrase": "spain canada",
+      "count": 124,
+      "page_coverage": 18
+    },
+    {
+      "phrase": "responsibly sourced",
+      "count": 123,
+      "page_coverage": 30
+    },
+    {
+      "phrase": "case regular",
+      "count": 122,
+      "page_coverage": 13
+    },
+    {
+      "phrase": "amino acid",
+      "count": 122,
+      "page_coverage": 24
+    },
+    {
+      "phrase": "food toppers",
+      "count": 121,
+      "page_coverage": 60
+    },
+    {
+      "phrase": "raw wet",
+      "count": 120,
+      "page_coverage": 60
+    },
+    {
+      "phrase": "toppers dental",
+      "count": 118,
+      "page_coverage": 59
+    },
+    {
+      "phrase": "case regular price",
+      "count": 113,
+      "page_coverage": 11
+    },
+    {
+      "phrase": "usa france poland",
+      "count": 112,
+      "page_coverage": 16
+    },
+    {
+      "phrase": "france poland spain",
+      "count": 112,
+      "page_coverage": 16
+    },
+    {
+      "phrase": "treats chews",
+      "count": 111,
+      "page_coverage": 54
+    },
+    {
+      "phrase": "healthy grains",
+      "count": 111,
+      "page_coverage": 20
+    },
+    {
+      "phrase": "dental treats",
+      "count": 108,
+      "page_coverage": 54
+    },
+    {
+      "phrase": "acid chelate",
+      "count": 106,
+      "page_coverage": 20
+    },
+    {
+      "phrase": "amino acid chelate",
+      "count": 106,
+      "page_coverage": 20
+    },
+    {
+      "phrase": "global animal",
+      "count": 98,
+      "page_coverage": 25
+    },
+    {
+      "phrase": "animal partnership",
+      "count": 98,
+      "page_coverage": 25
+    },
+    {
+      "phrase": "chews view",
+      "count": 86,
+      "page_coverage": 43
+    },
+    {
+      "phrase": "food case",
+      "count": 84,
+      "page_coverage": 9
+    },
+    {
+      "phrase": "halo elevate",
+      "count": 82,
+      "page_coverage": 22
+    },
+    {
+      "phrase": "sweet potatoes",
+      "count": 79,
+      "page_coverage": 18
+    },
+    {
+      "phrase": "cage-free chicken",
+      "count": 75,
+      "page_coverage": 18
+    },
+    {
+      "phrase": "brown rice",
+      "count": 74,
+      "page_coverage": 16
+    },
+    {
+      "phrase": "recipe adult dry",
+      "count": 73,
+      "page_coverage": 7
+    },
+    {
+      "phrase": "view freeze-dried",
+      "count": 70,
+      "page_coverage": 35
+    },
+    {
+      "phrase": "wet dog",
+      "count": 68,
+      "page_coverage": 8
+    },
+    {
+      "phrase": "price freeze-dried",
+      "count": 51,
+      "page_coverage": 8
+    },
+    {
+      "phrase": "sale price freeze-dried",
+      "count": 51,
+      "page_coverage": 8
+    },
+    {
+      "phrase": "raw natural",
+      "count": 50,
+      "page_coverage": 25
+    },
+    {
+      "phrase": "wet dog food",
+      "count": 50,
+      "page_coverage": 5
+    },
+    {
+      "phrase": "halopets com",
+      "count": 50,
+      "page_coverage": 9
+    },
+    {
+      "phrase": "dry cat",
+      "count": 49,
+      "page_coverage": 6
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Chews View All Freeze-dried",
+      "count": 240
+    },
+    {
+      "entity": "Get",
+      "count": 240
+    },
+    {
+      "entity": "Compare",
+      "count": 240
+    },
+    {
+      "entity": "Belly Friendly Explore Halo",
+      "count": 240
+    },
+    {
+      "entity": "Holistic The World",
+      "count": 240
+    },
+    {
+      "entity": "Best Food For The",
+      "count": 240
+    },
+    {
+      "entity": "World",
+      "count": 240
+    },
+    {
+      "entity": "Best Kids Why Halo",
+      "count": 240
+    },
+    {
+      "entity": "Why Halo Blog Sign",
+      "count": 238
+    },
+    {
+      "entity": "Chewy",
+      "count": 164
+    },
+    {
+      "entity": "Cats Dry Food Wet",
+      "count": 154
+    },
+    {
+      "entity": "Food Treats View All",
+      "count": 152
+    },
+    {
+      "entity": "Certified Earth",
+      "count": 141
+    },
+    {
+      "entity": "You",
+      "count": 141
+    },
+    {
+      "entity": "Food Freeze-Dried Raw Wet",
+      "count": 138
+    },
+    {
+      "entity": "Dogs Cats Why Halo",
+      "count": 133
+    },
+    {
+      "entity": "Food Toppers Dental Treats",
+      "count": 132
+    },
+    {
+      "entity": "Regular",
+      "count": 129
+    },
+    {
+      "entity": "Add",
+      "count": 121
+    },
+    {
+      "entity": "Blog Dogs Dogs Dry",
+      "count": 117
+    },
+    {
+      "entity": "The",
+      "count": 100
+    },
+    {
+      "entity": "Cats Cats Dry Food",
+      "count": 89
+    },
+    {
+      "entity": "Wet Food Treats View",
+      "count": 85
+    },
+    {
+      "entity": "Vitamin",
+      "count": 84
+    },
+    {
+      "entity": "Dogs Dry Food Freeze-Dried",
+      "count": 80
+    },
+    {
+      "entity": "All Certified Earth",
+      "count": 78
+    },
+    {
+      "entity": "Raw Wet Food Toppers",
+      "count": 77
+    },
+    {
+      "entity": "Dental Treats",
+      "count": 77
+    },
+    {
+      "entity": "Supplement",
+      "count": 73
+    },
+    {
+      "entity": "Find",
+      "count": 65
+    },
+    {
+      "entity": "Sale",
+      "count": 62
+    },
+    {
+      "entity": "Taurine",
+      "count": 61
+    },
+    {
+      "entity": "What",
+      "count": 60
+    },
+    {
+      "entity": "Halo Holistic",
+      "count": 59
+    },
+    {
+      "entity": "Mixed Tocopherols",
+      "count": 59
+    },
+    {
+      "entity": "Day",
+      "count": 57
+    },
+    {
+      "entity": "Halo",
+      "count": 54
+    },
+    {
+      "entity": "Store Contact",
+      "count": 53
+    },
+    {
+      "entity": "GMO",
+      "count": 49
+    },
+    {
+      "entity": "The Halo",
+      "count": 46
+    },
+    {
+      "entity": "Holistic",
+      "count": 43
+    },
+    {
+      "entity": "Halo Elevate",
+      "count": 41
+    },
+    {
+      "entity": "Treats",
+      "count": 40
+    },
+    {
+      "entity": "Can",
+      "count": 39
+    },
+    {
+      "entity": "From",
+      "count": 38
+    },
+    {
+      "entity": "Amazon Find",
+      "count": 37
+    },
+    {
+      "entity": "How",
+      "count": 37
+    },
+    {
+      "entity": "Salmon",
+      "count": 32
+    },
+    {
+      "entity": "Food",
+      "count": 31
+    },
+    {
+      "entity": "Freeze-Dried Raw Wet Food",
+      "count": 30
+    },
+    {
+      "entity": "Toppers Dental Treats",
+      "count": 30
+    },
+    {
+      "entity": "Food Regular",
+      "count": 29
+    },
+    {
+      "entity": "Carrots",
+      "count": 27
+    },
+    {
+      "entity": "Holistic Healthy Weight Support",
+      "count": 27
+    },
+    {
+      "entity": "USA",
+      "count": 26
+    },
+    {
+      "entity": "Global Animal Partnership",
+      "count": 25
+    },
+    {
+      "entity": "AAFCO Dog Food Nutrient",
+      "count": 25
+    },
+    {
+      "entity": "Dry Food Freeze-Dried Raw",
+      "count": 24
+    },
+    {
+      "entity": "Dog Food Regular",
+      "count": 24
+    },
+    {
+      "entity": "Holistic Plant Based",
+      "count": 22
+    },
+    {
+      "entity": "Wet Food Toppers Dental",
+      "count": 21
+    },
+    {
+      "entity": "Bites",
+      "count": 21
+    },
+    {
+      "entity": "Holistic Grain Free Cage-Free",
+      "count": 21
+    },
+    {
+      "entity": "Feed",
+      "count": 21
+    },
+    {
+      "entity": "Made",
+      "count": 21
+    },
+    {
+      "entity": "Grain Free Chicken Recipe",
+      "count": 20
+    },
+    {
+      "entity": "Countries",
+      "count": 20
+    },
+    {
+      "entity": "Country",
+      "count": 20
+    },
+    {
+      "entity": "Canada",
+      "count": 20
+    },
+    {
+      "entity": "France",
+      "count": 20
+    },
+    {
+      "entity": "Poland",
+      "count": 20
+    },
+    {
+      "entity": "Spain",
+      "count": 20
+    },
+    {
+      "entity": "And",
+      "count": 19
+    },
+    {
+      "entity": "Recipe Adult Dry Dog",
+      "count": 19
+    },
+    {
+      "entity": "Indoor Adult Wet Cat",
+      "count": 19
+    }
+  ],
+  "orb_usage": {
+    "purpose": "site-specific vocabulary for ORB grounding, answer style, content gap review, and Basic ORB deployment planning",
+    "privacy": "client-local; do not append raw client lexicon entries to global intelligence"
+  }
+}

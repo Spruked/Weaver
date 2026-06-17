@@ -1,0 +1,146 @@
+{
+  "recommendations": [
+    {
+      "severity": "critical",
+      "category": "on-page",
+      "title": "Missing H1 Tags",
+      "description": "13 pages are missing H1 headings",
+      "affected_urls": [
+        "https://truemarkmint.com",
+        "https://truemarkmint.com/mint",
+        "https://truemarkmint.com/demo-mint",
+        "https://truemarkmint.com/cart",
+        "https://truemarkmint.com/checkout",
+        "https://truemarkmint.com/about",
+        "https://truemarkmint.com/alpha-certsig",
+        "https://truemarkmint.com/contact",
+        "https://truemarkmint.com/login",
+        "https://truemarkmint.com/signup"
+      ],
+      "recommendation": "Every page should have exactly one H1 tag that describes the main topic",
+      "impact_score": 80
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Low ORB Semantic Space Score",
+      "description": "13 pages cover less than 65% of their expected semantic space",
+      "affected_urls": [
+        "https://truemarkmint.com",
+        "https://truemarkmint.com/mint",
+        "https://truemarkmint.com/demo-mint",
+        "https://truemarkmint.com/cart",
+        "https://truemarkmint.com/checkout",
+        "https://truemarkmint.com/about",
+        "https://truemarkmint.com/alpha-certsig",
+        "https://truemarkmint.com/contact",
+        "https://truemarkmint.com/login",
+        "https://truemarkmint.com/signup"
+      ],
+      "recommendation": "Add missing entities, questions, supporting subtopics, and schema-aligned language",
+      "impact_score": 74
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Repeated Template or Boilerplate Pattern",
+      "description": "1 repeated page template clusters were detected",
+      "affected_urls": [
+        "https://truemarkmint.com",
+        "https://truemarkmint.com/mint",
+        "https://truemarkmint.com/demo-mint"
+      ],
+      "recommendation": "Differentiate page body copy, titles, meta descriptions, and section structure for pages sharing a template",
+      "impact_score": 72
+    },
+    {
+      "severity": "warning",
+      "category": "technical",
+      "title": "Potential Orphan Pages",
+      "description": "13 crawled pages have no incoming links from other crawled pages",
+      "affected_urls": [
+        "https://truemarkmint.com",
+        "https://truemarkmint.com/mint",
+        "https://truemarkmint.com/demo-mint",
+        "https://truemarkmint.com/cart",
+        "https://truemarkmint.com/checkout",
+        "https://truemarkmint.com/about",
+        "https://truemarkmint.com/alpha-certsig",
+        "https://truemarkmint.com/contact",
+        "https://truemarkmint.com/login",
+        "https://truemarkmint.com/signup"
+      ],
+      "recommendation": "Link these pages from navigation, hub pages, or related body content",
+      "impact_score": 66
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Thin Content",
+      "description": "13 pages have less than 300 words",
+      "affected_urls": [
+        "https://truemarkmint.com",
+        "https://truemarkmint.com/mint",
+        "https://truemarkmint.com/demo-mint",
+        "https://truemarkmint.com/cart",
+        "https://truemarkmint.com/checkout",
+        "https://truemarkmint.com/about",
+        "https://truemarkmint.com/alpha-certsig",
+        "https://truemarkmint.com/contact",
+        "https://truemarkmint.com/login",
+        "https://truemarkmint.com/signup"
+      ],
+      "recommendation": "Expand thin pages with comprehensive, valuable content",
+      "impact_score": 65
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Weak Semantic Coverage",
+      "description": "13 pages have shallow topical depth or low semantic coverage",
+      "affected_urls": [
+        "https://truemarkmint.com",
+        "https://truemarkmint.com/mint",
+        "https://truemarkmint.com/demo-mint",
+        "https://truemarkmint.com/cart",
+        "https://truemarkmint.com/checkout",
+        "https://truemarkmint.com/about",
+        "https://truemarkmint.com/alpha-certsig",
+        "https://truemarkmint.com/contact",
+        "https://truemarkmint.com/login",
+        "https://truemarkmint.com/signup"
+      ],
+      "recommendation": "Expand pages around the primary topic, related entities, questions, and supporting subtopics",
+      "impact_score": 62
+    },
+    {
+      "severity": "opportunity",
+      "category": "technical",
+      "title": "Weak Internal Link Distribution",
+      "description": "13 pages have fewer than two internal outgoing links",
+      "affected_urls": [
+        "https://truemarkmint.com",
+        "https://truemarkmint.com/mint",
+        "https://truemarkmint.com/demo-mint",
+        "https://truemarkmint.com/cart",
+        "https://truemarkmint.com/checkout",
+        "https://truemarkmint.com/about",
+        "https://truemarkmint.com/alpha-certsig",
+        "https://truemarkmint.com/contact",
+        "https://truemarkmint.com/login",
+        "https://truemarkmint.com/signup"
+      ],
+      "recommendation": "Add contextual internal links to relevant service, category, and supporting content pages",
+      "impact_score": 52
+    },
+    {
+      "severity": "opportunity",
+      "category": "schema",
+      "title": "Schema Markup Opportunity",
+      "description": "13 pages lack structured data",
+      "affected_urls": [],
+      "recommendation": "Add schema markup (JSON-LD) for rich snippets and ORB-readable business context",
+      "impact_score": 50
+    }
+  ]
+}

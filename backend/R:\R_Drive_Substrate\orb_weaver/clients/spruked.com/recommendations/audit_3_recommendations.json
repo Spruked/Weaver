@@ -1,0 +1,160 @@
+{
+  "recommendations": [
+    {
+      "severity": "critical",
+      "category": "on-page",
+      "title": "Title Tag Issues",
+      "description": "2 pages have missing, too long, or too short title tags",
+      "affected_urls": [
+        "https://spruked.com/sitemap.xml",
+        "https://spruked.com/robots.txt"
+      ],
+      "recommendation": "Ensure every page has a unique title tag between 10-60 characters",
+      "impact_score": 85
+    },
+    {
+      "severity": "critical",
+      "category": "technical",
+      "title": "Missing Mobile Viewport",
+      "description": "2 pages lack mobile viewport meta tag",
+      "affected_urls": [
+        "https://spruked.com/sitemap.xml",
+        "https://spruked.com/robots.txt"
+      ],
+      "recommendation": "Add <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+      "impact_score": 85
+    },
+    {
+      "severity": "critical",
+      "category": "on-page",
+      "title": "Missing H1 Tags",
+      "description": "3 pages are missing H1 headings",
+      "affected_urls": [
+        "https://spruked.com/orb-skin-studio/orb_skin_gen.html",
+        "https://spruked.com/sitemap.xml",
+        "https://spruked.com/robots.txt"
+      ],
+      "recommendation": "Every page should have exactly one H1 tag that describes the main topic",
+      "impact_score": 80
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Low ORB Semantic Space Score",
+      "description": "2 pages cover less than 65% of their expected semantic space",
+      "affected_urls": [
+        "https://spruked.com/orb-skin-studio/gallery.html",
+        "https://spruked.com/sitemap.xml"
+      ],
+      "recommendation": "Add missing entities, questions, supporting subtopics, and schema-aligned language",
+      "impact_score": 74
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Repeated Template or Boilerplate Pattern",
+      "description": "1 repeated page template clusters were detected",
+      "affected_urls": [
+        "https://spruked.com/cart",
+        "https://spruked.com/cart?add=truemark-mint-object",
+        "https://spruked.com/cart?add=goat-legacy-session"
+      ],
+      "recommendation": "Differentiate page body copy, titles, meta descriptions, and section structure for pages sharing a template",
+      "impact_score": 72
+    },
+    {
+      "severity": "warning",
+      "category": "technical",
+      "title": "Potential Orphan Pages",
+      "description": "4 crawled pages have no incoming links from other crawled pages",
+      "affected_urls": [
+        "https://spruked.com/sitemap.xml",
+        "https://spruked.com/robots.txt",
+        "https://spruked.com/brand",
+        "https://spruked.com/orb"
+      ],
+      "recommendation": "Link these pages from navigation, hub pages, or related body content",
+      "impact_score": 66
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Thin Content",
+      "description": "19 pages have less than 300 words",
+      "affected_urls": [
+        "https://spruked.com/orb-skin-studio",
+        "https://spruked.com/products",
+        "https://spruked.com/checkout",
+        "https://spruked.com/cart",
+        "https://spruked.com/admin",
+        "https://spruked.com/artifacts",
+        "https://spruked.com/cart?add=truemark-mint-object",
+        "https://spruked.com/cart?add=goat-legacy-session",
+        "https://spruked.com/cart?add=alpha-certsig-license",
+        "https://spruked.com/orb-skin-studio/orb_skin_gen.html"
+      ],
+      "recommendation": "Expand thin pages with comprehensive, valuable content",
+      "impact_score": 65
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Weak Semantic Coverage",
+      "description": "22 pages have shallow topical depth or low semantic coverage",
+      "affected_urls": [
+        "https://spruked.com/orb-skin-studio",
+        "https://spruked.com/goat",
+        "https://spruked.com/products",
+        "https://spruked.com/checkout",
+        "https://spruked.com/cart",
+        "https://spruked.com/admin",
+        "https://spruked.com/artifacts",
+        "https://spruked.com/truemark/example-object",
+        "https://spruked.com/cart?add=truemark-mint-object",
+        "https://spruked.com/cart?add=goat-legacy-session"
+      ],
+      "recommendation": "Expand pages around the primary topic, related entities, questions, and supporting subtopics",
+      "impact_score": 62
+    },
+    {
+      "severity": "warning",
+      "category": "on-page",
+      "title": "Meta Description Issues",
+      "description": "18 pages have missing or poorly optimized meta descriptions",
+      "affected_urls": [
+        "https://spruked.com",
+        "https://spruked.com/orb-skin-studio",
+        "https://spruked.com/products",
+        "https://spruked.com/checkout",
+        "https://spruked.com/admin",
+        "https://spruked.com/artifacts",
+        "https://spruked.com/truemark/example-object",
+        "https://spruked.com/orb-skin-studio/orb_skin_gen.html",
+        "https://spruked.com/orb-skin-studio/upload.html",
+        "https://spruked.com/orb-skin-studio/account.html"
+      ],
+      "recommendation": "Write compelling meta descriptions between 50-160 characters",
+      "impact_score": 55
+    },
+    {
+      "severity": "warning",
+      "category": "technical",
+      "title": "Missing Canonical Tags",
+      "description": "28 pages lack canonical tags",
+      "affected_urls": [
+        "https://spruked.com",
+        "https://spruked.com/orb-skin-studio",
+        "https://spruked.com/products/alpha-certsig",
+        "https://spruked.com/goat",
+        "https://spruked.com/products",
+        "https://spruked.com/checkout",
+        "https://spruked.com/about",
+        "https://spruked.com/cart",
+        "https://spruked.com/products/truemark-mint",
+        "https://spruked.com/admin"
+      ],
+      "recommendation": "Add canonical tags to prevent duplicate content issues",
+      "impact_score": 55
+    }
+  ]
+}

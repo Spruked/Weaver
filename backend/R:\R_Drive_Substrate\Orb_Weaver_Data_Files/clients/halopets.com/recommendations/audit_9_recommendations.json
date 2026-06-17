@@ -1,0 +1,181 @@
+{
+  "recommendations": [
+    {
+      "severity": "critical",
+      "category": "on-page",
+      "title": "Title Tag Issues",
+      "description": "108 pages have missing, too long, or too short title tags",
+      "affected_urls": [
+        "https://halopets.com",
+        "https://Halopets.com/account",
+        "https://Halopets.com",
+        "https://Halopets.com/collections/all",
+        "https://halopets.com/collections/all",
+        "https://Halopets.com/products/halo%C2%AE-holistic-adult-cat-healthy-grains-cage-free-chicken-recipe",
+        "https://Halopets.com/account/login",
+        "https://Halopets.com/products/halo-holistic-healthsome%C2%AE-garden-of-vegan-oats-peanut-butter-banana-recipe-biscuit-dog-treats",
+        "https://Halopets.com/products/halo%C2%AE-adult-dog-holistic-garden-of-vegan-recipe-10-lb-bag",
+        "https://Halopets.com/products/halo%C2%AE-adult-dog-holistic-wild-salmon-whitefish-recipe-21-lb-bag"
+      ],
+      "recommendation": "Ensure every page has a unique title tag between 10-60 characters",
+      "impact_score": 85
+    },
+    {
+      "severity": "critical",
+      "category": "technical",
+      "title": "Missing Mobile Viewport",
+      "description": "3 pages lack mobile viewport meta tag",
+      "affected_urls": [
+        "https://Halopets.com/sitemap.xml",
+        "https://Halopets.com/robots.txt",
+        "https://halopets.com/agents.md"
+      ],
+      "recommendation": "Add <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+      "impact_score": 85
+    },
+    {
+      "severity": "critical",
+      "category": "on-page",
+      "title": "Missing H1 Tags",
+      "description": "149 pages are missing H1 headings",
+      "affected_urls": [
+        "https://halopets.com",
+        "https://Halopets.com",
+        "https://Halopets.com/products/halo%C2%AE-holistic-adult-cat-healthy-grains-cage-free-chicken-recipe",
+        "https://Halopets.com/products/halo-holistic-healthsome%C2%AE-garden-of-vegan-oats-peanut-butter-banana-recipe-biscuit-dog-treats",
+        "https://Halopets.com/products/halo%C2%AE-elevate-dog-healthy-grains-chicken-recipe-dry-food",
+        "https://Halopets.com/products/halo%C2%AE-elevate-dog-grain-free-red-meat-recipe-dry-food",
+        "https://Halopets.com/products/halo%C2%AE-adult-dog-holistic-garden-of-vegan-recipe-10-lb-bag",
+        "https://Halopets.com/products/halo%C2%AE-adult-dog-holistic-wild-salmon-whitefish-recipe-21-lb-bag",
+        "https://Halopets.com/products/halo%C2%AE-elevate-dog-healthy-grains-red-meat-recipe-dry-food",
+        "https://Halopets.com/products/halo%C2%AE-elevate-dog-healthy-grains-small-breed-chicken-recipe-dry-food"
+      ],
+      "recommendation": "Every page should have exactly one H1 tag that describes the main topic",
+      "impact_score": 80
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Low ORB Semantic Space Score",
+      "description": "3 pages cover less than 65% of their expected semantic space",
+      "affected_urls": [
+        "https://Halopets.com/checkout",
+        "https://Halopets.com/sitemap.xml",
+        "https://halopets.com/blogs/news/why-halo"
+      ],
+      "recommendation": "Add missing entities, questions, supporting subtopics, and schema-aligned language",
+      "impact_score": 74
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Repeated Template or Boilerplate Pattern",
+      "description": "7 repeated page template clusters were detected",
+      "affected_urls": [
+        "https://Halopets.com/account",
+        "https://Halopets.com/account/login",
+        "https://halopets.com/account/login",
+        "https://Halopets.com/collections/dog-treats",
+        "https://halopets.com/collections/dog-treats",
+        "https://halopets.com/pages/holiday-treat-pack?discount=BF40",
+        "https://halopets.com/pages/halo-elevate",
+        "https://Halopets.com/pages/halo-elevate",
+        "https://halopets.com/pages/halo-elevate-3",
+        "https://Halopets.com/products/halo-holistic%C2%AE-grain-free-chicken-and-sweet-potato-1"
+      ],
+      "recommendation": "Differentiate page body copy, titles, meta descriptions, and section structure for pages sharing a template",
+      "impact_score": 72
+    },
+    {
+      "severity": "warning",
+      "category": "performance",
+      "title": "Slow Page Load Times",
+      "description": "1 pages load slower than 3 seconds. Average: 339ms",
+      "affected_urls": [
+        "https://halopets.com/collections/fdr-holistic"
+      ],
+      "recommendation": "Optimize images, enable compression, use CDN, minimize JavaScript",
+      "impact_score": 70
+    },
+    {
+      "severity": "warning",
+      "category": "technical",
+      "title": "Potential Orphan Pages",
+      "description": "11 crawled pages have no incoming links from other crawled pages",
+      "affected_urls": [
+        "https://Halopets.com/checkout",
+        "https://Halopets.com/sitemap.xml",
+        "https://Halopets.com/robots.txt",
+        "https://halopets.com/agents.md",
+        "https://halopets.com/blogs/news/why-halo",
+        "https://halopets.com/blogs/the-feed/prebiotics-probiotics-and-postbiotics",
+        "https://halopets.com/pages/halo-elevate-3",
+        "https://halopets.com/pages/holistic-cat",
+        "https://halopets.com/pages/faqs",
+        "https://halopets.com/pages/social-media-policy"
+      ],
+      "recommendation": "Link these pages from navigation, hub pages, or related body content",
+      "impact_score": 66
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Thin Content",
+      "description": "30 pages have less than 300 words",
+      "affected_urls": [
+        "https://halopets.com/cart",
+        "https://Halopets.com/account",
+        "https://Halopets.com/cart",
+        "https://Halopets.com/pages/store-locator-2",
+        "https://Halopets.com/account/login",
+        "https://Halopets.com/pages/store-locator",
+        "https://Halopets.com/pages/contact",
+        "https://halopets.com/pages/store-locator",
+        "https://Halopets.com/account/register",
+        "https://halopets.com/pages/store-locator-2"
+      ],
+      "recommendation": "Expand thin pages with comprehensive, valuable content",
+      "impact_score": 65
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Weak Semantic Coverage",
+      "description": "64 pages have shallow topical depth or low semantic coverage",
+      "affected_urls": [
+        "https://halopets.com/cart",
+        "https://Halopets.com/account",
+        "https://Halopets.com/cart",
+        "https://halopets.com/collections/elevate-dry-dog",
+        "https://halopets.com/collections/elevate-grain-free",
+        "https://halopets.com/collections/elevate-healthy-grains",
+        "https://Halopets.com/pages/store-locator-2",
+        "https://Halopets.com/account/login",
+        "https://Halopets.com/collections/dog-treats",
+        "https://Halopets.com/pages/shipping-returns"
+      ],
+      "recommendation": "Expand pages around the primary topic, related entities, questions, and supporting subtopics",
+      "impact_score": 62
+    },
+    {
+      "severity": "warning",
+      "category": "on-page",
+      "title": "Meta Description Issues",
+      "description": "111 pages have missing or poorly optimized meta descriptions",
+      "affected_urls": [
+        "https://halopets.com/cart",
+        "https://halopets.com",
+        "https://Halopets.com/account",
+        "https://Halopets.com/cart",
+        "https://Halopets.com",
+        "https://Halopets.com/collections/all",
+        "https://halopets.com/collections/all",
+        "https://halopets.com/collections/dog-hompeage",
+        "https://halopets.com/collections/elevate-dry-dog",
+        "https://halopets.com/collections/elevate-grain-free"
+      ],
+      "recommendation": "Write compelling meta descriptions between 50-160 characters",
+      "impact_score": 55
+    }
+  ]
+}

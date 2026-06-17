@@ -1,0 +1,1067 @@
+{
+  "schema": "orb_weaver.site_lexicon.v1",
+  "generated_at": "2026-06-16T07:54:52.940444",
+  "domain": "spruked.com",
+  "project_id": "2",
+  "page_count": 28,
+  "terms": [
+    {
+      "term": "spruked",
+      "count": 105,
+      "page_coverage": 18
+    },
+    {
+      "term": "truemark",
+      "count": 83,
+      "page_coverage": 14
+    },
+    {
+      "term": "certsig",
+      "count": 71,
+      "page_coverage": 15
+    },
+    {
+      "term": "knowledge",
+      "count": 69,
+      "page_coverage": 5
+    },
+    {
+      "term": "orb",
+      "count": 65,
+      "page_coverage": 12
+    },
+    {
+      "term": "alpha",
+      "count": 64,
+      "page_coverage": 14
+    },
+    {
+      "term": "digital",
+      "count": 60,
+      "page_coverage": 7
+    },
+    {
+      "term": "products",
+      "count": 58,
+      "page_coverage": 14
+    },
+    {
+      "term": "cart",
+      "count": 56,
+      "page_coverage": 15
+    },
+    {
+      "term": "object",
+      "count": 52,
+      "page_coverage": 6
+    },
+    {
+      "term": "evidence",
+      "count": 37,
+      "page_coverage": 12
+    },
+    {
+      "term": "checkout",
+      "count": 35,
+      "page_coverage": 11
+    },
+    {
+      "term": "objects",
+      "count": 31,
+      "page_coverage": 4
+    },
+    {
+      "term": "mint",
+      "count": 29,
+      "page_coverage": 5
+    },
+    {
+      "term": "studio",
+      "count": 27,
+      "page_coverage": 8
+    },
+    {
+      "term": "skin",
+      "count": 23,
+      "page_coverage": 7
+    },
+    {
+      "term": "artifacts",
+      "count": 23,
+      "page_coverage": 3
+    },
+    {
+      "term": "orbs",
+      "count": 22,
+      "page_coverage": 1
+    },
+    {
+      "term": "systems",
+      "count": 20,
+      "page_coverage": 2
+    },
+    {
+      "term": "certificate",
+      "count": 20,
+      "page_coverage": 2
+    },
+    {
+      "term": "goat",
+      "count": 16,
+      "page_coverage": 4
+    },
+    {
+      "term": "registry",
+      "count": 15,
+      "page_coverage": 2
+    },
+    {
+      "term": "pack",
+      "count": 15,
+      "page_coverage": 1
+    },
+    {
+      "term": "https",
+      "count": 15,
+      "page_coverage": 1
+    },
+    {
+      "term": "com",
+      "count": 15,
+      "page_coverage": 1
+    },
+    {
+      "term": "engine",
+      "count": 14,
+      "page_coverage": 2
+    },
+    {
+      "term": "truth",
+      "count": 13,
+      "page_coverage": 5
+    },
+    {
+      "term": "custom",
+      "count": 13,
+      "page_coverage": 2
+    },
+    {
+      "term": "support",
+      "count": 13,
+      "page_coverage": 3
+    },
+    {
+      "term": "forensic",
+      "count": 12,
+      "page_coverage": 2
+    },
+    {
+      "term": "artifact",
+      "count": 12,
+      "page_coverage": 1
+    },
+    {
+      "term": "verification",
+      "count": 12,
+      "page_coverage": 1
+    },
+    {
+      "term": "verified",
+      "count": 10,
+      "page_coverage": 2
+    },
+    {
+      "term": "create",
+      "count": 10,
+      "page_coverage": 2
+    },
+    {
+      "term": "infrastructure",
+      "count": 10,
+      "page_coverage": 1
+    },
+    {
+      "term": "platform",
+      "count": 10,
+      "page_coverage": 5
+    },
+    {
+      "term": "may",
+      "count": 10,
+      "page_coverage": 2
+    },
+    {
+      "term": "user-agent",
+      "count": 10,
+      "page_coverage": 1
+    },
+    {
+      "term": "bulk",
+      "count": 9,
+      "page_coverage": 1
+    },
+    {
+      "term": "structured",
+      "count": 9,
+      "page_coverage": 2
+    },
+    {
+      "term": "admin",
+      "count": 9,
+      "page_coverage": 1
+    },
+    {
+      "term": "content",
+      "count": 9,
+      "page_coverage": 1
+    },
+    {
+      "term": "disallow",
+      "count": 9,
+      "page_coverage": 1
+    },
+    {
+      "term": "teeth",
+      "count": 8,
+      "page_coverage": 4
+    },
+    {
+      "term": "assets",
+      "count": 8,
+      "page_coverage": 4
+    },
+    {
+      "term": "pricing",
+      "count": 8,
+      "page_coverage": 3
+    },
+    {
+      "term": "records",
+      "count": 8,
+      "page_coverage": 1
+    },
+    {
+      "term": "items",
+      "count": 8,
+      "page_coverage": 4
+    },
+    {
+      "term": "continue",
+      "count": 8,
+      "page_coverage": 4
+    },
+    {
+      "term": "intellectual",
+      "count": 8,
+      "page_coverage": 1
+    },
+    {
+      "term": "licensed",
+      "count": 8,
+      "page_coverage": 1
+    },
+    {
+      "term": "buy",
+      "count": 7,
+      "page_coverage": 1
+    },
+    {
+      "term": "organizations",
+      "count": 7,
+      "page_coverage": 1
+    },
+    {
+      "term": "interface",
+      "count": 7,
+      "page_coverage": 2
+    },
+    {
+      "term": "these",
+      "count": 7,
+      "page_coverage": 1
+    },
+    {
+      "term": "search",
+      "count": 7,
+      "page_coverage": 1
+    },
+    {
+      "term": "use",
+      "count": 6,
+      "page_coverage": 2
+    },
+    {
+      "term": "single",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "term": "building",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "term": "pro",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "term": "prime",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "term": "build",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "term": "founder",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "term": "real",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "term": "through",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "term": "state",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "term": "preserve",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "term": "legacy",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "term": "images",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "term": "documents",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "term": "explore",
+      "count": 5,
+      "page_coverage": 2
+    },
+    {
+      "term": "everything",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "term": "capture",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "term": "vault",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "term": "company",
+      "count": 5,
+      "page_coverage": 5
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "alpha certsig",
+      "count": 76,
+      "page_coverage": 19
+    },
+    {
+      "phrase": "cart checkout",
+      "count": 39,
+      "page_coverage": 19
+    },
+    {
+      "phrase": "certsig truemark",
+      "count": 37,
+      "page_coverage": 18
+    },
+    {
+      "phrase": "products alpha",
+      "count": 36,
+      "page_coverage": 18
+    },
+    {
+      "phrase": "products alpha certsig",
+      "count": 26,
+      "page_coverage": 13
+    },
+    {
+      "phrase": "orb skin",
+      "count": 25,
+      "page_coverage": 9
+    },
+    {
+      "phrase": "alpha certsig truemark",
+      "count": 24,
+      "page_coverage": 12
+    },
+    {
+      "phrase": "skin studio",
+      "count": 20,
+      "page_coverage": 9
+    },
+    {
+      "phrase": "orb skin studio",
+      "count": 18,
+      "page_coverage": 8
+    },
+    {
+      "phrase": "truth teeth",
+      "count": 17,
+      "page_coverage": 8
+    },
+    {
+      "phrase": "https spruked",
+      "count": 15,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "spruked com",
+      "count": 15,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "https spruked com",
+      "count": 15,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "spruked truth",
+      "count": 14,
+      "page_coverage": 7
+    },
+    {
+      "phrase": "truemark mint",
+      "count": 14,
+      "page_coverage": 4
+    },
+    {
+      "phrase": "digital object",
+      "count": 13,
+      "page_coverage": 4
+    },
+    {
+      "phrase": "truemark objects",
+      "count": 12,
+      "page_coverage": 3
+    },
+    {
+      "phrase": "spruked truth teeth",
+      "count": 10,
+      "page_coverage": 5
+    },
+    {
+      "phrase": "disallow user-agent",
+      "count": 8,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "certsig engine",
+      "count": 6,
+      "page_coverage": 2
+    },
+    {
+      "phrase": "alpha certsig engine",
+      "count": 6,
+      "page_coverage": 2
+    },
+    {
+      "phrase": "pro prime",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "mint engine",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "forensic certificate",
+      "count": 6,
+      "page_coverage": 2
+    },
+    {
+      "phrase": "digital knowledge",
+      "count": 6,
+      "page_coverage": 2
+    },
+    {
+      "phrase": "add cart",
+      "count": 5,
+      "page_coverage": 2
+    },
+    {
+      "phrase": "pack orbs",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "custom orbs",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "orbs everything",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "custom orbs everything",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "prime series",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "pro prime series",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "spruked ecosystem",
+      "count": 5,
+      "page_coverage": 2
+    },
+    {
+      "phrase": "issued through",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "examples include",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "these objects",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "value model",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "com products",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "spruked com products",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "digital artifacts",
+      "count": 4,
+      "page_coverage": 2
+    },
+    {
+      "phrase": "preserve knowledge",
+      "count": 4,
+      "page_coverage": 2
+    },
+    {
+      "phrase": "edit profile",
+      "count": 4,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "images documents",
+      "count": 4,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "support buy",
+      "count": 4,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "buy pack",
+      "count": 4,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "everything pack",
+      "count": 4,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "orbs everything pack",
+      "count": 4,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "structured digital",
+      "count": 4,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "interface layer",
+      "count": 4,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "financial systems",
+      "count": 4,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "orb state",
+      "count": 4,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "corresponding use",
+      "count": 4,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "truemark registry",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "recent activity",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "dock station",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "get touch",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "send message",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "asset manager",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "shopping cart",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "single orb",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "bulk packs",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "support buy pack",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "digital objects",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "license annual",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "knowledge infrastructure",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "mint curated",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "knowledge objects",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "through truemark",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "personal legacy",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "registry truemark",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "nfts preserve",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "truemark mint curated",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "issued through truemark",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "artifact certificate",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "forensic verification",
+      "count": 3,
+      "page_coverage": 1
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Home About Products Cart",
+      "count": 19
+    },
+    {
+      "entity": "Checkout Evidence Home Company",
+      "count": 19
+    },
+    {
+      "entity": "About Products All Products",
+      "count": 19
+    },
+    {
+      "entity": "Alpha CertSig TrueMark Mint",
+      "count": 19
+    },
+    {
+      "entity": "The GOAT Orb Skin",
+      "count": 19
+    },
+    {
+      "entity": "Studio Platform Evidence Admin",
+      "count": 19
+    },
+    {
+      "entity": "Spruked",
+      "count": 15
+    },
+    {
+      "entity": "Truth",
+      "count": 13
+    },
+    {
+      "entity": "Built",
+      "count": 10
+    },
+    {
+      "entity": "Next",
+      "count": 9
+    },
+    {
+      "entity": "About Products Alpha CertSig",
+      "count": 9
+    },
+    {
+      "entity": "TrueMark Evidence Contact",
+      "count": 9
+    },
+    {
+      "entity": "The",
+      "count": 9
+    },
+    {
+      "entity": "Orb Skin Studio",
+      "count": 7
+    },
+    {
+      "entity": "Cart",
+      "count": 6
+    },
+    {
+      "entity": "Loading",
+      "count": 6
+    },
+    {
+      "entity": "Subtotal",
+      "count": 6
+    },
+    {
+      "entity": "Total",
+      "count": 6
+    },
+    {
+      "entity": "This",
+      "count": 5
+    },
+    {
+      "entity": "Proceed",
+      "count": 5
+    },
+    {
+      "entity": "You",
+      "count": 5
+    },
+    {
+      "entity": "TrueMark",
+      "count": 5
+    },
+    {
+      "entity": "Platform",
+      "count": 5
+    },
+    {
+      "entity": "Alpha CertSig",
+      "count": 4
+    },
+    {
+      "entity": "Studio Pricing Assets Cart",
+      "count": 4
+    },
+    {
+      "entity": "Unlike",
+      "count": 4
+    },
+    {
+      "entity": "Cart Checkout Your Cart",
+      "count": 4
+    },
+    {
+      "entity": "Confirm",
+      "count": 4
+    },
+    {
+      "entity": "Summary Items",
+      "count": 4
+    },
+    {
+      "entity": "Checkout Clear Cart Continue",
+      "count": 4
+    },
+    {
+      "entity": "Browsing",
+      "count": 4
+    },
+    {
+      "entity": "These",
+      "count": 4
+    },
+    {
+      "entity": "Account Contact Gallery Support",
+      "count": 3
+    },
+    {
+      "entity": "Your",
+      "count": 3
+    },
+    {
+      "entity": "CertSig",
+      "count": 3
+    },
+    {
+      "entity": "Here",
+      "count": 2
+    },
+    {
+      "entity": "Authorship",
+      "count": 2
+    },
+    {
+      "entity": "Preservation",
+      "count": 2
+    },
+    {
+      "entity": "Licensed Knowledge H-NFT Heirloom",
+      "count": 2
+    },
+    {
+      "entity": "Drop",
+      "count": 2
+    },
+    {
+      "entity": "Optional",
+      "count": 2
+    },
+    {
+      "entity": "Select",
+      "count": 2
+    },
+    {
+      "entity": "Studio Studio Pricing Assets",
+      "count": 2
+    },
+    {
+      "entity": "Cart Account Contact Gallery",
+      "count": 2
+    },
+    {
+      "entity": "All",
+      "count": 2
+    },
+    {
+      "entity": "Create",
+      "count": 2
+    },
+    {
+      "entity": "What",
+      "count": 2
+    },
+    {
+      "entity": "GOAT",
+      "count": 2
+    },
+    {
+      "entity": "Most",
+      "count": 2
+    },
+    {
+      "entity": "NFT",
+      "count": 2
+    },
+    {
+      "entity": "They",
+      "count": 2
+    },
+    {
+      "entity": "Organizations",
+      "count": 2
+    },
+    {
+      "entity": "NFTs",
+      "count": 2
+    },
+    {
+      "entity": "Historical",
+      "count": 2
+    },
+    {
+      "entity": "Each",
+      "count": 2
+    },
+    {
+      "entity": "Cali",
+      "count": 2
+    },
+    {
+      "entity": "Spruked System",
+      "count": 2
+    },
+    {
+      "entity": "Cart Checkout",
+      "count": 2
+    },
+    {
+      "entity": "Back",
+      "count": 2
+    },
+    {
+      "entity": "Cart Checkout Enter You",
+      "count": 1
+    },
+    {
+      "entity": "Precision",
+      "count": 1
+    },
+    {
+      "entity": "Where Objects Tell",
+      "count": 1
+    },
+    {
+      "entity": "Get Spruked Contact Orb",
+      "count": 1
+    },
+    {
+      "entity": "Skin Studio Demo What",
+      "count": 1
+    },
+    {
+      "entity": "Spruking",
+      "count": 1
+    },
+    {
+      "entity": "TrueMark Objects TrueMark Objects",
+      "count": 1
+    },
+    {
+      "entity": "Understand",
+      "count": 1
+    },
+    {
+      "entity": "Object Model The Spruked",
+      "count": 1
+    },
+    {
+      "entity": "Knowledge Infrastructure Two",
+      "count": 1
+    },
+    {
+      "entity": "Alpha CertSig Engine Licensed",
+      "count": 1
+    },
+    {
+      "entity": "Self-hosted",
+      "count": 1
+    },
+    {
+      "entity": "Sovereign",
+      "count": 1
+    },
+    {
+      "entity": "TrueMark Registry The",
+      "count": 1
+    },
+    {
+      "entity": "Attribution K-NFT Knowledge KL-NFT",
+      "count": 1
+    },
+    {
+      "entity": "L-NFT Legacy E-NFT Enterprise",
+      "count": 1
+    }
+  ],
+  "orb_usage": {
+    "purpose": "site-specific vocabulary for ORB grounding, answer style, content gap review, and Basic ORB deployment planning",
+    "privacy": "client-local; do not append raw client lexicon entries to global intelligence"
+  }
+}

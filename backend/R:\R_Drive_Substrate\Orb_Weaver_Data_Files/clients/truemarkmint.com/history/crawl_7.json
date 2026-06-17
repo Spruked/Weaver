@@ -1,0 +1,3792 @@
+{
+  "schema": "orb_weaver.client_crawl.v1",
+  "saved_at": "2026-06-14T21:28:14.545350",
+  "client": {
+    "project_id": "5",
+    "domain": "truemarkmint.com",
+    "name": "TrueMarkMint Customer ORB Install Lab",
+    "customer_id": "3"
+  },
+  "site_profile": {
+    "domain": "truemarkmint.com",
+    "latest_crawl_id": "7",
+    "page_count": 13,
+    "has_ga4": false
+  },
+  "crawl": {
+    "id": "7",
+    "project_id": "5",
+    "project_name": "TrueMarkMint Customer ORB Install Lab",
+    "project_domain": "truemarkmint.com",
+    "status": "completed",
+    "config": {
+      "max_pages": 500,
+      "delay": 0.5,
+      "max_depth": 8,
+      "competitor_domains": [],
+      "seed_urls": [
+        "/",
+        "/mint",
+        "/demo-mint",
+        "/cart",
+        "/checkout",
+        "/about",
+        "/alpha-certsig",
+        "/contact",
+        "/login",
+        "/signup",
+        "/admin/login",
+        "/pricing"
+      ],
+      "stats": {
+        "total_pages": 13,
+        "visited_urls": 13,
+        "sitemap_urls_found": 13,
+        "has_robots_txt": true,
+        "has_sitemap": true,
+        "avg_load_time": 169.4183166210468,
+        "ssl_pages": 13,
+        "indexable_pages": 13,
+        "duplicate_content_pages": 13,
+        "total_images": 0,
+        "images_missing_alt": 0,
+        "total_internal_links": 0,
+        "total_external_links": 0,
+        "schema_pages": 0,
+        "schema_errors": 0,
+        "semantic_thin_pages": 13,
+        "internal_link_edges": 0,
+        "avg_orb_semantic_score": 48.0,
+        "low_orb_semantic_pages": 13,
+        "avg_mobile_ux_score": 100.0,
+        "mobile_ux_problem_pages": 0,
+        "discovered_urls": 13,
+        "pages_skipped_estimate": 0,
+        "sitemap_indexes_found": 1,
+        "queue_exhausted": true,
+        "max_page_limit_hit": false,
+        "depth_limit_hit": false,
+        "depth_limit_hits": 0,
+        "max_pages_configured": 500,
+        "max_depth_configured": 8,
+        "host_normalization": {
+          "input_host": "truemarkmint.com",
+          "canonical_host_key": "truemarkmint.com",
+          "www_equivalent": true
+        }
+      },
+      "historical": {
+        "has_previous": false,
+        "deltas": {}
+      },
+      "trend_model": {
+        "snapshots": [
+          {
+            "crawl_id": "current",
+            "date": "2026-06-14T21:28:14.346328",
+            "stats": {
+              "total_pages": 13,
+              "visited_urls": 13,
+              "sitemap_urls_found": 13,
+              "has_robots_txt": true,
+              "has_sitemap": true,
+              "avg_load_time": 169.4183166210468,
+              "ssl_pages": 13,
+              "indexable_pages": 13,
+              "duplicate_content_pages": 13,
+              "total_images": 0,
+              "images_missing_alt": 0,
+              "total_internal_links": 0,
+              "total_external_links": 0,
+              "schema_pages": 0,
+              "schema_errors": 0,
+              "semantic_thin_pages": 13,
+              "internal_link_edges": 0,
+              "avg_orb_semantic_score": 48.0,
+              "low_orb_semantic_pages": 13,
+              "avg_mobile_ux_score": 100.0,
+              "mobile_ux_problem_pages": 0,
+              "discovered_urls": 13,
+              "pages_skipped_estimate": 0,
+              "sitemap_indexes_found": 1,
+              "queue_exhausted": true,
+              "max_page_limit_hit": false,
+              "depth_limit_hit": false,
+              "depth_limit_hits": 0,
+              "max_pages_configured": 500,
+              "max_depth_configured": 8,
+              "host_normalization": {
+                "input_host": "truemarkmint.com",
+                "canonical_host_key": "truemarkmint.com",
+                "www_equivalent": true
+              }
+            }
+          }
+        ],
+        "metrics": {
+          "avg_orb_semantic_score": {
+            "rolling_average": 48.0,
+            "slope": 0,
+            "anomaly": false,
+            "expected_next_month": 48.0,
+            "seasonality": "insufficient_data"
+          },
+          "avg_mobile_ux_score": {
+            "rolling_average": 100.0,
+            "slope": 0,
+            "anomaly": false,
+            "expected_next_month": 100.0,
+            "seasonality": "insufficient_data"
+          },
+          "schema_pages": {
+            "rolling_average": 0.0,
+            "slope": 0,
+            "anomaly": false,
+            "expected_next_month": 0.0,
+            "seasonality": "insufficient_data"
+          },
+          "low_orb_semantic_pages": {
+            "rolling_average": 13.0,
+            "slope": 0,
+            "anomaly": false,
+            "expected_next_month": 13.0,
+            "seasonality": "insufficient_data"
+          },
+          "mobile_ux_problem_pages": {
+            "rolling_average": 0.0,
+            "slope": 0,
+            "anomaly": false,
+            "expected_next_month": 0.0,
+            "seasonality": "insufficient_data"
+          }
+        }
+      },
+      "internal_link_graph": {
+        "nodes": [
+          {
+            "url": "https://truemarkmint.com",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/mint",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/demo-mint",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/cart",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/checkout",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/about",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/alpha-certsig",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/contact",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/login",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/signup",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/admin/login",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/pricing",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/admin/dashboard",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          }
+        ],
+        "edges": [],
+        "orphan_candidates": [
+          {
+            "url": "https://truemarkmint.com",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/mint",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/demo-mint",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/cart",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/checkout",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/about",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/alpha-certsig",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/contact",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/login",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/signup",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/admin/login",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/pricing",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://truemarkmint.com/admin/dashboard",
+            "title": "True Mark Mint Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          }
+        ]
+      },
+      "authority_flow": {
+        "pages": [
+          {
+            "url": "https://truemarkmint.com",
+            "title": "True Mark Mint Engine",
+            "authority": 1.1538,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "core"
+          },
+          {
+            "url": "https://truemarkmint.com/mint",
+            "title": "True Mark Mint Engine",
+            "authority": 1.1538,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://truemarkmint.com/demo-mint",
+            "title": "True Mark Mint Engine",
+            "authority": 1.1538,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://truemarkmint.com/cart",
+            "title": "True Mark Mint Engine",
+            "authority": 1.1538,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://truemarkmint.com/checkout",
+            "title": "True Mark Mint Engine",
+            "authority": 1.1538,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://truemarkmint.com/about",
+            "title": "True Mark Mint Engine",
+            "authority": 1.1538,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://truemarkmint.com/alpha-certsig",
+            "title": "True Mark Mint Engine",
+            "authority": 1.1538,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://truemarkmint.com/contact",
+            "title": "True Mark Mint Engine",
+            "authority": 1.1538,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://truemarkmint.com/login",
+            "title": "True Mark Mint Engine",
+            "authority": 1.1538,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://truemarkmint.com/signup",
+            "title": "True Mark Mint Engine",
+            "authority": 1.1538,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://truemarkmint.com/admin/login",
+            "title": "True Mark Mint Engine",
+            "authority": 1.1538,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://truemarkmint.com/pricing",
+            "title": "True Mark Mint Engine",
+            "authority": 1.1538,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://truemarkmint.com/admin/dashboard",
+            "title": "True Mark Mint Engine",
+            "authority": 1.1538,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          }
+        ],
+        "segments": {
+          "core": {
+            "avg_authority": 1.1538,
+            "pages": 1
+          },
+          "other": {
+            "avg_authority": 1.1538,
+            "pages": 12
+          }
+        },
+        "insights": []
+      },
+      "knowledge_graph": {
+        "nodes": [
+          {
+            "id": "https://truemarkmint.com",
+            "label": "True Mark Mint Engine",
+            "type": "page",
+            "url": "https://truemarkmint.com"
+          },
+          {
+            "id": "entity:True Mark Mint Engine",
+            "label": "True Mark Mint Engine",
+            "type": "entity"
+          },
+          {
+            "id": "person:True Mark Mint Engine",
+            "label": "True Mark Mint Engine",
+            "type": "person"
+          },
+          {
+            "id": "https://truemarkmint.com/mint",
+            "label": "True Mark Mint Engine",
+            "type": "page",
+            "url": "https://truemarkmint.com/mint"
+          },
+          {
+            "id": "https://truemarkmint.com/demo-mint",
+            "label": "True Mark Mint Engine",
+            "type": "page",
+            "url": "https://truemarkmint.com/demo-mint"
+          },
+          {
+            "id": "https://truemarkmint.com/cart",
+            "label": "True Mark Mint Engine",
+            "type": "page",
+            "url": "https://truemarkmint.com/cart"
+          },
+          {
+            "id": "https://truemarkmint.com/checkout",
+            "label": "True Mark Mint Engine",
+            "type": "page",
+            "url": "https://truemarkmint.com/checkout"
+          },
+          {
+            "id": "https://truemarkmint.com/about",
+            "label": "True Mark Mint Engine",
+            "type": "page",
+            "url": "https://truemarkmint.com/about"
+          },
+          {
+            "id": "https://truemarkmint.com/alpha-certsig",
+            "label": "True Mark Mint Engine",
+            "type": "page",
+            "url": "https://truemarkmint.com/alpha-certsig"
+          },
+          {
+            "id": "https://truemarkmint.com/contact",
+            "label": "True Mark Mint Engine",
+            "type": "page",
+            "url": "https://truemarkmint.com/contact"
+          },
+          {
+            "id": "https://truemarkmint.com/login",
+            "label": "True Mark Mint Engine",
+            "type": "page",
+            "url": "https://truemarkmint.com/login"
+          },
+          {
+            "id": "https://truemarkmint.com/signup",
+            "label": "True Mark Mint Engine",
+            "type": "page",
+            "url": "https://truemarkmint.com/signup"
+          },
+          {
+            "id": "https://truemarkmint.com/admin/login",
+            "label": "True Mark Mint Engine",
+            "type": "page",
+            "url": "https://truemarkmint.com/admin/login"
+          },
+          {
+            "id": "https://truemarkmint.com/pricing",
+            "label": "True Mark Mint Engine",
+            "type": "page",
+            "url": "https://truemarkmint.com/pricing"
+          },
+          {
+            "id": "https://truemarkmint.com/admin/dashboard",
+            "label": "True Mark Mint Engine",
+            "type": "page",
+            "url": "https://truemarkmint.com/admin/dashboard"
+          }
+        ],
+        "edges": [
+          {
+            "source": "https://truemarkmint.com",
+            "target": "entity:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com",
+            "target": "person:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/mint",
+            "target": "entity:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/mint",
+            "target": "person:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/demo-mint",
+            "target": "entity:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/demo-mint",
+            "target": "person:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/cart",
+            "target": "entity:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/cart",
+            "target": "person:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/checkout",
+            "target": "entity:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/checkout",
+            "target": "person:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/about",
+            "target": "entity:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/about",
+            "target": "person:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/alpha-certsig",
+            "target": "entity:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/alpha-certsig",
+            "target": "person:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/contact",
+            "target": "entity:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/contact",
+            "target": "person:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/login",
+            "target": "entity:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/login",
+            "target": "person:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/signup",
+            "target": "entity:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/signup",
+            "target": "person:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/admin/login",
+            "target": "entity:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/admin/login",
+            "target": "person:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/pricing",
+            "target": "entity:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/pricing",
+            "target": "person:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/admin/dashboard",
+            "target": "entity:True Mark Mint Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://truemarkmint.com/admin/dashboard",
+            "target": "person:True Mark Mint Engine",
+            "relationship": "mentions"
+          }
+        ],
+        "hubs": [
+          {
+            "id": "entity:True Mark Mint Engine",
+            "label": "True Mark Mint Engine",
+            "mentions": 13
+          },
+          {
+            "id": "person:True Mark Mint Engine",
+            "label": "True Mark Mint Engine",
+            "mentions": 13
+          }
+        ],
+        "topic_clusters": [
+          {
+            "topic": "true",
+            "pages": [
+              "https://truemarkmint.com",
+              "https://truemarkmint.com/mint",
+              "https://truemarkmint.com/demo-mint",
+              "https://truemarkmint.com/cart",
+              "https://truemarkmint.com/checkout",
+              "https://truemarkmint.com/about",
+              "https://truemarkmint.com/alpha-certsig",
+              "https://truemarkmint.com/contact",
+              "https://truemarkmint.com/login",
+              "https://truemarkmint.com/signup",
+              "https://truemarkmint.com/admin/login",
+              "https://truemarkmint.com/pricing",
+              "https://truemarkmint.com/admin/dashboard"
+            ],
+            "page_count": 13
+          }
+        ],
+        "missing_pillar_pages": [],
+        "internal_linking_suggestions": []
+      },
+      "competitors": [],
+      "competitor_gap": {
+        "missing_topics": [],
+        "missing_entities": [],
+        "missing_questions": [
+          "Add explicit question-led headings for competitor-covered topics"
+        ],
+        "missing_schema_types": [],
+        "missing_internal_link_hubs": []
+      },
+      "template_detection": {
+        "repeated_layouts": [
+          {
+            "signature": "57560be9b158a7e0266155cdf6da3bbe",
+            "page_count": 13,
+            "duplicate_text_probability": 100.0,
+            "pages": [
+              "https://truemarkmint.com",
+              "https://truemarkmint.com/mint",
+              "https://truemarkmint.com/demo-mint",
+              "https://truemarkmint.com/cart",
+              "https://truemarkmint.com/checkout",
+              "https://truemarkmint.com/about",
+              "https://truemarkmint.com/alpha-certsig",
+              "https://truemarkmint.com/contact",
+              "https://truemarkmint.com/login",
+              "https://truemarkmint.com/signup",
+              "https://truemarkmint.com/admin/login",
+              "https://truemarkmint.com/pricing",
+              "https://truemarkmint.com/admin/dashboard"
+            ],
+            "orb_statement": "Core pages share 100.0% identical content signatures."
+          }
+        ],
+        "duplicated_titles": [
+          {
+            "title": "true mark mint engine",
+            "count": 13
+          }
+        ],
+        "duplicated_meta_descriptions": [
+          {
+            "meta_description": "deterministic forensic minting for permanent digital authorship, provenance, and trusted verification.",
+            "count": 13
+          }
+        ]
+      }
+    },
+    "created_at": "2026-06-14T21:28:04.760521",
+    "start_time": "2026-06-14T21:28:04.760521",
+    "end_time": "2026-06-14T21:28:14.346952",
+    "pages_crawled": 13,
+    "pages_found": 13,
+    "errors_count": 0,
+    "stats": {
+      "total_pages": 13,
+      "visited_urls": 13,
+      "sitemap_urls_found": 13,
+      "has_robots_txt": true,
+      "has_sitemap": true,
+      "avg_load_time": 169.4183166210468,
+      "ssl_pages": 13,
+      "indexable_pages": 13,
+      "duplicate_content_pages": 13,
+      "total_images": 0,
+      "images_missing_alt": 0,
+      "total_internal_links": 0,
+      "total_external_links": 0,
+      "schema_pages": 0,
+      "schema_errors": 0,
+      "semantic_thin_pages": 13,
+      "internal_link_edges": 0,
+      "avg_orb_semantic_score": 48.0,
+      "low_orb_semantic_pages": 13,
+      "avg_mobile_ux_score": 100.0,
+      "mobile_ux_problem_pages": 0,
+      "discovered_urls": 13,
+      "pages_skipped_estimate": 0,
+      "sitemap_indexes_found": 1,
+      "queue_exhausted": true,
+      "max_page_limit_hit": false,
+      "depth_limit_hit": false,
+      "depth_limit_hits": 0,
+      "max_pages_configured": 500,
+      "max_depth_configured": 8,
+      "host_normalization": {
+        "input_host": "truemarkmint.com",
+        "canonical_host_key": "truemarkmint.com",
+        "www_equivalent": true
+      }
+    },
+    "historical": {
+      "has_previous": false,
+      "deltas": {}
+    },
+    "trend_model": {
+      "snapshots": [
+        {
+          "crawl_id": "current",
+          "date": "2026-06-14T21:28:14.346328",
+          "stats": {
+            "total_pages": 13,
+            "visited_urls": 13,
+            "sitemap_urls_found": 13,
+            "has_robots_txt": true,
+            "has_sitemap": true,
+            "avg_load_time": 169.4183166210468,
+            "ssl_pages": 13,
+            "indexable_pages": 13,
+            "duplicate_content_pages": 13,
+            "total_images": 0,
+            "images_missing_alt": 0,
+            "total_internal_links": 0,
+            "total_external_links": 0,
+            "schema_pages": 0,
+            "schema_errors": 0,
+            "semantic_thin_pages": 13,
+            "internal_link_edges": 0,
+            "avg_orb_semantic_score": 48.0,
+            "low_orb_semantic_pages": 13,
+            "avg_mobile_ux_score": 100.0,
+            "mobile_ux_problem_pages": 0,
+            "discovered_urls": 13,
+            "pages_skipped_estimate": 0,
+            "sitemap_indexes_found": 1,
+            "queue_exhausted": true,
+            "max_page_limit_hit": false,
+            "depth_limit_hit": false,
+            "depth_limit_hits": 0,
+            "max_pages_configured": 500,
+            "max_depth_configured": 8,
+            "host_normalization": {
+              "input_host": "truemarkmint.com",
+              "canonical_host_key": "truemarkmint.com",
+              "www_equivalent": true
+            }
+          }
+        }
+      ],
+      "metrics": {
+        "avg_orb_semantic_score": {
+          "rolling_average": 48.0,
+          "slope": 0,
+          "anomaly": false,
+          "expected_next_month": 48.0,
+          "seasonality": "insufficient_data"
+        },
+        "avg_mobile_ux_score": {
+          "rolling_average": 100.0,
+          "slope": 0,
+          "anomaly": false,
+          "expected_next_month": 100.0,
+          "seasonality": "insufficient_data"
+        },
+        "schema_pages": {
+          "rolling_average": 0.0,
+          "slope": 0,
+          "anomaly": false,
+          "expected_next_month": 0.0,
+          "seasonality": "insufficient_data"
+        },
+        "low_orb_semantic_pages": {
+          "rolling_average": 13.0,
+          "slope": 0,
+          "anomaly": false,
+          "expected_next_month": 13.0,
+          "seasonality": "insufficient_data"
+        },
+        "mobile_ux_problem_pages": {
+          "rolling_average": 0.0,
+          "slope": 0,
+          "anomaly": false,
+          "expected_next_month": 0.0,
+          "seasonality": "insufficient_data"
+        }
+      }
+    },
+    "internal_link_graph": {
+      "nodes": [
+        {
+          "url": "https://truemarkmint.com",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/mint",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/demo-mint",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/cart",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/checkout",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/about",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/alpha-certsig",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/contact",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/login",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/signup",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/admin/login",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/pricing",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/admin/dashboard",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        }
+      ],
+      "edges": [],
+      "orphan_candidates": [
+        {
+          "url": "https://truemarkmint.com",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/mint",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/demo-mint",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/cart",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/checkout",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/about",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/alpha-certsig",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/contact",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/login",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/signup",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/admin/login",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/pricing",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://truemarkmint.com/admin/dashboard",
+          "title": "True Mark Mint Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        }
+      ]
+    },
+    "authority_flow": {
+      "pages": [
+        {
+          "url": "https://truemarkmint.com",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "core"
+        },
+        {
+          "url": "https://truemarkmint.com/mint",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/demo-mint",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/cart",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/checkout",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/about",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/alpha-certsig",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/contact",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/login",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/signup",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/admin/login",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/pricing",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/admin/dashboard",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        }
+      ],
+      "segments": {
+        "core": {
+          "avg_authority": 1.1538,
+          "pages": 1
+        },
+        "other": {
+          "avg_authority": 1.1538,
+          "pages": 12
+        }
+      },
+      "insights": []
+    },
+    "knowledge_graph": {
+      "nodes": [
+        {
+          "id": "https://truemarkmint.com",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com"
+        },
+        {
+          "id": "entity:True Mark Mint Engine",
+          "label": "True Mark Mint Engine",
+          "type": "entity"
+        },
+        {
+          "id": "person:True Mark Mint Engine",
+          "label": "True Mark Mint Engine",
+          "type": "person"
+        },
+        {
+          "id": "https://truemarkmint.com/mint",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/mint"
+        },
+        {
+          "id": "https://truemarkmint.com/demo-mint",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/demo-mint"
+        },
+        {
+          "id": "https://truemarkmint.com/cart",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/cart"
+        },
+        {
+          "id": "https://truemarkmint.com/checkout",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/checkout"
+        },
+        {
+          "id": "https://truemarkmint.com/about",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/about"
+        },
+        {
+          "id": "https://truemarkmint.com/alpha-certsig",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/alpha-certsig"
+        },
+        {
+          "id": "https://truemarkmint.com/contact",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/contact"
+        },
+        {
+          "id": "https://truemarkmint.com/login",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/login"
+        },
+        {
+          "id": "https://truemarkmint.com/signup",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/signup"
+        },
+        {
+          "id": "https://truemarkmint.com/admin/login",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/admin/login"
+        },
+        {
+          "id": "https://truemarkmint.com/pricing",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/pricing"
+        },
+        {
+          "id": "https://truemarkmint.com/admin/dashboard",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/admin/dashboard"
+        }
+      ],
+      "edges": [
+        {
+          "source": "https://truemarkmint.com",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/mint",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/mint",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/demo-mint",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/demo-mint",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/cart",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/cart",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/checkout",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/checkout",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/about",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/about",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/alpha-certsig",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/alpha-certsig",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/contact",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/contact",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/login",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/login",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/signup",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/signup",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/admin/login",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/admin/login",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/pricing",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/pricing",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/admin/dashboard",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/admin/dashboard",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        }
+      ],
+      "hubs": [
+        {
+          "id": "entity:True Mark Mint Engine",
+          "label": "True Mark Mint Engine",
+          "mentions": 13
+        },
+        {
+          "id": "person:True Mark Mint Engine",
+          "label": "True Mark Mint Engine",
+          "mentions": 13
+        }
+      ],
+      "topic_clusters": [
+        {
+          "topic": "true",
+          "pages": [
+            "https://truemarkmint.com",
+            "https://truemarkmint.com/mint",
+            "https://truemarkmint.com/demo-mint",
+            "https://truemarkmint.com/cart",
+            "https://truemarkmint.com/checkout",
+            "https://truemarkmint.com/about",
+            "https://truemarkmint.com/alpha-certsig",
+            "https://truemarkmint.com/contact",
+            "https://truemarkmint.com/login",
+            "https://truemarkmint.com/signup",
+            "https://truemarkmint.com/admin/login",
+            "https://truemarkmint.com/pricing",
+            "https://truemarkmint.com/admin/dashboard"
+          ],
+          "page_count": 13
+        }
+      ],
+      "missing_pillar_pages": [],
+      "internal_linking_suggestions": []
+    },
+    "competitors": [],
+    "competitor_gap": {
+      "missing_topics": [],
+      "missing_entities": [],
+      "missing_questions": [
+        "Add explicit question-led headings for competitor-covered topics"
+      ],
+      "missing_schema_types": [],
+      "missing_internal_link_hubs": []
+    },
+    "template_detection": {
+      "repeated_layouts": [
+        {
+          "signature": "57560be9b158a7e0266155cdf6da3bbe",
+          "page_count": 13,
+          "duplicate_text_probability": 100.0,
+          "pages": [
+            "https://truemarkmint.com",
+            "https://truemarkmint.com/mint",
+            "https://truemarkmint.com/demo-mint",
+            "https://truemarkmint.com/cart",
+            "https://truemarkmint.com/checkout",
+            "https://truemarkmint.com/about",
+            "https://truemarkmint.com/alpha-certsig",
+            "https://truemarkmint.com/contact",
+            "https://truemarkmint.com/login",
+            "https://truemarkmint.com/signup",
+            "https://truemarkmint.com/admin/login",
+            "https://truemarkmint.com/pricing",
+            "https://truemarkmint.com/admin/dashboard"
+          ],
+          "orb_statement": "Core pages share 100.0% identical content signatures."
+        }
+      ],
+      "duplicated_titles": [
+        {
+          "title": "true mark mint engine",
+          "count": 13
+        }
+      ],
+      "duplicated_meta_descriptions": [
+        {
+          "meta_description": "deterministic forensic minting for permanent digital authorship, provenance, and trusted verification.",
+          "count": 13
+        }
+      ]
+    },
+    "error": null,
+    "pages": [
+      {
+        "url": "https://truemarkmint.com",
+        "title": "True Mark Mint Engine",
+        "meta_description": "Deterministic forensic minting for permanent digital authorship, provenance, and trusted verification.",
+        "h1": null,
+        "h2_tags": [],
+        "word_count": 4,
+        "status_code": 200,
+        "load_time_ms": 120.6972599029541,
+        "canonical_url": "https://true-mark.spruked.com/",
+        "robots_meta": "index, follow",
+        "schema_markup": [],
+        "internal_links": 0,
+        "external_links": 0,
+        "images_count": 0,
+        "images_without_alt": 0,
+        "ssl_enabled": true,
+        "content_hash": "f308129f4054e0d5cde057160ab9ba69",
+        "is_indexable": true,
+        "has_sitemap": true,
+        "has_robots_txt": true,
+        "mobile_viewport": true,
+        "open_graph": {},
+        "twitter_cards": {},
+        "heading_structure": [],
+        "duplicate_content_risk": false,
+        "semantic_analysis": {
+          "top_terms": [
+            {
+              "term": "true",
+              "count": 1
+            },
+            {
+              "term": "mark",
+              "count": 1
+            },
+            {
+              "term": "mint",
+              "count": 1
+            },
+            {
+              "term": "engine",
+              "count": 1
+            }
+          ],
+          "top_phrases": [],
+          "unique_term_ratio": 100.0,
+          "avg_sentence_words": 4.0,
+          "heading_term_overlap": [
+            "true",
+            "mark",
+            "mint",
+            "engine"
+          ],
+          "question_count": 0,
+          "semantic_depth": "thin",
+          "orb_semantic_score": {
+            "overall": 48,
+            "topical_completeness": 100,
+            "semantic_depth": 45,
+            "entity_coverage": 8,
+            "question_answer_density": 0,
+            "readability_expertise_balance": 52,
+            "topic": "True Mark Mint Engine",
+            "expected_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "covered_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "entities": [
+              "True Mark Mint Engine"
+            ],
+            "reasoning_statement": "Your article covers 48% of the expected semantic space for 'True Mark Mint Engine'."
+          }
+        },
+        "schema_analysis": {
+          "count": 0,
+          "types": [],
+          "json_ld_count": 0,
+          "microdata_count": 0,
+          "invalid_count": 0,
+          "errors": [],
+          "recommended_missing": [
+            "Article",
+            "BreadcrumbList",
+            "FAQPage",
+            "Organization",
+            "Product"
+          ]
+        },
+        "internal_link_targets": [],
+        "entity_analysis": {
+          "named_entities": [
+            "True Mark Mint Engine"
+          ],
+          "people": [
+            "True Mark Mint Engine"
+          ],
+          "organizations": [],
+          "locations": [],
+          "product_names": [],
+          "schema_org_entities": [],
+          "source": "deterministic-local"
+        },
+        "mobile_ux_analysis": {
+          "score": 100,
+          "viewport_scaling": "responsive",
+          "tap_target_count": 0,
+          "small_tap_targets": 0,
+          "font_rules_checked": 0,
+          "small_font_rules": 0,
+          "mobile_cls_risk_elements": 0,
+          "screenshot_capture": "not_configured"
+        },
+        "template_signature": "57560be9b158a7e0266155cdf6da3bbe",
+        "crawl_depth": 0
+      },
+      {
+        "url": "https://truemarkmint.com/mint",
+        "title": "True Mark Mint Engine",
+        "meta_description": "Deterministic forensic minting for permanent digital authorship, provenance, and trusted verification.",
+        "h1": null,
+        "h2_tags": [],
+        "word_count": 4,
+        "status_code": 200,
+        "load_time_ms": 116.92452430725098,
+        "canonical_url": "https://true-mark.spruked.com/",
+        "robots_meta": "index, follow",
+        "schema_markup": [],
+        "internal_links": 0,
+        "external_links": 0,
+        "images_count": 0,
+        "images_without_alt": 0,
+        "ssl_enabled": true,
+        "content_hash": "f308129f4054e0d5cde057160ab9ba69",
+        "is_indexable": true,
+        "has_sitemap": true,
+        "has_robots_txt": true,
+        "mobile_viewport": true,
+        "open_graph": {},
+        "twitter_cards": {},
+        "heading_structure": [],
+        "duplicate_content_risk": false,
+        "semantic_analysis": {
+          "top_terms": [
+            {
+              "term": "true",
+              "count": 1
+            },
+            {
+              "term": "mark",
+              "count": 1
+            },
+            {
+              "term": "mint",
+              "count": 1
+            },
+            {
+              "term": "engine",
+              "count": 1
+            }
+          ],
+          "top_phrases": [],
+          "unique_term_ratio": 100.0,
+          "avg_sentence_words": 4.0,
+          "heading_term_overlap": [
+            "true",
+            "mark",
+            "mint",
+            "engine"
+          ],
+          "question_count": 0,
+          "semantic_depth": "thin",
+          "orb_semantic_score": {
+            "overall": 48,
+            "topical_completeness": 100,
+            "semantic_depth": 45,
+            "entity_coverage": 8,
+            "question_answer_density": 0,
+            "readability_expertise_balance": 52,
+            "topic": "True Mark Mint Engine",
+            "expected_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "covered_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "entities": [
+              "True Mark Mint Engine"
+            ],
+            "reasoning_statement": "Your article covers 48% of the expected semantic space for 'True Mark Mint Engine'."
+          }
+        },
+        "schema_analysis": {
+          "count": 0,
+          "types": [],
+          "json_ld_count": 0,
+          "microdata_count": 0,
+          "invalid_count": 0,
+          "errors": [],
+          "recommended_missing": [
+            "Article",
+            "BreadcrumbList",
+            "FAQPage",
+            "Organization",
+            "Product"
+          ]
+        },
+        "internal_link_targets": [],
+        "entity_analysis": {
+          "named_entities": [
+            "True Mark Mint Engine"
+          ],
+          "people": [
+            "True Mark Mint Engine"
+          ],
+          "organizations": [],
+          "locations": [],
+          "product_names": [],
+          "schema_org_entities": [],
+          "source": "deterministic-local"
+        },
+        "mobile_ux_analysis": {
+          "score": 100,
+          "viewport_scaling": "responsive",
+          "tap_target_count": 0,
+          "small_tap_targets": 0,
+          "font_rules_checked": 0,
+          "small_font_rules": 0,
+          "mobile_cls_risk_elements": 0,
+          "screenshot_capture": "not_configured"
+        },
+        "template_signature": "57560be9b158a7e0266155cdf6da3bbe",
+        "crawl_depth": 0
+      },
+      {
+        "url": "https://truemarkmint.com/demo-mint",
+        "title": "True Mark Mint Engine",
+        "meta_description": "Deterministic forensic minting for permanent digital authorship, provenance, and trusted verification.",
+        "h1": null,
+        "h2_tags": [],
+        "word_count": 4,
+        "status_code": 200,
+        "load_time_ms": 113.1889820098877,
+        "canonical_url": "https://true-mark.spruked.com/",
+        "robots_meta": "index, follow",
+        "schema_markup": [],
+        "internal_links": 0,
+        "external_links": 0,
+        "images_count": 0,
+        "images_without_alt": 0,
+        "ssl_enabled": true,
+        "content_hash": "f308129f4054e0d5cde057160ab9ba69",
+        "is_indexable": true,
+        "has_sitemap": true,
+        "has_robots_txt": true,
+        "mobile_viewport": true,
+        "open_graph": {},
+        "twitter_cards": {},
+        "heading_structure": [],
+        "duplicate_content_risk": false,
+        "semantic_analysis": {
+          "top_terms": [
+            {
+              "term": "true",
+              "count": 1
+            },
+            {
+              "term": "mark",
+              "count": 1
+            },
+            {
+              "term": "mint",
+              "count": 1
+            },
+            {
+              "term": "engine",
+              "count": 1
+            }
+          ],
+          "top_phrases": [],
+          "unique_term_ratio": 100.0,
+          "avg_sentence_words": 4.0,
+          "heading_term_overlap": [
+            "true",
+            "mark",
+            "mint",
+            "engine"
+          ],
+          "question_count": 0,
+          "semantic_depth": "thin",
+          "orb_semantic_score": {
+            "overall": 48,
+            "topical_completeness": 100,
+            "semantic_depth": 45,
+            "entity_coverage": 8,
+            "question_answer_density": 0,
+            "readability_expertise_balance": 52,
+            "topic": "True Mark Mint Engine",
+            "expected_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "covered_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "entities": [
+              "True Mark Mint Engine"
+            ],
+            "reasoning_statement": "Your article covers 48% of the expected semantic space for 'True Mark Mint Engine'."
+          }
+        },
+        "schema_analysis": {
+          "count": 0,
+          "types": [],
+          "json_ld_count": 0,
+          "microdata_count": 0,
+          "invalid_count": 0,
+          "errors": [],
+          "recommended_missing": [
+            "Article",
+            "BreadcrumbList",
+            "FAQPage",
+            "Organization",
+            "Product"
+          ]
+        },
+        "internal_link_targets": [],
+        "entity_analysis": {
+          "named_entities": [
+            "True Mark Mint Engine"
+          ],
+          "people": [
+            "True Mark Mint Engine"
+          ],
+          "organizations": [],
+          "locations": [],
+          "product_names": [],
+          "schema_org_entities": [],
+          "source": "deterministic-local"
+        },
+        "mobile_ux_analysis": {
+          "score": 100,
+          "viewport_scaling": "responsive",
+          "tap_target_count": 0,
+          "small_tap_targets": 0,
+          "font_rules_checked": 0,
+          "small_font_rules": 0,
+          "mobile_cls_risk_elements": 0,
+          "screenshot_capture": "not_configured"
+        },
+        "template_signature": "57560be9b158a7e0266155cdf6da3bbe",
+        "crawl_depth": 0
+      },
+      {
+        "url": "https://truemarkmint.com/cart",
+        "title": "True Mark Mint Engine",
+        "meta_description": "Deterministic forensic minting for permanent digital authorship, provenance, and trusted verification.",
+        "h1": null,
+        "h2_tags": [],
+        "word_count": 4,
+        "status_code": 200,
+        "load_time_ms": 133.0111026763916,
+        "canonical_url": "https://true-mark.spruked.com/",
+        "robots_meta": "index, follow",
+        "schema_markup": [],
+        "internal_links": 0,
+        "external_links": 0,
+        "images_count": 0,
+        "images_without_alt": 0,
+        "ssl_enabled": true,
+        "content_hash": "f308129f4054e0d5cde057160ab9ba69",
+        "is_indexable": true,
+        "has_sitemap": true,
+        "has_robots_txt": true,
+        "mobile_viewport": true,
+        "open_graph": {},
+        "twitter_cards": {},
+        "heading_structure": [],
+        "duplicate_content_risk": false,
+        "semantic_analysis": {
+          "top_terms": [
+            {
+              "term": "true",
+              "count": 1
+            },
+            {
+              "term": "mark",
+              "count": 1
+            },
+            {
+              "term": "mint",
+              "count": 1
+            },
+            {
+              "term": "engine",
+              "count": 1
+            }
+          ],
+          "top_phrases": [],
+          "unique_term_ratio": 100.0,
+          "avg_sentence_words": 4.0,
+          "heading_term_overlap": [
+            "true",
+            "mark",
+            "mint",
+            "engine"
+          ],
+          "question_count": 0,
+          "semantic_depth": "thin",
+          "orb_semantic_score": {
+            "overall": 48,
+            "topical_completeness": 100,
+            "semantic_depth": 45,
+            "entity_coverage": 8,
+            "question_answer_density": 0,
+            "readability_expertise_balance": 52,
+            "topic": "True Mark Mint Engine",
+            "expected_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "covered_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "entities": [
+              "True Mark Mint Engine"
+            ],
+            "reasoning_statement": "Your article covers 48% of the expected semantic space for 'True Mark Mint Engine'."
+          }
+        },
+        "schema_analysis": {
+          "count": 0,
+          "types": [],
+          "json_ld_count": 0,
+          "microdata_count": 0,
+          "invalid_count": 0,
+          "errors": [],
+          "recommended_missing": [
+            "Article",
+            "BreadcrumbList",
+            "FAQPage",
+            "Organization",
+            "Product"
+          ]
+        },
+        "internal_link_targets": [],
+        "entity_analysis": {
+          "named_entities": [
+            "True Mark Mint Engine"
+          ],
+          "people": [
+            "True Mark Mint Engine"
+          ],
+          "organizations": [],
+          "locations": [],
+          "product_names": [],
+          "schema_org_entities": [],
+          "source": "deterministic-local"
+        },
+        "mobile_ux_analysis": {
+          "score": 100,
+          "viewport_scaling": "responsive",
+          "tap_target_count": 0,
+          "small_tap_targets": 0,
+          "font_rules_checked": 0,
+          "small_font_rules": 0,
+          "mobile_cls_risk_elements": 0,
+          "screenshot_capture": "not_configured"
+        },
+        "template_signature": "57560be9b158a7e0266155cdf6da3bbe",
+        "crawl_depth": 0
+      },
+      {
+        "url": "https://truemarkmint.com/checkout",
+        "title": "True Mark Mint Engine",
+        "meta_description": "Deterministic forensic minting for permanent digital authorship, provenance, and trusted verification.",
+        "h1": null,
+        "h2_tags": [],
+        "word_count": 4,
+        "status_code": 200,
+        "load_time_ms": 164.86740112304688,
+        "canonical_url": "https://true-mark.spruked.com/",
+        "robots_meta": "index, follow",
+        "schema_markup": [],
+        "internal_links": 0,
+        "external_links": 0,
+        "images_count": 0,
+        "images_without_alt": 0,
+        "ssl_enabled": true,
+        "content_hash": "f308129f4054e0d5cde057160ab9ba69",
+        "is_indexable": true,
+        "has_sitemap": true,
+        "has_robots_txt": true,
+        "mobile_viewport": true,
+        "open_graph": {},
+        "twitter_cards": {},
+        "heading_structure": [],
+        "duplicate_content_risk": false,
+        "semantic_analysis": {
+          "top_terms": [
+            {
+              "term": "true",
+              "count": 1
+            },
+            {
+              "term": "mark",
+              "count": 1
+            },
+            {
+              "term": "mint",
+              "count": 1
+            },
+            {
+              "term": "engine",
+              "count": 1
+            }
+          ],
+          "top_phrases": [],
+          "unique_term_ratio": 100.0,
+          "avg_sentence_words": 4.0,
+          "heading_term_overlap": [
+            "true",
+            "mark",
+            "mint",
+            "engine"
+          ],
+          "question_count": 0,
+          "semantic_depth": "thin",
+          "orb_semantic_score": {
+            "overall": 48,
+            "topical_completeness": 100,
+            "semantic_depth": 45,
+            "entity_coverage": 8,
+            "question_answer_density": 0,
+            "readability_expertise_balance": 52,
+            "topic": "True Mark Mint Engine",
+            "expected_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "covered_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "entities": [
+              "True Mark Mint Engine"
+            ],
+            "reasoning_statement": "Your article covers 48% of the expected semantic space for 'True Mark Mint Engine'."
+          }
+        },
+        "schema_analysis": {
+          "count": 0,
+          "types": [],
+          "json_ld_count": 0,
+          "microdata_count": 0,
+          "invalid_count": 0,
+          "errors": [],
+          "recommended_missing": [
+            "Article",
+            "BreadcrumbList",
+            "FAQPage",
+            "Organization",
+            "Product"
+          ]
+        },
+        "internal_link_targets": [],
+        "entity_analysis": {
+          "named_entities": [
+            "True Mark Mint Engine"
+          ],
+          "people": [
+            "True Mark Mint Engine"
+          ],
+          "organizations": [],
+          "locations": [],
+          "product_names": [],
+          "schema_org_entities": [],
+          "source": "deterministic-local"
+        },
+        "mobile_ux_analysis": {
+          "score": 100,
+          "viewport_scaling": "responsive",
+          "tap_target_count": 0,
+          "small_tap_targets": 0,
+          "font_rules_checked": 0,
+          "small_font_rules": 0,
+          "mobile_cls_risk_elements": 0,
+          "screenshot_capture": "not_configured"
+        },
+        "template_signature": "57560be9b158a7e0266155cdf6da3bbe",
+        "crawl_depth": 0
+      },
+      {
+        "url": "https://truemarkmint.com/about",
+        "title": "True Mark Mint Engine",
+        "meta_description": "Deterministic forensic minting for permanent digital authorship, provenance, and trusted verification.",
+        "h1": null,
+        "h2_tags": [],
+        "word_count": 4,
+        "status_code": 200,
+        "load_time_ms": 142.17233657836914,
+        "canonical_url": "https://true-mark.spruked.com/",
+        "robots_meta": "index, follow",
+        "schema_markup": [],
+        "internal_links": 0,
+        "external_links": 0,
+        "images_count": 0,
+        "images_without_alt": 0,
+        "ssl_enabled": true,
+        "content_hash": "f308129f4054e0d5cde057160ab9ba69",
+        "is_indexable": true,
+        "has_sitemap": true,
+        "has_robots_txt": true,
+        "mobile_viewport": true,
+        "open_graph": {},
+        "twitter_cards": {},
+        "heading_structure": [],
+        "duplicate_content_risk": false,
+        "semantic_analysis": {
+          "top_terms": [
+            {
+              "term": "true",
+              "count": 1
+            },
+            {
+              "term": "mark",
+              "count": 1
+            },
+            {
+              "term": "mint",
+              "count": 1
+            },
+            {
+              "term": "engine",
+              "count": 1
+            }
+          ],
+          "top_phrases": [],
+          "unique_term_ratio": 100.0,
+          "avg_sentence_words": 4.0,
+          "heading_term_overlap": [
+            "true",
+            "mark",
+            "mint",
+            "engine"
+          ],
+          "question_count": 0,
+          "semantic_depth": "thin",
+          "orb_semantic_score": {
+            "overall": 48,
+            "topical_completeness": 100,
+            "semantic_depth": 45,
+            "entity_coverage": 8,
+            "question_answer_density": 0,
+            "readability_expertise_balance": 52,
+            "topic": "True Mark Mint Engine",
+            "expected_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "covered_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "entities": [
+              "True Mark Mint Engine"
+            ],
+            "reasoning_statement": "Your article covers 48% of the expected semantic space for 'True Mark Mint Engine'."
+          }
+        },
+        "schema_analysis": {
+          "count": 0,
+          "types": [],
+          "json_ld_count": 0,
+          "microdata_count": 0,
+          "invalid_count": 0,
+          "errors": [],
+          "recommended_missing": [
+            "Article",
+            "BreadcrumbList",
+            "FAQPage",
+            "Organization",
+            "Product"
+          ]
+        },
+        "internal_link_targets": [],
+        "entity_analysis": {
+          "named_entities": [
+            "True Mark Mint Engine"
+          ],
+          "people": [
+            "True Mark Mint Engine"
+          ],
+          "organizations": [],
+          "locations": [],
+          "product_names": [],
+          "schema_org_entities": [],
+          "source": "deterministic-local"
+        },
+        "mobile_ux_analysis": {
+          "score": 100,
+          "viewport_scaling": "responsive",
+          "tap_target_count": 0,
+          "small_tap_targets": 0,
+          "font_rules_checked": 0,
+          "small_font_rules": 0,
+          "mobile_cls_risk_elements": 0,
+          "screenshot_capture": "not_configured"
+        },
+        "template_signature": "57560be9b158a7e0266155cdf6da3bbe",
+        "crawl_depth": 0
+      },
+      {
+        "url": "https://truemarkmint.com/alpha-certsig",
+        "title": "True Mark Mint Engine",
+        "meta_description": "Deterministic forensic minting for permanent digital authorship, provenance, and trusted verification.",
+        "h1": null,
+        "h2_tags": [],
+        "word_count": 4,
+        "status_code": 200,
+        "load_time_ms": 125.58388710021973,
+        "canonical_url": "https://true-mark.spruked.com/",
+        "robots_meta": "index, follow",
+        "schema_markup": [],
+        "internal_links": 0,
+        "external_links": 0,
+        "images_count": 0,
+        "images_without_alt": 0,
+        "ssl_enabled": true,
+        "content_hash": "f308129f4054e0d5cde057160ab9ba69",
+        "is_indexable": true,
+        "has_sitemap": true,
+        "has_robots_txt": true,
+        "mobile_viewport": true,
+        "open_graph": {},
+        "twitter_cards": {},
+        "heading_structure": [],
+        "duplicate_content_risk": false,
+        "semantic_analysis": {
+          "top_terms": [
+            {
+              "term": "true",
+              "count": 1
+            },
+            {
+              "term": "mark",
+              "count": 1
+            },
+            {
+              "term": "mint",
+              "count": 1
+            },
+            {
+              "term": "engine",
+              "count": 1
+            }
+          ],
+          "top_phrases": [],
+          "unique_term_ratio": 100.0,
+          "avg_sentence_words": 4.0,
+          "heading_term_overlap": [
+            "true",
+            "mark",
+            "mint",
+            "engine"
+          ],
+          "question_count": 0,
+          "semantic_depth": "thin",
+          "orb_semantic_score": {
+            "overall": 48,
+            "topical_completeness": 100,
+            "semantic_depth": 45,
+            "entity_coverage": 8,
+            "question_answer_density": 0,
+            "readability_expertise_balance": 52,
+            "topic": "True Mark Mint Engine",
+            "expected_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "covered_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "entities": [
+              "True Mark Mint Engine"
+            ],
+            "reasoning_statement": "Your article covers 48% of the expected semantic space for 'True Mark Mint Engine'."
+          }
+        },
+        "schema_analysis": {
+          "count": 0,
+          "types": [],
+          "json_ld_count": 0,
+          "microdata_count": 0,
+          "invalid_count": 0,
+          "errors": [],
+          "recommended_missing": [
+            "Article",
+            "BreadcrumbList",
+            "FAQPage",
+            "Organization",
+            "Product"
+          ]
+        },
+        "internal_link_targets": [],
+        "entity_analysis": {
+          "named_entities": [
+            "True Mark Mint Engine"
+          ],
+          "people": [
+            "True Mark Mint Engine"
+          ],
+          "organizations": [],
+          "locations": [],
+          "product_names": [],
+          "schema_org_entities": [],
+          "source": "deterministic-local"
+        },
+        "mobile_ux_analysis": {
+          "score": 100,
+          "viewport_scaling": "responsive",
+          "tap_target_count": 0,
+          "small_tap_targets": 0,
+          "font_rules_checked": 0,
+          "small_font_rules": 0,
+          "mobile_cls_risk_elements": 0,
+          "screenshot_capture": "not_configured"
+        },
+        "template_signature": "57560be9b158a7e0266155cdf6da3bbe",
+        "crawl_depth": 0
+      },
+      {
+        "url": "https://truemarkmint.com/contact",
+        "title": "True Mark Mint Engine",
+        "meta_description": "Deterministic forensic minting for permanent digital authorship, provenance, and trusted verification.",
+        "h1": null,
+        "h2_tags": [],
+        "word_count": 4,
+        "status_code": 200,
+        "load_time_ms": 316.41530990600586,
+        "canonical_url": "https://true-mark.spruked.com/",
+        "robots_meta": "index, follow",
+        "schema_markup": [],
+        "internal_links": 0,
+        "external_links": 0,
+        "images_count": 0,
+        "images_without_alt": 0,
+        "ssl_enabled": true,
+        "content_hash": "f308129f4054e0d5cde057160ab9ba69",
+        "is_indexable": true,
+        "has_sitemap": true,
+        "has_robots_txt": true,
+        "mobile_viewport": true,
+        "open_graph": {},
+        "twitter_cards": {},
+        "heading_structure": [],
+        "duplicate_content_risk": false,
+        "semantic_analysis": {
+          "top_terms": [
+            {
+              "term": "true",
+              "count": 1
+            },
+            {
+              "term": "mark",
+              "count": 1
+            },
+            {
+              "term": "mint",
+              "count": 1
+            },
+            {
+              "term": "engine",
+              "count": 1
+            }
+          ],
+          "top_phrases": [],
+          "unique_term_ratio": 100.0,
+          "avg_sentence_words": 4.0,
+          "heading_term_overlap": [
+            "true",
+            "mark",
+            "mint",
+            "engine"
+          ],
+          "question_count": 0,
+          "semantic_depth": "thin",
+          "orb_semantic_score": {
+            "overall": 48,
+            "topical_completeness": 100,
+            "semantic_depth": 45,
+            "entity_coverage": 8,
+            "question_answer_density": 0,
+            "readability_expertise_balance": 52,
+            "topic": "True Mark Mint Engine",
+            "expected_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "covered_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "entities": [
+              "True Mark Mint Engine"
+            ],
+            "reasoning_statement": "Your article covers 48% of the expected semantic space for 'True Mark Mint Engine'."
+          }
+        },
+        "schema_analysis": {
+          "count": 0,
+          "types": [],
+          "json_ld_count": 0,
+          "microdata_count": 0,
+          "invalid_count": 0,
+          "errors": [],
+          "recommended_missing": [
+            "Article",
+            "BreadcrumbList",
+            "FAQPage",
+            "Organization",
+            "Product"
+          ]
+        },
+        "internal_link_targets": [],
+        "entity_analysis": {
+          "named_entities": [
+            "True Mark Mint Engine"
+          ],
+          "people": [
+            "True Mark Mint Engine"
+          ],
+          "organizations": [],
+          "locations": [],
+          "product_names": [],
+          "schema_org_entities": [],
+          "source": "deterministic-local"
+        },
+        "mobile_ux_analysis": {
+          "score": 100,
+          "viewport_scaling": "responsive",
+          "tap_target_count": 0,
+          "small_tap_targets": 0,
+          "font_rules_checked": 0,
+          "small_font_rules": 0,
+          "mobile_cls_risk_elements": 0,
+          "screenshot_capture": "not_configured"
+        },
+        "template_signature": "57560be9b158a7e0266155cdf6da3bbe",
+        "crawl_depth": 0
+      },
+      {
+        "url": "https://truemarkmint.com/login",
+        "title": "True Mark Mint Engine",
+        "meta_description": "Deterministic forensic minting for permanent digital authorship, provenance, and trusted verification.",
+        "h1": null,
+        "h2_tags": [],
+        "word_count": 4,
+        "status_code": 200,
+        "load_time_ms": 135.06412506103516,
+        "canonical_url": "https://true-mark.spruked.com/",
+        "robots_meta": "index, follow",
+        "schema_markup": [],
+        "internal_links": 0,
+        "external_links": 0,
+        "images_count": 0,
+        "images_without_alt": 0,
+        "ssl_enabled": true,
+        "content_hash": "f308129f4054e0d5cde057160ab9ba69",
+        "is_indexable": true,
+        "has_sitemap": true,
+        "has_robots_txt": true,
+        "mobile_viewport": true,
+        "open_graph": {},
+        "twitter_cards": {},
+        "heading_structure": [],
+        "duplicate_content_risk": false,
+        "semantic_analysis": {
+          "top_terms": [
+            {
+              "term": "true",
+              "count": 1
+            },
+            {
+              "term": "mark",
+              "count": 1
+            },
+            {
+              "term": "mint",
+              "count": 1
+            },
+            {
+              "term": "engine",
+              "count": 1
+            }
+          ],
+          "top_phrases": [],
+          "unique_term_ratio": 100.0,
+          "avg_sentence_words": 4.0,
+          "heading_term_overlap": [
+            "true",
+            "mark",
+            "mint",
+            "engine"
+          ],
+          "question_count": 0,
+          "semantic_depth": "thin",
+          "orb_semantic_score": {
+            "overall": 48,
+            "topical_completeness": 100,
+            "semantic_depth": 45,
+            "entity_coverage": 8,
+            "question_answer_density": 0,
+            "readability_expertise_balance": 52,
+            "topic": "True Mark Mint Engine",
+            "expected_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "covered_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "entities": [
+              "True Mark Mint Engine"
+            ],
+            "reasoning_statement": "Your article covers 48% of the expected semantic space for 'True Mark Mint Engine'."
+          }
+        },
+        "schema_analysis": {
+          "count": 0,
+          "types": [],
+          "json_ld_count": 0,
+          "microdata_count": 0,
+          "invalid_count": 0,
+          "errors": [],
+          "recommended_missing": [
+            "Article",
+            "BreadcrumbList",
+            "FAQPage",
+            "Organization",
+            "Product"
+          ]
+        },
+        "internal_link_targets": [],
+        "entity_analysis": {
+          "named_entities": [
+            "True Mark Mint Engine"
+          ],
+          "people": [
+            "True Mark Mint Engine"
+          ],
+          "organizations": [],
+          "locations": [],
+          "product_names": [],
+          "schema_org_entities": [],
+          "source": "deterministic-local"
+        },
+        "mobile_ux_analysis": {
+          "score": 100,
+          "viewport_scaling": "responsive",
+          "tap_target_count": 0,
+          "small_tap_targets": 0,
+          "font_rules_checked": 0,
+          "small_font_rules": 0,
+          "mobile_cls_risk_elements": 0,
+          "screenshot_capture": "not_configured"
+        },
+        "template_signature": "57560be9b158a7e0266155cdf6da3bbe",
+        "crawl_depth": 0
+      },
+      {
+        "url": "https://truemarkmint.com/signup",
+        "title": "True Mark Mint Engine",
+        "meta_description": "Deterministic forensic minting for permanent digital authorship, provenance, and trusted verification.",
+        "h1": null,
+        "h2_tags": [],
+        "word_count": 4,
+        "status_code": 200,
+        "load_time_ms": 131.99782371520996,
+        "canonical_url": "https://true-mark.spruked.com/",
+        "robots_meta": "index, follow",
+        "schema_markup": [],
+        "internal_links": 0,
+        "external_links": 0,
+        "images_count": 0,
+        "images_without_alt": 0,
+        "ssl_enabled": true,
+        "content_hash": "f308129f4054e0d5cde057160ab9ba69",
+        "is_indexable": true,
+        "has_sitemap": true,
+        "has_robots_txt": true,
+        "mobile_viewport": true,
+        "open_graph": {},
+        "twitter_cards": {},
+        "heading_structure": [],
+        "duplicate_content_risk": false,
+        "semantic_analysis": {
+          "top_terms": [
+            {
+              "term": "true",
+              "count": 1
+            },
+            {
+              "term": "mark",
+              "count": 1
+            },
+            {
+              "term": "mint",
+              "count": 1
+            },
+            {
+              "term": "engine",
+              "count": 1
+            }
+          ],
+          "top_phrases": [],
+          "unique_term_ratio": 100.0,
+          "avg_sentence_words": 4.0,
+          "heading_term_overlap": [
+            "true",
+            "mark",
+            "mint",
+            "engine"
+          ],
+          "question_count": 0,
+          "semantic_depth": "thin",
+          "orb_semantic_score": {
+            "overall": 48,
+            "topical_completeness": 100,
+            "semantic_depth": 45,
+            "entity_coverage": 8,
+            "question_answer_density": 0,
+            "readability_expertise_balance": 52,
+            "topic": "True Mark Mint Engine",
+            "expected_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "covered_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "entities": [
+              "True Mark Mint Engine"
+            ],
+            "reasoning_statement": "Your article covers 48% of the expected semantic space for 'True Mark Mint Engine'."
+          }
+        },
+        "schema_analysis": {
+          "count": 0,
+          "types": [],
+          "json_ld_count": 0,
+          "microdata_count": 0,
+          "invalid_count": 0,
+          "errors": [],
+          "recommended_missing": [
+            "Article",
+            "BreadcrumbList",
+            "FAQPage",
+            "Organization",
+            "Product"
+          ]
+        },
+        "internal_link_targets": [],
+        "entity_analysis": {
+          "named_entities": [
+            "True Mark Mint Engine"
+          ],
+          "people": [
+            "True Mark Mint Engine"
+          ],
+          "organizations": [],
+          "locations": [],
+          "product_names": [],
+          "schema_org_entities": [],
+          "source": "deterministic-local"
+        },
+        "mobile_ux_analysis": {
+          "score": 100,
+          "viewport_scaling": "responsive",
+          "tap_target_count": 0,
+          "small_tap_targets": 0,
+          "font_rules_checked": 0,
+          "small_font_rules": 0,
+          "mobile_cls_risk_elements": 0,
+          "screenshot_capture": "not_configured"
+        },
+        "template_signature": "57560be9b158a7e0266155cdf6da3bbe",
+        "crawl_depth": 0
+      },
+      {
+        "url": "https://truemarkmint.com/admin/login",
+        "title": "True Mark Mint Engine",
+        "meta_description": "Deterministic forensic minting for permanent digital authorship, provenance, and trusted verification.",
+        "h1": null,
+        "h2_tags": [],
+        "word_count": 4,
+        "status_code": 200,
+        "load_time_ms": 188.50374221801758,
+        "canonical_url": "https://true-mark.spruked.com/",
+        "robots_meta": "index, follow",
+        "schema_markup": [],
+        "internal_links": 0,
+        "external_links": 0,
+        "images_count": 0,
+        "images_without_alt": 0,
+        "ssl_enabled": true,
+        "content_hash": "f308129f4054e0d5cde057160ab9ba69",
+        "is_indexable": true,
+        "has_sitemap": true,
+        "has_robots_txt": true,
+        "mobile_viewport": true,
+        "open_graph": {},
+        "twitter_cards": {},
+        "heading_structure": [],
+        "duplicate_content_risk": false,
+        "semantic_analysis": {
+          "top_terms": [
+            {
+              "term": "true",
+              "count": 1
+            },
+            {
+              "term": "mark",
+              "count": 1
+            },
+            {
+              "term": "mint",
+              "count": 1
+            },
+            {
+              "term": "engine",
+              "count": 1
+            }
+          ],
+          "top_phrases": [],
+          "unique_term_ratio": 100.0,
+          "avg_sentence_words": 4.0,
+          "heading_term_overlap": [
+            "true",
+            "mark",
+            "mint",
+            "engine"
+          ],
+          "question_count": 0,
+          "semantic_depth": "thin",
+          "orb_semantic_score": {
+            "overall": 48,
+            "topical_completeness": 100,
+            "semantic_depth": 45,
+            "entity_coverage": 8,
+            "question_answer_density": 0,
+            "readability_expertise_balance": 52,
+            "topic": "True Mark Mint Engine",
+            "expected_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "covered_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "entities": [
+              "True Mark Mint Engine"
+            ],
+            "reasoning_statement": "Your article covers 48% of the expected semantic space for 'True Mark Mint Engine'."
+          }
+        },
+        "schema_analysis": {
+          "count": 0,
+          "types": [],
+          "json_ld_count": 0,
+          "microdata_count": 0,
+          "invalid_count": 0,
+          "errors": [],
+          "recommended_missing": [
+            "Article",
+            "BreadcrumbList",
+            "FAQPage",
+            "Organization",
+            "Product"
+          ]
+        },
+        "internal_link_targets": [],
+        "entity_analysis": {
+          "named_entities": [
+            "True Mark Mint Engine"
+          ],
+          "people": [
+            "True Mark Mint Engine"
+          ],
+          "organizations": [],
+          "locations": [],
+          "product_names": [],
+          "schema_org_entities": [],
+          "source": "deterministic-local"
+        },
+        "mobile_ux_analysis": {
+          "score": 100,
+          "viewport_scaling": "responsive",
+          "tap_target_count": 0,
+          "small_tap_targets": 0,
+          "font_rules_checked": 0,
+          "small_font_rules": 0,
+          "mobile_cls_risk_elements": 0,
+          "screenshot_capture": "not_configured"
+        },
+        "template_signature": "57560be9b158a7e0266155cdf6da3bbe",
+        "crawl_depth": 0
+      },
+      {
+        "url": "https://truemarkmint.com/pricing",
+        "title": "True Mark Mint Engine",
+        "meta_description": "Deterministic forensic minting for permanent digital authorship, provenance, and trusted verification.",
+        "h1": null,
+        "h2_tags": [],
+        "word_count": 4,
+        "status_code": 200,
+        "load_time_ms": 216.6273593902588,
+        "canonical_url": "https://true-mark.spruked.com/",
+        "robots_meta": "index, follow",
+        "schema_markup": [],
+        "internal_links": 0,
+        "external_links": 0,
+        "images_count": 0,
+        "images_without_alt": 0,
+        "ssl_enabled": true,
+        "content_hash": "f308129f4054e0d5cde057160ab9ba69",
+        "is_indexable": true,
+        "has_sitemap": true,
+        "has_robots_txt": true,
+        "mobile_viewport": true,
+        "open_graph": {},
+        "twitter_cards": {},
+        "heading_structure": [],
+        "duplicate_content_risk": false,
+        "semantic_analysis": {
+          "top_terms": [
+            {
+              "term": "true",
+              "count": 1
+            },
+            {
+              "term": "mark",
+              "count": 1
+            },
+            {
+              "term": "mint",
+              "count": 1
+            },
+            {
+              "term": "engine",
+              "count": 1
+            }
+          ],
+          "top_phrases": [],
+          "unique_term_ratio": 100.0,
+          "avg_sentence_words": 4.0,
+          "heading_term_overlap": [
+            "true",
+            "mark",
+            "mint",
+            "engine"
+          ],
+          "question_count": 0,
+          "semantic_depth": "thin",
+          "orb_semantic_score": {
+            "overall": 48,
+            "topical_completeness": 100,
+            "semantic_depth": 45,
+            "entity_coverage": 8,
+            "question_answer_density": 0,
+            "readability_expertise_balance": 52,
+            "topic": "True Mark Mint Engine",
+            "expected_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "covered_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "entities": [
+              "True Mark Mint Engine"
+            ],
+            "reasoning_statement": "Your article covers 48% of the expected semantic space for 'True Mark Mint Engine'."
+          }
+        },
+        "schema_analysis": {
+          "count": 0,
+          "types": [],
+          "json_ld_count": 0,
+          "microdata_count": 0,
+          "invalid_count": 0,
+          "errors": [],
+          "recommended_missing": [
+            "Article",
+            "BreadcrumbList",
+            "FAQPage",
+            "Organization",
+            "Product"
+          ]
+        },
+        "internal_link_targets": [],
+        "entity_analysis": {
+          "named_entities": [
+            "True Mark Mint Engine"
+          ],
+          "people": [
+            "True Mark Mint Engine"
+          ],
+          "organizations": [],
+          "locations": [],
+          "product_names": [],
+          "schema_org_entities": [],
+          "source": "deterministic-local"
+        },
+        "mobile_ux_analysis": {
+          "score": 100,
+          "viewport_scaling": "responsive",
+          "tap_target_count": 0,
+          "small_tap_targets": 0,
+          "font_rules_checked": 0,
+          "small_font_rules": 0,
+          "mobile_cls_risk_elements": 0,
+          "screenshot_capture": "not_configured"
+        },
+        "template_signature": "57560be9b158a7e0266155cdf6da3bbe",
+        "crawl_depth": 0
+      },
+      {
+        "url": "https://truemarkmint.com/admin/dashboard",
+        "title": "True Mark Mint Engine",
+        "meta_description": "Deterministic forensic minting for permanent digital authorship, provenance, and trusted verification.",
+        "h1": null,
+        "h2_tags": [],
+        "word_count": 4,
+        "status_code": 200,
+        "load_time_ms": 297.38426208496094,
+        "canonical_url": "https://true-mark.spruked.com/",
+        "robots_meta": "index, follow",
+        "schema_markup": [],
+        "internal_links": 0,
+        "external_links": 0,
+        "images_count": 0,
+        "images_without_alt": 0,
+        "ssl_enabled": true,
+        "content_hash": "f308129f4054e0d5cde057160ab9ba69",
+        "is_indexable": true,
+        "has_sitemap": true,
+        "has_robots_txt": true,
+        "mobile_viewport": true,
+        "open_graph": {},
+        "twitter_cards": {},
+        "heading_structure": [],
+        "duplicate_content_risk": false,
+        "semantic_analysis": {
+          "top_terms": [
+            {
+              "term": "true",
+              "count": 1
+            },
+            {
+              "term": "mark",
+              "count": 1
+            },
+            {
+              "term": "mint",
+              "count": 1
+            },
+            {
+              "term": "engine",
+              "count": 1
+            }
+          ],
+          "top_phrases": [],
+          "unique_term_ratio": 100.0,
+          "avg_sentence_words": 4.0,
+          "heading_term_overlap": [
+            "true",
+            "mark",
+            "mint",
+            "engine"
+          ],
+          "question_count": 0,
+          "semantic_depth": "thin",
+          "orb_semantic_score": {
+            "overall": 48,
+            "topical_completeness": 100,
+            "semantic_depth": 45,
+            "entity_coverage": 8,
+            "question_answer_density": 0,
+            "readability_expertise_balance": 52,
+            "topic": "True Mark Mint Engine",
+            "expected_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "covered_terms": [
+              "engine",
+              "mark",
+              "mint",
+              "true"
+            ],
+            "entities": [
+              "True Mark Mint Engine"
+            ],
+            "reasoning_statement": "Your article covers 48% of the expected semantic space for 'True Mark Mint Engine'."
+          }
+        },
+        "schema_analysis": {
+          "count": 0,
+          "types": [],
+          "json_ld_count": 0,
+          "microdata_count": 0,
+          "invalid_count": 0,
+          "errors": [],
+          "recommended_missing": [
+            "Article",
+            "BreadcrumbList",
+            "FAQPage",
+            "Organization",
+            "Product"
+          ]
+        },
+        "internal_link_targets": [],
+        "entity_analysis": {
+          "named_entities": [
+            "True Mark Mint Engine"
+          ],
+          "people": [
+            "True Mark Mint Engine"
+          ],
+          "organizations": [],
+          "locations": [],
+          "product_names": [],
+          "schema_org_entities": [],
+          "source": "deterministic-local"
+        },
+        "mobile_ux_analysis": {
+          "score": 100,
+          "viewport_scaling": "responsive",
+          "tap_target_count": 0,
+          "small_tap_targets": 0,
+          "font_rules_checked": 0,
+          "small_font_rules": 0,
+          "mobile_cls_risk_elements": 0,
+          "screenshot_capture": "not_configured"
+        },
+        "template_signature": "57560be9b158a7e0266155cdf6da3bbe",
+        "crawl_depth": 0
+      }
+    ]
+  },
+  "site_lexicon": {
+    "schema": "orb_weaver.site_lexicon.v1",
+    "generated_at": "2026-06-14T21:28:14.545112",
+    "domain": "truemarkmint.com",
+    "project_id": "5",
+    "page_count": 13,
+    "terms": [
+      {
+        "term": "true",
+        "count": 13,
+        "page_coverage": 13
+      },
+      {
+        "term": "mark",
+        "count": 13,
+        "page_coverage": 13
+      },
+      {
+        "term": "mint",
+        "count": 13,
+        "page_coverage": 13
+      },
+      {
+        "term": "engine",
+        "count": 13,
+        "page_coverage": 13
+      }
+    ],
+    "phrases": [],
+    "entities": [
+      {
+        "entity": "True Mark Mint Engine",
+        "count": 13
+      }
+    ],
+    "orb_usage": {
+      "purpose": "site-specific vocabulary for ORB grounding, answer style, content gap review, and Basic ORB deployment planning",
+      "privacy": "client-local; do not append raw client lexicon entries to global intelligence"
+    }
+  },
+  "website_orb_context": {
+    "orb_ready_score": 48.0,
+    "site_lexicon": {
+      "top_terms": [
+        {
+          "term": "true",
+          "count": 13,
+          "page_coverage": 13
+        },
+        {
+          "term": "mark",
+          "count": 13,
+          "page_coverage": 13
+        },
+        {
+          "term": "mint",
+          "count": 13,
+          "page_coverage": 13
+        },
+        {
+          "term": "engine",
+          "count": 13,
+          "page_coverage": 13
+        }
+      ],
+      "top_phrases": [],
+      "top_entities": [
+        {
+          "entity": "True Mark Mint Engine",
+          "count": 13
+        }
+      ]
+    },
+    "authority_flow": {
+      "pages": [
+        {
+          "url": "https://truemarkmint.com",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "core"
+        },
+        {
+          "url": "https://truemarkmint.com/mint",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/demo-mint",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/cart",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/checkout",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/about",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/alpha-certsig",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/contact",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/login",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/signup",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/admin/login",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/pricing",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://truemarkmint.com/admin/dashboard",
+          "title": "True Mark Mint Engine",
+          "authority": 1.1538,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        }
+      ],
+      "segments": {
+        "core": {
+          "avg_authority": 1.1538,
+          "pages": 1
+        },
+        "other": {
+          "avg_authority": 1.1538,
+          "pages": 12
+        }
+      },
+      "insights": []
+    },
+    "knowledge_graph": {
+      "nodes": [
+        {
+          "id": "https://truemarkmint.com",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com"
+        },
+        {
+          "id": "entity:True Mark Mint Engine",
+          "label": "True Mark Mint Engine",
+          "type": "entity"
+        },
+        {
+          "id": "person:True Mark Mint Engine",
+          "label": "True Mark Mint Engine",
+          "type": "person"
+        },
+        {
+          "id": "https://truemarkmint.com/mint",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/mint"
+        },
+        {
+          "id": "https://truemarkmint.com/demo-mint",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/demo-mint"
+        },
+        {
+          "id": "https://truemarkmint.com/cart",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/cart"
+        },
+        {
+          "id": "https://truemarkmint.com/checkout",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/checkout"
+        },
+        {
+          "id": "https://truemarkmint.com/about",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/about"
+        },
+        {
+          "id": "https://truemarkmint.com/alpha-certsig",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/alpha-certsig"
+        },
+        {
+          "id": "https://truemarkmint.com/contact",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/contact"
+        },
+        {
+          "id": "https://truemarkmint.com/login",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/login"
+        },
+        {
+          "id": "https://truemarkmint.com/signup",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/signup"
+        },
+        {
+          "id": "https://truemarkmint.com/admin/login",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/admin/login"
+        },
+        {
+          "id": "https://truemarkmint.com/pricing",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/pricing"
+        },
+        {
+          "id": "https://truemarkmint.com/admin/dashboard",
+          "label": "True Mark Mint Engine",
+          "type": "page",
+          "url": "https://truemarkmint.com/admin/dashboard"
+        }
+      ],
+      "edges": [
+        {
+          "source": "https://truemarkmint.com",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/mint",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/mint",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/demo-mint",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/demo-mint",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/cart",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/cart",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/checkout",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/checkout",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/about",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/about",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/alpha-certsig",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/alpha-certsig",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/contact",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/contact",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/login",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/login",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/signup",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/signup",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/admin/login",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/admin/login",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/pricing",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/pricing",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/admin/dashboard",
+          "target": "entity:True Mark Mint Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://truemarkmint.com/admin/dashboard",
+          "target": "person:True Mark Mint Engine",
+          "relationship": "mentions"
+        }
+      ],
+      "hubs": [
+        {
+          "id": "entity:True Mark Mint Engine",
+          "label": "True Mark Mint Engine",
+          "mentions": 13
+        },
+        {
+          "id": "person:True Mark Mint Engine",
+          "label": "True Mark Mint Engine",
+          "mentions": 13
+        }
+      ],
+      "topic_clusters": [
+        {
+          "topic": "true",
+          "pages": [
+            "https://truemarkmint.com",
+            "https://truemarkmint.com/mint",
+            "https://truemarkmint.com/demo-mint",
+            "https://truemarkmint.com/cart",
+            "https://truemarkmint.com/checkout",
+            "https://truemarkmint.com/about",
+            "https://truemarkmint.com/alpha-certsig",
+            "https://truemarkmint.com/contact",
+            "https://truemarkmint.com/login",
+            "https://truemarkmint.com/signup",
+            "https://truemarkmint.com/admin/login",
+            "https://truemarkmint.com/pricing",
+            "https://truemarkmint.com/admin/dashboard"
+          ],
+          "page_count": 13
+        }
+      ],
+      "missing_pillar_pages": [],
+      "internal_linking_suggestions": []
+    },
+    "competitor_gap": {
+      "missing_topics": [],
+      "missing_entities": [],
+      "missing_questions": [
+        "Add explicit question-led headings for competitor-covered topics"
+      ],
+      "missing_schema_types": [],
+      "missing_internal_link_hubs": []
+    },
+    "template_detection": {
+      "repeated_layouts": [
+        {
+          "signature": "57560be9b158a7e0266155cdf6da3bbe",
+          "page_count": 13,
+          "duplicate_text_probability": 100.0,
+          "pages": [
+            "https://truemarkmint.com",
+            "https://truemarkmint.com/mint",
+            "https://truemarkmint.com/demo-mint",
+            "https://truemarkmint.com/cart",
+            "https://truemarkmint.com/checkout",
+            "https://truemarkmint.com/about",
+            "https://truemarkmint.com/alpha-certsig",
+            "https://truemarkmint.com/contact",
+            "https://truemarkmint.com/login",
+            "https://truemarkmint.com/signup",
+            "https://truemarkmint.com/admin/login",
+            "https://truemarkmint.com/pricing",
+            "https://truemarkmint.com/admin/dashboard"
+          ],
+          "orb_statement": "Core pages share 100.0% identical content signatures."
+        }
+      ],
+      "duplicated_titles": [
+        {
+          "title": "true mark mint engine",
+          "count": 13
+        }
+      ],
+      "duplicated_meta_descriptions": [
+        {
+          "meta_description": "deterministic forensic minting for permanent digital authorship, provenance, and trusted verification.",
+          "count": 13
+        }
+      ]
+    }
+  }
+}

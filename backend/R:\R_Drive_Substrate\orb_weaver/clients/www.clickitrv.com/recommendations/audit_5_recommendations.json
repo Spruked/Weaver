@@ -1,0 +1,195 @@
+{
+  "recommendations": [
+    {
+      "severity": "critical",
+      "category": "security",
+      "title": "Missing SSL/HTTPS",
+      "description": "6 pages are not served over HTTPS",
+      "affected_urls": [
+        "http://www.clickitrv.com/--toy-hauler-deals-finance-specials-spokane-wa-dtw",
+        "http://www.clickitrv.com/--class-a-deals-finance-specials-spokane-wa-dtw",
+        "http://www.clickitrv.com/--class-b-deals-finance-specials-spokane-wa-dtw",
+        "http://www.clickitrv.com/--class-c-deals-finance-specials-spokane-wa-dtw",
+        "http://www.clickitrv.com/--fifth-wheel-deals-finance-specials-spokane-wa-dtw",
+        "http://www.clickitrv.com/--travel-trailer-deals-finance-specials-spokane-wa-dtw"
+      ],
+      "recommendation": "Install SSL certificate and redirect HTTP to HTTPS",
+      "impact_score": 95
+    },
+    {
+      "severity": "critical",
+      "category": "on-page",
+      "title": "Title Tag Issues",
+      "description": "303 pages have missing, too long, or too short title tags",
+      "affected_urls": [
+        "https://www.clickitrv.com/map-hours-directions-rvs-dealership--locations",
+        "https://www.clickitrv.com/--travel-trailer-deals-finance-specials-spokane-wa-dtw",
+        "https://www.clickitrv.com/--xt-xSched_Ride?1=1&fr=xallinventory&oid=18823244&condition=NEW&year=2022&make=Dutchmen&model=2203RB&vtype=Trailer&location=Union+Gap+WA&stockno=300089&vin=4YDTAAK28NM917022",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=18628654&condition=USED&year=2022&make=Grand+Design&model=Imagine+XLS+17MKE&vtype=Trailer&trimid=17227571&location=Union+Gap+WA&stockno=B2103&vin=573TE2220N3424057",
+        "https://www.clickitrv.com/--xt-xInquiry?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622",
+        "https://www.clickitrv.com/--xInventoryDetail?1=1&fr=xallinventory&oid=18823244&condition=NEW&year=2022&make=Dutchmen&model=2203RB&vtype=Trailer&location=Union+Gap+WA&stockno=300089&vin=4YDTAAK28NM917022&format=print",
+        "https://www.clickitrv.com/--xt-xInquiry?1=1&fr=xallinventory&oid=18628654&condition=USED&year=2022&make=Grand+Design&model=Imagine+XLS+17MKE&vtype=Trailer&trimid=17227571&location=Union+Gap+WA&stockno=B2103&vin=573TE2220N3424057",
+        "https://www.clickitrv.com/--xInventoryDetail?1=1&fr=xallinventory&oid=16752553&condition=USED&year=2022&make=Thor+Motor+Coach&model=Four+Winds%C2%AE+31WV&vtype=Motorhome&trimid=18259921&location=Union+Gap+WA&stockno=Y2213A&vin=1FDXE4FN2NDC02893&format=print",
+        "https://www.clickitrv.com/--xt-xSched_Ride?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622"
+      ],
+      "recommendation": "Ensure every page has a unique title tag between 10-60 characters",
+      "impact_score": 85
+    },
+    {
+      "severity": "critical",
+      "category": "technical",
+      "title": "Missing Mobile Viewport",
+      "description": "281 pages lack mobile viewport meta tag",
+      "affected_urls": [
+        "https://www.clickitrv.com/--xt-xSched_Ride?1=1&fr=xallinventory&oid=18823244&condition=NEW&year=2022&make=Dutchmen&model=2203RB&vtype=Trailer&location=Union+Gap+WA&stockno=300089&vin=4YDTAAK28NM917022",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=18628654&condition=USED&year=2022&make=Grand+Design&model=Imagine+XLS+17MKE&vtype=Trailer&trimid=17227571&location=Union+Gap+WA&stockno=B2103&vin=573TE2220N3424057",
+        "https://www.clickitrv.com/--xt-xInquiry?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622",
+        "https://www.clickitrv.com/--xInventoryDetail?1=1&fr=xallinventory&oid=18823244&condition=NEW&year=2022&make=Dutchmen&model=2203RB&vtype=Trailer&location=Union+Gap+WA&stockno=300089&vin=4YDTAAK28NM917022&format=print",
+        "https://www.clickitrv.com/--xt-xInquiry?1=1&fr=xallinventory&oid=18628654&condition=USED&year=2022&make=Grand+Design&model=Imagine+XLS+17MKE&vtype=Trailer&trimid=17227571&location=Union+Gap+WA&stockno=B2103&vin=573TE2220N3424057",
+        "https://www.clickitrv.com/--xInventoryDetail?1=1&fr=xallinventory&oid=16752553&condition=USED&year=2022&make=Thor+Motor+Coach&model=Four+Winds%C2%AE+31WV&vtype=Motorhome&trimid=18259921&location=Union+Gap+WA&stockno=Y2213A&vin=1FDXE4FN2NDC02893&format=print",
+        "https://www.clickitrv.com/--xt-xSched_Ride?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622",
+        "https://www.clickitrv.com/--xt-xContact?1=1&fr=xallinventory&oid=18628654&condition=USED&year=2022&make=Grand+Design&model=Imagine+XLS+17MKE&vtype=Trailer&trimid=17227571&location=Union+Gap+WA&stockno=B2103&vin=573TE2220N3424057",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=18823244&condition=NEW&year=2022&make=Dutchmen&model=2203RB&vtype=Trailer&location=Union+Gap+WA&stockno=300089&vin=4YDTAAK28NM917022"
+      ],
+      "recommendation": "Add <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+      "impact_score": 85
+    },
+    {
+      "severity": "critical",
+      "category": "on-page",
+      "title": "Missing H1 Tags",
+      "description": "56 pages are missing H1 headings",
+      "affected_urls": [
+        "https://www.clickitrv.com",
+        "https://www.clickitrv.com/payment-calculator-rvs-dealership--online-shopper",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=18628654&condition=USED&year=2022&make=Grand+Design&model=Imagine+XLS+17MKE&vtype=Trailer&trimid=17227571&location=Union+Gap+WA&stockno=B2103&vin=573TE2220N3424057",
+        "https://www.clickitrv.com/trade-in-value-rvs-dealership--xtrade_value",
+        "https://www.clickitrv.com/reviews-testimonials-rvs-dealership--reviews",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=18823244&condition=NEW&year=2022&make=Dutchmen&model=2203RB&vtype=Trailer&location=Union+Gap+WA&stockno=300089&vin=4YDTAAK28NM917022",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=16752553&condition=USED&year=2022&make=Thor+Motor+Coach&model=Four+Winds%C2%AE+31WV&vtype=Motorhome&trimid=18259921&location=Union+Gap+WA&stockno=Y2213A&vin=1FDXE4FN2NDC02893",
+        "https://www.clickitrv.com/--new-offers",
+        "https://www.clickitrv.com/submit-reviews-testimonials-rvs-dealership--review-us"
+      ],
+      "recommendation": "Every page should have exactly one H1 tag that describes the main topic",
+      "impact_score": 80
+    },
+    {
+      "severity": "warning",
+      "category": "technical",
+      "title": "Mobile UX Simulation Risks",
+      "description": "79 pages show mobile tap target, viewport, font, or CLS risk",
+      "affected_urls": [
+        "https://www.clickitrv.com/--xInventoryDetail?1=1&fr=xallinventory&oid=18823244&condition=NEW&year=2022&make=Dutchmen&model=2203RB&vtype=Trailer&location=Union+Gap+WA&stockno=300089&vin=4YDTAAK28NM917022&format=print",
+        "https://www.clickitrv.com/--xInventoryDetail?1=1&fr=xallinventory&oid=16752553&condition=USED&year=2022&make=Thor+Motor+Coach&model=Four+Winds%C2%AE+31WV&vtype=Motorhome&trimid=18259921&location=Union+Gap+WA&stockno=Y2213A&vin=1FDXE4FN2NDC02893&format=print",
+        "https://www.clickitrv.com/--xInventoryDetail?1=1&fr=xallinventory&oid=18628654&condition=USED&year=2022&make=Grand+Design&model=Imagine+XLS+17MKE&vtype=Trailer&trimid=17227571&location=Union+Gap+WA&stockno=B2103&vin=573TE2220N3424057&format=print",
+        "https://www.clickitrv.com/--xInventoryDetail?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622&format=print",
+        "https://www.clickitrv.com/--xInventoryDetail?1=1&fr=xinventorydetail&oid=18590021&condition=NEW&year=2026&make=Forest+River&model=26SFK&vtype=Trailer&location=Union+Gap+WA&stockno=Y2336&vin=4X4TFLF2XTZ201484&format=print",
+        "https://www.clickitrv.com/--xInventoryDetail?1=1&fr=xinventorydetail&oid=18378561&condition=NEW&year=2026&make=Forest+River&model=273rl&vtype=Trailer&location=Union+Gap+WA&stockno=ML2913&vin=4X4TWBC20TU027856&format=print",
+        "https://www.clickitrv.com/default.asp?page=xInventoryDetail&noredir=1&1=1&format=print&id=18378561",
+        "https://www.clickitrv.com/--xInventoryDetail?1=1&fr=xinventorydetail&oid=17941292&condition=USED&year=2018&make=Forest+River&model=27RKL&vtype=Trailer&trimid=8582151&location=Union+Gap+WA&stockno=Y2153A&vin=5ZT2CKSB8J2300335&format=print",
+        "https://www.clickitrv.com/default.asp?page=xInventoryDetail&noredir=1&1=1&format=print&id=17941292",
+        "https://www.clickitrv.com/--xInventoryDetail?1=1&fr=xinventorydetail&oid=18628655&condition=NEW&year=2025&make=Forest+River&model=Flagstaff+Micro+Lite+25FKBS&vtype=Trailer&trimid=23033331&location=Union+Gap+WA&stockno=ML2819&vin=4X4TFLB29SD462168&format=print"
+      ],
+      "recommendation": "Increase tap target size, define image dimensions, use responsive viewport, and keep mobile font sizes legible",
+      "impact_score": 78
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Low ORB Semantic Space Score",
+      "description": "215 pages cover less than 65% of their expected semantic space",
+      "affected_urls": [
+        "https://www.clickitrv.com/--xt-xSched_Ride?1=1&fr=xallinventory&oid=18823244&condition=NEW&year=2022&make=Dutchmen&model=2203RB&vtype=Trailer&location=Union+Gap+WA&stockno=300089&vin=4YDTAAK28NM917022",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=18628654&condition=USED&year=2022&make=Grand+Design&model=Imagine+XLS+17MKE&vtype=Trailer&trimid=17227571&location=Union+Gap+WA&stockno=B2103&vin=573TE2220N3424057",
+        "https://www.clickitrv.com/--xt-xInquiry?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622",
+        "https://www.clickitrv.com/--xInventoryDetail?1=1&fr=xallinventory&oid=18823244&condition=NEW&year=2022&make=Dutchmen&model=2203RB&vtype=Trailer&location=Union+Gap+WA&stockno=300089&vin=4YDTAAK28NM917022&format=print",
+        "https://www.clickitrv.com/--xt-xInquiry?1=1&fr=xallinventory&oid=18628654&condition=USED&year=2022&make=Grand+Design&model=Imagine+XLS+17MKE&vtype=Trailer&trimid=17227571&location=Union+Gap+WA&stockno=B2103&vin=573TE2220N3424057",
+        "https://www.clickitrv.com/--xt-xSched_Ride?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622",
+        "https://www.clickitrv.com/--xt-xContact?1=1&fr=xallinventory&oid=18628654&condition=USED&year=2022&make=Grand+Design&model=Imagine+XLS+17MKE&vtype=Trailer&trimid=17227571&location=Union+Gap+WA&stockno=B2103&vin=573TE2220N3424057",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=18823244&condition=NEW&year=2022&make=Dutchmen&model=2203RB&vtype=Trailer&location=Union+Gap+WA&stockno=300089&vin=4YDTAAK28NM917022",
+        "https://www.clickitrv.com/--xt-xInquiry?1=1&fr=xallinventory&oid=16752553&condition=USED&year=2022&make=Thor+Motor+Coach&model=Four+Winds%C2%AE+31WV&vtype=Motorhome&trimid=18259921&location=Union+Gap+WA&stockno=Y2213A&vin=1FDXE4FN2NDC02893"
+      ],
+      "recommendation": "Add missing entities, questions, supporting subtopics, and schema-aligned language",
+      "impact_score": 74
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Repeated Template or Boilerplate Pattern",
+      "description": "10 repeated page template clusters were detected",
+      "affected_urls": [
+        "https://www.clickitrv.com/--xt-xSched_Ride?1=1&fr=xallinventory&oid=18823244&condition=NEW&year=2022&make=Dutchmen&model=2203RB&vtype=Trailer&location=Union+Gap+WA&stockno=300089&vin=4YDTAAK28NM917022",
+        "https://www.clickitrv.com/--xt-xSched_Ride?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622",
+        "https://www.clickitrv.com/--xt-xSched_Ride?1=1&fr=xallinventory&oid=16752553&condition=USED&year=2022&make=Thor+Motor+Coach&model=Four+Winds%C2%AE+31WV&vtype=Motorhome&trimid=18259921&location=Union+Gap+WA&stockno=Y2213A&vin=1FDXE4FN2NDC02893",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=18628654&condition=USED&year=2022&make=Grand+Design&model=Imagine+XLS+17MKE&vtype=Trailer&trimid=17227571&location=Union+Gap+WA&stockno=B2103&vin=573TE2220N3424057",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=18823244&condition=NEW&year=2022&make=Dutchmen&model=2203RB&vtype=Trailer&location=Union+Gap+WA&stockno=300089&vin=4YDTAAK28NM917022",
+        "https://www.clickitrv.com/--xt-xInquiry?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622",
+        "https://www.clickitrv.com/--xt-xInquiry?1=1&fr=xallinventory&oid=18628654&condition=USED&year=2022&make=Grand+Design&model=Imagine+XLS+17MKE&vtype=Trailer&trimid=17227571&location=Union+Gap+WA&stockno=B2103&vin=573TE2220N3424057",
+        "https://www.clickitrv.com/--xt-xInquiry?1=1&fr=xallinventory&oid=16752553&condition=USED&year=2022&make=Thor+Motor+Coach&model=Four+Winds%C2%AE+31WV&vtype=Motorhome&trimid=18259921&location=Union+Gap+WA&stockno=Y2213A&vin=1FDXE4FN2NDC02893",
+        "https://www.clickitrv.com/--xInventoryDetail?1=1&fr=xallinventory&oid=16752553&condition=USED&year=2022&make=Thor+Motor+Coach&model=Four+Winds%C2%AE+31WV&vtype=Motorhome&trimid=18259921&location=Union+Gap+WA&stockno=Y2213A&vin=1FDXE4FN2NDC02893&format=print"
+      ],
+      "recommendation": "Differentiate page body copy, titles, meta descriptions, and section structure for pages sharing a template",
+      "impact_score": 72
+    },
+    {
+      "severity": "warning",
+      "category": "performance",
+      "title": "Slow Page Load Times",
+      "description": "5 pages load slower than 3 seconds. Average: 367ms",
+      "affected_urls": [
+        "https://www.clickitrv.com/--inventory?condition=new",
+        "https://www.clickitrv.com/--inventory?pg=1&year=2022-2022",
+        "https://www.clickitrv.com/--inventory?location=spokane%20wa&pg=1&year=2022-2022",
+        "https://www.clickitrv.com/--inventory",
+        "https://www.clickitrv.com/--xt-xContact?1=1&fr=xnewinventorydetail&oid=17580056&condition=NEW&year=2026&make=Winnebago&model=Thrive+22MBH&vtype=Trailer&trimid=25894061&location=Spokane+WA&stockno=N4727&vin=54CTT1N20T3102759"
+      ],
+      "recommendation": "Optimize images, enable compression, use CDN, minimize JavaScript",
+      "impact_score": 70
+    },
+    {
+      "severity": "warning",
+      "category": "schema",
+      "title": "Invalid Schema Markup",
+      "description": "217 pages contain invalid structured data blocks",
+      "affected_urls": [
+        "https://www.clickitrv.com",
+        "https://www.clickitrv.com/payment-calculator-rvs-dealership--online-shopper",
+        "https://www.clickitrv.com/map-hours-directions-rvs-dealership--locations",
+        "https://www.clickitrv.com/default.asp?page=xInventoryMap",
+        "https://www.clickitrv.com/Pre-owned-Inventory-2018-Adventurer-Trailer-89rbs-TRUCK-CAMPER-Union-Gap-WA-17762159",
+        "https://www.clickitrv.com/--service-specials-spokane-wa-dtw",
+        "https://www.clickitrv.com/--travel-trailer-deals-finance-specials-spokane-wa-dtw",
+        "https://www.clickitrv.com/--inventory?location=union%20gap%20wa&pg=1&year=2022-2022",
+        "https://www.clickitrv.com/request-parts-rvs-dealership--xparts_request",
+        "https://www.clickitrv.com/USED-Inventory-2022-Venture-RV-Trailer-231VRK-Sonic-Union-Gap-WA-17951368?ref=list"
+      ],
+      "recommendation": "Validate JSON-LD and microdata, then fix parsing errors before publishing",
+      "impact_score": 68
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Thin Content",
+      "description": "235 pages have less than 300 words",
+      "affected_urls": [
+        "https://www.clickitrv.com/--xt-xSched_Ride?1=1&fr=xallinventory&oid=18823244&condition=NEW&year=2022&make=Dutchmen&model=2203RB&vtype=Trailer&location=Union+Gap+WA&stockno=300089&vin=4YDTAAK28NM917022",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=18628654&condition=USED&year=2022&make=Grand+Design&model=Imagine+XLS+17MKE&vtype=Trailer&trimid=17227571&location=Union+Gap+WA&stockno=B2103&vin=573TE2220N3424057",
+        "https://www.clickitrv.com/--xt-xInquiry?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622",
+        "https://www.clickitrv.com/--xInventoryDetail?1=1&fr=xallinventory&oid=18823244&condition=NEW&year=2022&make=Dutchmen&model=2203RB&vtype=Trailer&location=Union+Gap+WA&stockno=300089&vin=4YDTAAK28NM917022&format=print",
+        "https://www.clickitrv.com/--xt-xInquiry?1=1&fr=xallinventory&oid=18628654&condition=USED&year=2022&make=Grand+Design&model=Imagine+XLS+17MKE&vtype=Trailer&trimid=17227571&location=Union+Gap+WA&stockno=B2103&vin=573TE2220N3424057",
+        "https://www.clickitrv.com/--xt-xSched_Ride?1=1&fr=xallinventory&oid=17951368&condition=USED&year=2022&make=Venture+RV&model=231VRK&vtype=Trailer&location=Union+Gap+WA&stockno=060622CM&vin=4EZT22324N4060622",
+        "https://www.clickitrv.com/--xt-xContact?1=1&fr=xallinventory&oid=18628654&condition=USED&year=2022&make=Grand+Design&model=Imagine+XLS+17MKE&vtype=Trailer&trimid=17227571&location=Union+Gap+WA&stockno=B2103&vin=573TE2220N3424057",
+        "https://www.clickitrv.com/--xt-xTrade_Value?1=1&fr=xallinventory&oid=18823244&condition=NEW&year=2022&make=Dutchmen&model=2203RB&vtype=Trailer&location=Union+Gap+WA&stockno=300089&vin=4YDTAAK28NM917022",
+        "https://www.clickitrv.com/--xt-xInquiry?1=1&fr=xallinventory&oid=16752553&condition=USED&year=2022&make=Thor+Motor+Coach&model=Four+Winds%C2%AE+31WV&vtype=Motorhome&trimid=18259921&location=Union+Gap+WA&stockno=Y2213A&vin=1FDXE4FN2NDC02893"
+      ],
+      "recommendation": "Expand thin pages with comprehensive, valuable content",
+      "impact_score": 65
+    }
+  ]
+}

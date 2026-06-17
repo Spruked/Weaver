@@ -1,0 +1,40 @@
+{
+  "schema": "orb_weaver.site_lexicon.v1",
+  "generated_at": "2026-06-15T01:59:20.818958",
+  "domain": "truemarkmint.com",
+  "project_id": "5",
+  "page_count": 13,
+  "terms": [
+    {
+      "term": "true",
+      "count": 13,
+      "page_coverage": 13
+    },
+    {
+      "term": "mark",
+      "count": 13,
+      "page_coverage": 13
+    },
+    {
+      "term": "mint",
+      "count": 13,
+      "page_coverage": 13
+    },
+    {
+      "term": "engine",
+      "count": 13,
+      "page_coverage": 13
+    }
+  ],
+  "phrases": [],
+  "entities": [
+    {
+      "entity": "True Mark Mint Engine",
+      "count": 13
+    }
+  ],
+  "orb_usage": {
+    "purpose": "site-specific vocabulary for ORB grounding, answer style, content gap review, and Basic ORB deployment planning",
+    "privacy": "client-local; do not append raw client lexicon entries to global intelligence"
+  }
+}

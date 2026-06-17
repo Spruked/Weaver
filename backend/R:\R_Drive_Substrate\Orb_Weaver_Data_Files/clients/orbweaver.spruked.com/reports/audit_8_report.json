@@ -1,0 +1,4247 @@
+{
+  "schema": "orb_weaver.client_audit.v1",
+  "saved_at": "2026-06-15T02:51:52.704836",
+  "client": {
+    "project_id": "6",
+    "domain": "orbweaver.spruked.com",
+    "name": "orb weaver",
+    "customer_id": "2"
+  },
+  "crawl": {
+    "id": "9",
+    "project_id": "6",
+    "project_name": "orb weaver",
+    "project_domain": "orbweaver.spruked.com",
+    "status": "completed",
+    "config": {
+      "max_pages": 500,
+      "delay": 1.0,
+      "max_depth": 8,
+      "competitor_domains": [],
+      "seed_urls": [
+        "/",
+        "/admin",
+        "/admin/customers",
+        "/dashboard",
+        "/account",
+        "/cart",
+        "/checkout",
+        "/checkout/success",
+        "/login",
+        "/signup",
+        "/privacy",
+        "/terms",
+        "/sitemap.xml",
+        "/robots.txt"
+      ],
+      "stats": {
+        "total_pages": 17,
+        "visited_urls": 17,
+        "sitemap_urls_found": 5,
+        "has_robots_txt": true,
+        "has_sitemap": true,
+        "avg_load_time": 193.9118048724006,
+        "ssl_pages": 17,
+        "indexable_pages": 17,
+        "duplicate_content_pages": 15,
+        "total_images": 0,
+        "images_missing_alt": 0,
+        "total_internal_links": 0,
+        "total_external_links": 0,
+        "schema_pages": 15,
+        "schema_errors": 0,
+        "semantic_thin_pages": 17,
+        "internal_link_edges": 0,
+        "avg_orb_semantic_score": 41.1764705882353,
+        "low_orb_semantic_pages": 16,
+        "avg_mobile_ux_score": 97.05882352941177,
+        "mobile_ux_problem_pages": 0,
+        "discovered_urls": 17,
+        "pages_skipped_estimate": 0,
+        "sitemap_indexes_found": 1,
+        "queue_exhausted": true,
+        "max_page_limit_hit": false,
+        "depth_limit_hit": false,
+        "depth_limit_hits": 0,
+        "max_pages_configured": 500,
+        "max_depth_configured": 8,
+        "host_normalization": {
+          "input_host": "orbweaver.spruked.com",
+          "canonical_host_key": "orbweaver.spruked.com",
+          "www_equivalent": true
+        }
+      },
+      "historical": {
+        "has_previous": false,
+        "deltas": {}
+      },
+      "trend_model": {
+        "snapshots": [
+          {
+            "crawl_id": "current",
+            "date": "2026-06-15T02:49:12.280348",
+            "stats": {
+              "total_pages": 17,
+              "visited_urls": 17,
+              "sitemap_urls_found": 5,
+              "has_robots_txt": true,
+              "has_sitemap": true,
+              "avg_load_time": 193.9118048724006,
+              "ssl_pages": 17,
+              "indexable_pages": 17,
+              "duplicate_content_pages": 15,
+              "total_images": 0,
+              "images_missing_alt": 0,
+              "total_internal_links": 0,
+              "total_external_links": 0,
+              "schema_pages": 15,
+              "schema_errors": 0,
+              "semantic_thin_pages": 17,
+              "internal_link_edges": 0,
+              "avg_orb_semantic_score": 41.1764705882353,
+              "low_orb_semantic_pages": 16,
+              "avg_mobile_ux_score": 97.05882352941177,
+              "mobile_ux_problem_pages": 0,
+              "discovered_urls": 17,
+              "pages_skipped_estimate": 0,
+              "sitemap_indexes_found": 1,
+              "queue_exhausted": true,
+              "max_page_limit_hit": false,
+              "depth_limit_hit": false,
+              "depth_limit_hits": 0,
+              "max_pages_configured": 500,
+              "max_depth_configured": 8,
+              "host_normalization": {
+                "input_host": "orbweaver.spruked.com",
+                "canonical_host_key": "orbweaver.spruked.com",
+                "www_equivalent": true
+              }
+            }
+          }
+        ],
+        "metrics": {
+          "avg_orb_semantic_score": {
+            "rolling_average": 41.18,
+            "slope": 0,
+            "anomaly": false,
+            "expected_next_month": 41.18,
+            "seasonality": "insufficient_data"
+          },
+          "avg_mobile_ux_score": {
+            "rolling_average": 97.06,
+            "slope": 0,
+            "anomaly": false,
+            "expected_next_month": 97.06,
+            "seasonality": "insufficient_data"
+          },
+          "schema_pages": {
+            "rolling_average": 15.0,
+            "slope": 0,
+            "anomaly": false,
+            "expected_next_month": 15.0,
+            "seasonality": "insufficient_data"
+          },
+          "low_orb_semantic_pages": {
+            "rolling_average": 16.0,
+            "slope": 0,
+            "anomaly": false,
+            "expected_next_month": 16.0,
+            "seasonality": "insufficient_data"
+          },
+          "mobile_ux_problem_pages": {
+            "rolling_average": 0.0,
+            "slope": 0,
+            "anomaly": false,
+            "expected_next_month": 0.0,
+            "seasonality": "insufficient_data"
+          }
+        }
+      },
+      "internal_link_graph": {
+        "nodes": [
+          {
+            "url": "https://orbweaver.spruked.com/robots.txt",
+            "title": null,
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/admin",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/admin/customers",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/dashboard",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/account",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/cart",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/checkout",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/checkout/success",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/login",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/signup",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/privacy",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/terms",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/sitemap.xml",
+            "title": null,
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/crawl",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/projects",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/reports",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          }
+        ],
+        "edges": [],
+        "orphan_candidates": [
+          {
+            "url": "https://orbweaver.spruked.com/robots.txt",
+            "title": null,
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/admin",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/admin/customers",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/dashboard",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/account",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/cart",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/checkout",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/checkout/success",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/login",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/signup",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/privacy",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/terms",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/sitemap.xml",
+            "title": null,
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/crawl",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/projects",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          },
+          {
+            "url": "https://orbweaver.spruked.com/reports",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "inbound": 0,
+            "outbound": 0,
+            "status_code": 200
+          }
+        ]
+      },
+      "authority_flow": {
+        "pages": [
+          {
+            "url": "https://orbweaver.spruked.com/robots.txt",
+            "title": null,
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://orbweaver.spruked.com",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "core"
+          },
+          {
+            "url": "https://orbweaver.spruked.com/admin",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://orbweaver.spruked.com/admin/customers",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://orbweaver.spruked.com/dashboard",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://orbweaver.spruked.com/account",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://orbweaver.spruked.com/cart",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://orbweaver.spruked.com/checkout",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://orbweaver.spruked.com/checkout/success",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://orbweaver.spruked.com/login",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://orbweaver.spruked.com/signup",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://orbweaver.spruked.com/privacy",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://orbweaver.spruked.com/terms",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://orbweaver.spruked.com/sitemap.xml",
+            "title": null,
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://orbweaver.spruked.com/crawl",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://orbweaver.spruked.com/projects",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          },
+          {
+            "url": "https://orbweaver.spruked.com/reports",
+            "title": "Orb Weaver - Website ORB Intelligence Engine",
+            "authority": 0.8824,
+            "link_depth": 0,
+            "crawl_depth": 0,
+            "inbound_links": 0,
+            "outbound_links": 0,
+            "orphan_probability": 0.2,
+            "dead_end": true,
+            "segment": "other"
+          }
+        ],
+        "segments": {
+          "other": {
+            "avg_authority": 0.8824,
+            "pages": 16
+          },
+          "core": {
+            "avg_authority": 0.8824,
+            "pages": 1
+          }
+        },
+        "insights": []
+      },
+      "knowledge_graph": {
+        "nodes": [
+          {
+            "id": "https://orbweaver.spruked.com/robots.txt",
+            "label": "https://orbweaver.spruked.com/robots.txt",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com/robots.txt"
+          },
+          {
+            "id": "entity:User-agent",
+            "label": "User-agent",
+            "type": "entity"
+          },
+          {
+            "id": "entity:Content-Signal",
+            "label": "Content-Signal",
+            "type": "entity"
+          },
+          {
+            "id": "entity:Allow",
+            "label": "Allow",
+            "type": "entity"
+          },
+          {
+            "id": "entity:The",
+            "label": "The",
+            "type": "entity"
+          },
+          {
+            "id": "entity:Search",
+            "label": "Search",
+            "type": "entity"
+          },
+          {
+            "id": "entity:AI-generated",
+            "label": "AI-generated",
+            "type": "entity"
+          },
+          {
+            "id": "entity:ANY RESTRICTIONS EXPRESSED VIA",
+            "label": "ANY RESTRICTIONS EXPRESSED VIA",
+            "type": "entity"
+          },
+          {
+            "id": "entity:CONTENT SIGNALS ARE EXPRESS",
+            "label": "CONTENT SIGNALS ARE EXPRESS",
+            "type": "entity"
+          },
+          {
+            "id": "entity:RESERVATIONS",
+            "label": "RESERVATIONS",
+            "type": "entity"
+          },
+          {
+            "id": "entity:RIGHTS UNDER ARTICLE",
+            "label": "RIGHTS UNDER ARTICLE",
+            "type": "entity"
+          },
+          {
+            "id": "entity:THE EUROPEAN UNION DIRECTIVE",
+            "label": "THE EUROPEAN UNION DIRECTIVE",
+            "type": "entity"
+          },
+          {
+            "id": "entity:COPYRIGHT",
+            "label": "COPYRIGHT",
+            "type": "entity"
+          },
+          {
+            "id": "entity:AND RELATED RIGHTS",
+            "label": "AND RELATED RIGHTS",
+            "type": "entity"
+          },
+          {
+            "id": "entity:THE DIGITAL SINGLE MARKET",
+            "label": "THE DIGITAL SINGLE MARKET",
+            "type": "entity"
+          },
+          {
+            "id": "entity:BEGIN Cloudflare Managed",
+            "label": "BEGIN Cloudflare Managed",
+            "type": "entity"
+          },
+          {
+            "id": "entity:Amazonbot\nDisallow",
+            "label": "Amazonbot\nDisallow",
+            "type": "entity"
+          },
+          {
+            "id": "entity:Applebot-Extended\nDisallow",
+            "label": "Applebot-Extended\nDisallow",
+            "type": "entity"
+          },
+          {
+            "id": "entity:Bytespider\nDisallow",
+            "label": "Bytespider\nDisallow",
+            "type": "entity"
+          },
+          {
+            "id": "entity:CCBot\nDisallow",
+            "label": "CCBot\nDisallow",
+            "type": "entity"
+          },
+          {
+            "id": "entity:ClaudeBot\nDisallow",
+            "label": "ClaudeBot\nDisallow",
+            "type": "entity"
+          },
+          {
+            "id": "entity:CloudflareBrowserRenderingCrawler\nDisallow",
+            "label": "CloudflareBrowserRenderingCrawler\nDisallow",
+            "type": "entity"
+          },
+          {
+            "id": "entity:Google-Extended\nDisallow",
+            "label": "Google-Extended\nDisallow",
+            "type": "entity"
+          },
+          {
+            "id": "entity:GPTBot\nDisallow",
+            "label": "GPTBot\nDisallow",
+            "type": "entity"
+          },
+          {
+            "id": "entity:Disallow",
+            "label": "Disallow",
+            "type": "entity"
+          },
+          {
+            "id": "entity:END Cloudflare Managed Content",
+            "label": "END Cloudflare Managed Content",
+            "type": "entity"
+          },
+          {
+            "id": "person:ANY RESTRICTIONS EXPRESSED VIA",
+            "label": "ANY RESTRICTIONS EXPRESSED VIA",
+            "type": "person"
+          },
+          {
+            "id": "person:CONTENT SIGNALS ARE EXPRESS",
+            "label": "CONTENT SIGNALS ARE EXPRESS",
+            "type": "person"
+          },
+          {
+            "id": "person:RIGHTS UNDER ARTICLE",
+            "label": "RIGHTS UNDER ARTICLE",
+            "type": "person"
+          },
+          {
+            "id": "person:THE EUROPEAN UNION DIRECTIVE",
+            "label": "THE EUROPEAN UNION DIRECTIVE",
+            "type": "person"
+          },
+          {
+            "id": "person:AND RELATED RIGHTS",
+            "label": "AND RELATED RIGHTS",
+            "type": "person"
+          },
+          {
+            "id": "person:THE DIGITAL SINGLE MARKET",
+            "label": "THE DIGITAL SINGLE MARKET",
+            "type": "person"
+          },
+          {
+            "id": "person:BEGIN Cloudflare Managed",
+            "label": "BEGIN Cloudflare Managed",
+            "type": "person"
+          },
+          {
+            "id": "person:Amazonbot\nDisallow",
+            "label": "Amazonbot\nDisallow",
+            "type": "person"
+          },
+          {
+            "id": "person:Applebot-Extended\nDisallow",
+            "label": "Applebot-Extended\nDisallow",
+            "type": "person"
+          },
+          {
+            "id": "person:Bytespider\nDisallow",
+            "label": "Bytespider\nDisallow",
+            "type": "person"
+          },
+          {
+            "id": "person:CCBot\nDisallow",
+            "label": "CCBot\nDisallow",
+            "type": "person"
+          },
+          {
+            "id": "person:ClaudeBot\nDisallow",
+            "label": "ClaudeBot\nDisallow",
+            "type": "person"
+          },
+          {
+            "id": "person:CloudflareBrowserRenderingCrawler\nDisallow",
+            "label": "CloudflareBrowserRenderingCrawler\nDisallow",
+            "type": "person"
+          },
+          {
+            "id": "person:Google-Extended\nDisallow",
+            "label": "Google-Extended\nDisallow",
+            "type": "person"
+          },
+          {
+            "id": "person:GPTBot\nDisallow",
+            "label": "GPTBot\nDisallow",
+            "type": "person"
+          },
+          {
+            "id": "https://orbweaver.spruked.com",
+            "label": "Orb Weaver - Website ORB Intelligence Engine",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com"
+          },
+          {
+            "id": "entity:Orb Weaver",
+            "label": "Orb Weaver",
+            "type": "entity"
+          },
+          {
+            "id": "entity:Website ORB Intelligence Engine",
+            "label": "Website ORB Intelligence Engine",
+            "type": "entity"
+          },
+          {
+            "id": "entity:You",
+            "label": "You",
+            "type": "entity"
+          },
+          {
+            "id": "entity:JavaScript",
+            "label": "JavaScript",
+            "type": "entity"
+          },
+          {
+            "id": "person:Orb Weaver",
+            "label": "Orb Weaver",
+            "type": "person"
+          },
+          {
+            "id": "person:Website ORB Intelligence Engine",
+            "label": "Website ORB Intelligence Engine",
+            "type": "person"
+          },
+          {
+            "id": "schema.org:SoftwareApplication",
+            "label": "SoftwareApplication",
+            "type": "schema.org"
+          },
+          {
+            "id": "https://orbweaver.spruked.com/admin",
+            "label": "Orb Weaver - Website ORB Intelligence Engine",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com/admin"
+          },
+          {
+            "id": "https://orbweaver.spruked.com/admin/customers",
+            "label": "Orb Weaver - Website ORB Intelligence Engine",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com/admin/customers"
+          },
+          {
+            "id": "https://orbweaver.spruked.com/dashboard",
+            "label": "Orb Weaver - Website ORB Intelligence Engine",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com/dashboard"
+          },
+          {
+            "id": "https://orbweaver.spruked.com/account",
+            "label": "Orb Weaver - Website ORB Intelligence Engine",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com/account"
+          },
+          {
+            "id": "https://orbweaver.spruked.com/cart",
+            "label": "Orb Weaver - Website ORB Intelligence Engine",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com/cart"
+          },
+          {
+            "id": "https://orbweaver.spruked.com/checkout",
+            "label": "Orb Weaver - Website ORB Intelligence Engine",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com/checkout"
+          },
+          {
+            "id": "https://orbweaver.spruked.com/checkout/success",
+            "label": "Orb Weaver - Website ORB Intelligence Engine",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com/checkout/success"
+          },
+          {
+            "id": "https://orbweaver.spruked.com/login",
+            "label": "Orb Weaver - Website ORB Intelligence Engine",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com/login"
+          },
+          {
+            "id": "https://orbweaver.spruked.com/signup",
+            "label": "Orb Weaver - Website ORB Intelligence Engine",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com/signup"
+          },
+          {
+            "id": "https://orbweaver.spruked.com/privacy",
+            "label": "Orb Weaver - Website ORB Intelligence Engine",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com/privacy"
+          },
+          {
+            "id": "https://orbweaver.spruked.com/terms",
+            "label": "Orb Weaver - Website ORB Intelligence Engine",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com/terms"
+          },
+          {
+            "id": "https://orbweaver.spruked.com/sitemap.xml",
+            "label": "https://orbweaver.spruked.com/sitemap.xml",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com/sitemap.xml"
+          },
+          {
+            "id": "https://orbweaver.spruked.com/crawl",
+            "label": "Orb Weaver - Website ORB Intelligence Engine",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com/crawl"
+          },
+          {
+            "id": "https://orbweaver.spruked.com/projects",
+            "label": "Orb Weaver - Website ORB Intelligence Engine",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com/projects"
+          },
+          {
+            "id": "https://orbweaver.spruked.com/reports",
+            "label": "Orb Weaver - Website ORB Intelligence Engine",
+            "type": "page",
+            "url": "https://orbweaver.spruked.com/reports"
+          }
+        ],
+        "edges": [
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:User-agent",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:Content-Signal",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:Allow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:The",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:Search",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:AI-generated",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:ANY RESTRICTIONS EXPRESSED VIA",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:CONTENT SIGNALS ARE EXPRESS",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:RESERVATIONS",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:RIGHTS UNDER ARTICLE",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:THE EUROPEAN UNION DIRECTIVE",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:COPYRIGHT",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:AND RELATED RIGHTS",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:THE DIGITAL SINGLE MARKET",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:BEGIN Cloudflare Managed",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:Amazonbot\nDisallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:Applebot-Extended\nDisallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:Bytespider\nDisallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:CCBot\nDisallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:ClaudeBot\nDisallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:CloudflareBrowserRenderingCrawler\nDisallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:Google-Extended\nDisallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:GPTBot\nDisallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:Disallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "entity:END Cloudflare Managed Content",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "person:ANY RESTRICTIONS EXPRESSED VIA",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "person:CONTENT SIGNALS ARE EXPRESS",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "person:RIGHTS UNDER ARTICLE",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "person:THE EUROPEAN UNION DIRECTIVE",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "person:AND RELATED RIGHTS",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "person:THE DIGITAL SINGLE MARKET",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "person:BEGIN Cloudflare Managed",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "person:Amazonbot\nDisallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "person:Applebot-Extended\nDisallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "person:Bytespider\nDisallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "person:CCBot\nDisallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "person:ClaudeBot\nDisallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "person:CloudflareBrowserRenderingCrawler\nDisallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "person:Google-Extended\nDisallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/robots.txt",
+            "target": "person:GPTBot\nDisallow",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com",
+            "target": "entity:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com",
+            "target": "entity:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com",
+            "target": "entity:You",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com",
+            "target": "entity:JavaScript",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com",
+            "target": "person:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com",
+            "target": "person:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com",
+            "target": "schema.org:SoftwareApplication",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/admin",
+            "target": "entity:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/admin",
+            "target": "entity:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/admin",
+            "target": "entity:You",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/admin",
+            "target": "entity:JavaScript",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/admin",
+            "target": "person:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/admin",
+            "target": "person:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/admin",
+            "target": "schema.org:SoftwareApplication",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/admin/customers",
+            "target": "entity:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/admin/customers",
+            "target": "entity:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/admin/customers",
+            "target": "entity:You",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/admin/customers",
+            "target": "entity:JavaScript",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/admin/customers",
+            "target": "person:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/admin/customers",
+            "target": "person:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/admin/customers",
+            "target": "schema.org:SoftwareApplication",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/dashboard",
+            "target": "entity:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/dashboard",
+            "target": "entity:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/dashboard",
+            "target": "entity:You",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/dashboard",
+            "target": "entity:JavaScript",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/dashboard",
+            "target": "person:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/dashboard",
+            "target": "person:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/dashboard",
+            "target": "schema.org:SoftwareApplication",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/account",
+            "target": "entity:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/account",
+            "target": "entity:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/account",
+            "target": "entity:You",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/account",
+            "target": "entity:JavaScript",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/account",
+            "target": "person:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/account",
+            "target": "person:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/account",
+            "target": "schema.org:SoftwareApplication",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/cart",
+            "target": "entity:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/cart",
+            "target": "entity:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/cart",
+            "target": "entity:You",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/cart",
+            "target": "entity:JavaScript",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/cart",
+            "target": "person:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/cart",
+            "target": "person:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/cart",
+            "target": "schema.org:SoftwareApplication",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/checkout",
+            "target": "entity:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/checkout",
+            "target": "entity:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/checkout",
+            "target": "entity:You",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/checkout",
+            "target": "entity:JavaScript",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/checkout",
+            "target": "person:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/checkout",
+            "target": "person:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/checkout",
+            "target": "schema.org:SoftwareApplication",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/checkout/success",
+            "target": "entity:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/checkout/success",
+            "target": "entity:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/checkout/success",
+            "target": "entity:You",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/checkout/success",
+            "target": "entity:JavaScript",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/checkout/success",
+            "target": "person:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/checkout/success",
+            "target": "person:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/checkout/success",
+            "target": "schema.org:SoftwareApplication",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/login",
+            "target": "entity:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/login",
+            "target": "entity:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/login",
+            "target": "entity:You",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/login",
+            "target": "entity:JavaScript",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/login",
+            "target": "person:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/login",
+            "target": "person:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/login",
+            "target": "schema.org:SoftwareApplication",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/signup",
+            "target": "entity:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/signup",
+            "target": "entity:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/signup",
+            "target": "entity:You",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/signup",
+            "target": "entity:JavaScript",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/signup",
+            "target": "person:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/signup",
+            "target": "person:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/signup",
+            "target": "schema.org:SoftwareApplication",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/privacy",
+            "target": "entity:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/privacy",
+            "target": "entity:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/privacy",
+            "target": "entity:You",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/privacy",
+            "target": "entity:JavaScript",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/privacy",
+            "target": "person:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/privacy",
+            "target": "person:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/privacy",
+            "target": "schema.org:SoftwareApplication",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/terms",
+            "target": "entity:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/terms",
+            "target": "entity:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/terms",
+            "target": "entity:You",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/terms",
+            "target": "entity:JavaScript",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/terms",
+            "target": "person:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/terms",
+            "target": "person:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/terms",
+            "target": "schema.org:SoftwareApplication",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/crawl",
+            "target": "entity:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/crawl",
+            "target": "entity:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/crawl",
+            "target": "entity:You",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/crawl",
+            "target": "entity:JavaScript",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/crawl",
+            "target": "person:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/crawl",
+            "target": "person:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/crawl",
+            "target": "schema.org:SoftwareApplication",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/projects",
+            "target": "entity:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/projects",
+            "target": "entity:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/projects",
+            "target": "entity:You",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/projects",
+            "target": "entity:JavaScript",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/projects",
+            "target": "person:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/projects",
+            "target": "person:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/projects",
+            "target": "schema.org:SoftwareApplication",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/reports",
+            "target": "entity:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/reports",
+            "target": "entity:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/reports",
+            "target": "entity:You",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/reports",
+            "target": "entity:JavaScript",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/reports",
+            "target": "person:Orb Weaver",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/reports",
+            "target": "person:Website ORB Intelligence Engine",
+            "relationship": "mentions"
+          },
+          {
+            "source": "https://orbweaver.spruked.com/reports",
+            "target": "schema.org:SoftwareApplication",
+            "relationship": "mentions"
+          }
+        ],
+        "hubs": [
+          {
+            "id": "entity:Orb Weaver",
+            "label": "Orb Weaver",
+            "mentions": 15
+          },
+          {
+            "id": "entity:Website ORB Intelligence Engine",
+            "label": "Website ORB Intelligence Engine",
+            "mentions": 15
+          },
+          {
+            "id": "entity:You",
+            "label": "You",
+            "mentions": 15
+          },
+          {
+            "id": "entity:JavaScript",
+            "label": "JavaScript",
+            "mentions": 15
+          },
+          {
+            "id": "person:Orb Weaver",
+            "label": "Orb Weaver",
+            "mentions": 15
+          },
+          {
+            "id": "person:Website ORB Intelligence Engine",
+            "label": "Website ORB Intelligence Engine",
+            "mentions": 15
+          },
+          {
+            "id": "schema.org:SoftwareApplication",
+            "label": "SoftwareApplication",
+            "mentions": 15
+          }
+        ],
+        "topic_clusters": [
+          {
+            "topic": "user-agent",
+            "pages": [
+              "https://orbweaver.spruked.com/robots.txt"
+            ],
+            "page_count": 1
+          },
+          {
+            "topic": "orb",
+            "pages": [
+              "https://orbweaver.spruked.com",
+              "https://orbweaver.spruked.com/admin",
+              "https://orbweaver.spruked.com/admin/customers",
+              "https://orbweaver.spruked.com/dashboard",
+              "https://orbweaver.spruked.com/account",
+              "https://orbweaver.spruked.com/cart",
+              "https://orbweaver.spruked.com/checkout",
+              "https://orbweaver.spruked.com/checkout/success",
+              "https://orbweaver.spruked.com/login",
+              "https://orbweaver.spruked.com/signup",
+              "https://orbweaver.spruked.com/privacy",
+              "https://orbweaver.spruked.com/terms",
+              "https://orbweaver.spruked.com/crawl",
+              "https://orbweaver.spruked.com/projects",
+              "https://orbweaver.spruked.com/reports"
+            ],
+            "page_count": 15
+          },
+          {
+            "topic": "https",
+            "pages": [
+              "https://orbweaver.spruked.com/sitemap.xml"
+            ],
+            "page_count": 1
+          }
+        ],
+        "missing_pillar_pages": [
+          {
+            "entity": "Orb Weaver",
+            "reason": "Entity appears across multiple pages but no exact-title pillar page was found"
+          },
+          {
+            "entity": "Website ORB Intelligence Engine",
+            "reason": "Entity appears across multiple pages but no exact-title pillar page was found"
+          },
+          {
+            "entity": "You",
+            "reason": "Entity appears across multiple pages but no exact-title pillar page was found"
+          },
+          {
+            "entity": "JavaScript",
+            "reason": "Entity appears across multiple pages but no exact-title pillar page was found"
+          },
+          {
+            "entity": "Orb Weaver",
+            "reason": "Entity appears across multiple pages but no exact-title pillar page was found"
+          },
+          {
+            "entity": "Website ORB Intelligence Engine",
+            "reason": "Entity appears across multiple pages but no exact-title pillar page was found"
+          },
+          {
+            "entity": "SoftwareApplication",
+            "reason": "Entity appears across multiple pages but no exact-title pillar page was found"
+          }
+        ],
+        "internal_linking_suggestions": []
+      },
+      "competitors": [],
+      "competitor_gap": {
+        "missing_topics": [],
+        "missing_entities": [],
+        "missing_questions": [
+          "Add explicit question-led headings for competitor-covered topics"
+        ],
+        "missing_schema_types": [],
+        "missing_internal_link_hubs": [
+          "other"
+        ]
+      },
+      "template_detection": {
+        "repeated_layouts": [
+          {
+            "signature": "46b4ca0626535b993becae1b0ac6d143",
+            "page_count": 15,
+            "duplicate_text_probability": 100.0,
+            "pages": [
+              "https://orbweaver.spruked.com",
+              "https://orbweaver.spruked.com/admin",
+              "https://orbweaver.spruked.com/admin/customers",
+              "https://orbweaver.spruked.com/dashboard",
+              "https://orbweaver.spruked.com/account",
+              "https://orbweaver.spruked.com/cart",
+              "https://orbweaver.spruked.com/checkout",
+              "https://orbweaver.spruked.com/checkout/success",
+              "https://orbweaver.spruked.com/login",
+              "https://orbweaver.spruked.com/signup",
+              "https://orbweaver.spruked.com/privacy",
+              "https://orbweaver.spruked.com/terms",
+              "https://orbweaver.spruked.com/crawl",
+              "https://orbweaver.spruked.com/projects",
+              "https://orbweaver.spruked.com/reports"
+            ],
+            "orb_statement": "Core pages share 100.0% identical content signatures."
+          }
+        ],
+        "duplicated_titles": [
+          {
+            "title": "orb weaver - website orb intelligence engine",
+            "count": 15
+          }
+        ],
+        "duplicated_meta_descriptions": [
+          {
+            "meta_description": "orb weaver is a local-first website intelligence engine for technical seo audits, site crawling, orb-readable reporting, ga4 analysis, crawl history, and client-ready recommendations.",
+            "count": 15
+          }
+        ]
+      }
+    },
+    "created_at": "2026-06-15T02:48:50.020702",
+    "start_time": "2026-06-15T02:48:50.020702",
+    "end_time": "2026-06-15T02:49:12.285221",
+    "pages_crawled": 17,
+    "pages_found": 17,
+    "errors_count": 0,
+    "stats": {
+      "total_pages": 17,
+      "visited_urls": 17,
+      "sitemap_urls_found": 5,
+      "has_robots_txt": true,
+      "has_sitemap": true,
+      "avg_load_time": 193.9118048724006,
+      "ssl_pages": 17,
+      "indexable_pages": 17,
+      "duplicate_content_pages": 15,
+      "total_images": 0,
+      "images_missing_alt": 0,
+      "total_internal_links": 0,
+      "total_external_links": 0,
+      "schema_pages": 15,
+      "schema_errors": 0,
+      "semantic_thin_pages": 17,
+      "internal_link_edges": 0,
+      "avg_orb_semantic_score": 41.1764705882353,
+      "low_orb_semantic_pages": 16,
+      "avg_mobile_ux_score": 97.05882352941177,
+      "mobile_ux_problem_pages": 0,
+      "discovered_urls": 17,
+      "pages_skipped_estimate": 0,
+      "sitemap_indexes_found": 1,
+      "queue_exhausted": true,
+      "max_page_limit_hit": false,
+      "depth_limit_hit": false,
+      "depth_limit_hits": 0,
+      "max_pages_configured": 500,
+      "max_depth_configured": 8,
+      "host_normalization": {
+        "input_host": "orbweaver.spruked.com",
+        "canonical_host_key": "orbweaver.spruked.com",
+        "www_equivalent": true
+      }
+    },
+    "historical": {
+      "has_previous": false,
+      "deltas": {}
+    },
+    "trend_model": {
+      "snapshots": [
+        {
+          "crawl_id": "current",
+          "date": "2026-06-15T02:49:12.280348",
+          "stats": {
+            "total_pages": 17,
+            "visited_urls": 17,
+            "sitemap_urls_found": 5,
+            "has_robots_txt": true,
+            "has_sitemap": true,
+            "avg_load_time": 193.9118048724006,
+            "ssl_pages": 17,
+            "indexable_pages": 17,
+            "duplicate_content_pages": 15,
+            "total_images": 0,
+            "images_missing_alt": 0,
+            "total_internal_links": 0,
+            "total_external_links": 0,
+            "schema_pages": 15,
+            "schema_errors": 0,
+            "semantic_thin_pages": 17,
+            "internal_link_edges": 0,
+            "avg_orb_semantic_score": 41.1764705882353,
+            "low_orb_semantic_pages": 16,
+            "avg_mobile_ux_score": 97.05882352941177,
+            "mobile_ux_problem_pages": 0,
+            "discovered_urls": 17,
+            "pages_skipped_estimate": 0,
+            "sitemap_indexes_found": 1,
+            "queue_exhausted": true,
+            "max_page_limit_hit": false,
+            "depth_limit_hit": false,
+            "depth_limit_hits": 0,
+            "max_pages_configured": 500,
+            "max_depth_configured": 8,
+            "host_normalization": {
+              "input_host": "orbweaver.spruked.com",
+              "canonical_host_key": "orbweaver.spruked.com",
+              "www_equivalent": true
+            }
+          }
+        }
+      ],
+      "metrics": {
+        "avg_orb_semantic_score": {
+          "rolling_average": 41.18,
+          "slope": 0,
+          "anomaly": false,
+          "expected_next_month": 41.18,
+          "seasonality": "insufficient_data"
+        },
+        "avg_mobile_ux_score": {
+          "rolling_average": 97.06,
+          "slope": 0,
+          "anomaly": false,
+          "expected_next_month": 97.06,
+          "seasonality": "insufficient_data"
+        },
+        "schema_pages": {
+          "rolling_average": 15.0,
+          "slope": 0,
+          "anomaly": false,
+          "expected_next_month": 15.0,
+          "seasonality": "insufficient_data"
+        },
+        "low_orb_semantic_pages": {
+          "rolling_average": 16.0,
+          "slope": 0,
+          "anomaly": false,
+          "expected_next_month": 16.0,
+          "seasonality": "insufficient_data"
+        },
+        "mobile_ux_problem_pages": {
+          "rolling_average": 0.0,
+          "slope": 0,
+          "anomaly": false,
+          "expected_next_month": 0.0,
+          "seasonality": "insufficient_data"
+        }
+      }
+    },
+    "internal_link_graph": {
+      "nodes": [
+        {
+          "url": "https://orbweaver.spruked.com/robots.txt",
+          "title": null,
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/admin",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/admin/customers",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/dashboard",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/account",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/cart",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/checkout",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/checkout/success",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/login",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/signup",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/privacy",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/terms",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/sitemap.xml",
+          "title": null,
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/crawl",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/projects",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/reports",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        }
+      ],
+      "edges": [],
+      "orphan_candidates": [
+        {
+          "url": "https://orbweaver.spruked.com/robots.txt",
+          "title": null,
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/admin",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/admin/customers",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/dashboard",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/account",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/cart",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/checkout",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/checkout/success",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/login",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/signup",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/privacy",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/terms",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/sitemap.xml",
+          "title": null,
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/crawl",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/projects",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        },
+        {
+          "url": "https://orbweaver.spruked.com/reports",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "inbound": 0,
+          "outbound": 0,
+          "status_code": 200
+        }
+      ]
+    },
+    "authority_flow": {
+      "pages": [
+        {
+          "url": "https://orbweaver.spruked.com/robots.txt",
+          "title": null,
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://orbweaver.spruked.com",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "core"
+        },
+        {
+          "url": "https://orbweaver.spruked.com/admin",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://orbweaver.spruked.com/admin/customers",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://orbweaver.spruked.com/dashboard",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://orbweaver.spruked.com/account",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://orbweaver.spruked.com/cart",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://orbweaver.spruked.com/checkout",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://orbweaver.spruked.com/checkout/success",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://orbweaver.spruked.com/login",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://orbweaver.spruked.com/signup",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://orbweaver.spruked.com/privacy",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://orbweaver.spruked.com/terms",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://orbweaver.spruked.com/sitemap.xml",
+          "title": null,
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://orbweaver.spruked.com/crawl",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://orbweaver.spruked.com/projects",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        },
+        {
+          "url": "https://orbweaver.spruked.com/reports",
+          "title": "Orb Weaver - Website ORB Intelligence Engine",
+          "authority": 0.8824,
+          "link_depth": 0,
+          "crawl_depth": 0,
+          "inbound_links": 0,
+          "outbound_links": 0,
+          "orphan_probability": 0.2,
+          "dead_end": true,
+          "segment": "other"
+        }
+      ],
+      "segments": {
+        "other": {
+          "avg_authority": 0.8824,
+          "pages": 16
+        },
+        "core": {
+          "avg_authority": 0.8824,
+          "pages": 1
+        }
+      },
+      "insights": []
+    },
+    "knowledge_graph": {
+      "nodes": [
+        {
+          "id": "https://orbweaver.spruked.com/robots.txt",
+          "label": "https://orbweaver.spruked.com/robots.txt",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com/robots.txt"
+        },
+        {
+          "id": "entity:User-agent",
+          "label": "User-agent",
+          "type": "entity"
+        },
+        {
+          "id": "entity:Content-Signal",
+          "label": "Content-Signal",
+          "type": "entity"
+        },
+        {
+          "id": "entity:Allow",
+          "label": "Allow",
+          "type": "entity"
+        },
+        {
+          "id": "entity:The",
+          "label": "The",
+          "type": "entity"
+        },
+        {
+          "id": "entity:Search",
+          "label": "Search",
+          "type": "entity"
+        },
+        {
+          "id": "entity:AI-generated",
+          "label": "AI-generated",
+          "type": "entity"
+        },
+        {
+          "id": "entity:ANY RESTRICTIONS EXPRESSED VIA",
+          "label": "ANY RESTRICTIONS EXPRESSED VIA",
+          "type": "entity"
+        },
+        {
+          "id": "entity:CONTENT SIGNALS ARE EXPRESS",
+          "label": "CONTENT SIGNALS ARE EXPRESS",
+          "type": "entity"
+        },
+        {
+          "id": "entity:RESERVATIONS",
+          "label": "RESERVATIONS",
+          "type": "entity"
+        },
+        {
+          "id": "entity:RIGHTS UNDER ARTICLE",
+          "label": "RIGHTS UNDER ARTICLE",
+          "type": "entity"
+        },
+        {
+          "id": "entity:THE EUROPEAN UNION DIRECTIVE",
+          "label": "THE EUROPEAN UNION DIRECTIVE",
+          "type": "entity"
+        },
+        {
+          "id": "entity:COPYRIGHT",
+          "label": "COPYRIGHT",
+          "type": "entity"
+        },
+        {
+          "id": "entity:AND RELATED RIGHTS",
+          "label": "AND RELATED RIGHTS",
+          "type": "entity"
+        },
+        {
+          "id": "entity:THE DIGITAL SINGLE MARKET",
+          "label": "THE DIGITAL SINGLE MARKET",
+          "type": "entity"
+        },
+        {
+          "id": "entity:BEGIN Cloudflare Managed",
+          "label": "BEGIN Cloudflare Managed",
+          "type": "entity"
+        },
+        {
+          "id": "entity:Amazonbot\nDisallow",
+          "label": "Amazonbot\nDisallow",
+          "type": "entity"
+        },
+        {
+          "id": "entity:Applebot-Extended\nDisallow",
+          "label": "Applebot-Extended\nDisallow",
+          "type": "entity"
+        },
+        {
+          "id": "entity:Bytespider\nDisallow",
+          "label": "Bytespider\nDisallow",
+          "type": "entity"
+        },
+        {
+          "id": "entity:CCBot\nDisallow",
+          "label": "CCBot\nDisallow",
+          "type": "entity"
+        },
+        {
+          "id": "entity:ClaudeBot\nDisallow",
+          "label": "ClaudeBot\nDisallow",
+          "type": "entity"
+        },
+        {
+          "id": "entity:CloudflareBrowserRenderingCrawler\nDisallow",
+          "label": "CloudflareBrowserRenderingCrawler\nDisallow",
+          "type": "entity"
+        },
+        {
+          "id": "entity:Google-Extended\nDisallow",
+          "label": "Google-Extended\nDisallow",
+          "type": "entity"
+        },
+        {
+          "id": "entity:GPTBot\nDisallow",
+          "label": "GPTBot\nDisallow",
+          "type": "entity"
+        },
+        {
+          "id": "entity:Disallow",
+          "label": "Disallow",
+          "type": "entity"
+        },
+        {
+          "id": "entity:END Cloudflare Managed Content",
+          "label": "END Cloudflare Managed Content",
+          "type": "entity"
+        },
+        {
+          "id": "person:ANY RESTRICTIONS EXPRESSED VIA",
+          "label": "ANY RESTRICTIONS EXPRESSED VIA",
+          "type": "person"
+        },
+        {
+          "id": "person:CONTENT SIGNALS ARE EXPRESS",
+          "label": "CONTENT SIGNALS ARE EXPRESS",
+          "type": "person"
+        },
+        {
+          "id": "person:RIGHTS UNDER ARTICLE",
+          "label": "RIGHTS UNDER ARTICLE",
+          "type": "person"
+        },
+        {
+          "id": "person:THE EUROPEAN UNION DIRECTIVE",
+          "label": "THE EUROPEAN UNION DIRECTIVE",
+          "type": "person"
+        },
+        {
+          "id": "person:AND RELATED RIGHTS",
+          "label": "AND RELATED RIGHTS",
+          "type": "person"
+        },
+        {
+          "id": "person:THE DIGITAL SINGLE MARKET",
+          "label": "THE DIGITAL SINGLE MARKET",
+          "type": "person"
+        },
+        {
+          "id": "person:BEGIN Cloudflare Managed",
+          "label": "BEGIN Cloudflare Managed",
+          "type": "person"
+        },
+        {
+          "id": "person:Amazonbot\nDisallow",
+          "label": "Amazonbot\nDisallow",
+          "type": "person"
+        },
+        {
+          "id": "person:Applebot-Extended\nDisallow",
+          "label": "Applebot-Extended\nDisallow",
+          "type": "person"
+        },
+        {
+          "id": "person:Bytespider\nDisallow",
+          "label": "Bytespider\nDisallow",
+          "type": "person"
+        },
+        {
+          "id": "person:CCBot\nDisallow",
+          "label": "CCBot\nDisallow",
+          "type": "person"
+        },
+        {
+          "id": "person:ClaudeBot\nDisallow",
+          "label": "ClaudeBot\nDisallow",
+          "type": "person"
+        },
+        {
+          "id": "person:CloudflareBrowserRenderingCrawler\nDisallow",
+          "label": "CloudflareBrowserRenderingCrawler\nDisallow",
+          "type": "person"
+        },
+        {
+          "id": "person:Google-Extended\nDisallow",
+          "label": "Google-Extended\nDisallow",
+          "type": "person"
+        },
+        {
+          "id": "person:GPTBot\nDisallow",
+          "label": "GPTBot\nDisallow",
+          "type": "person"
+        },
+        {
+          "id": "https://orbweaver.spruked.com",
+          "label": "Orb Weaver - Website ORB Intelligence Engine",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com"
+        },
+        {
+          "id": "entity:Orb Weaver",
+          "label": "Orb Weaver",
+          "type": "entity"
+        },
+        {
+          "id": "entity:Website ORB Intelligence Engine",
+          "label": "Website ORB Intelligence Engine",
+          "type": "entity"
+        },
+        {
+          "id": "entity:You",
+          "label": "You",
+          "type": "entity"
+        },
+        {
+          "id": "entity:JavaScript",
+          "label": "JavaScript",
+          "type": "entity"
+        },
+        {
+          "id": "person:Orb Weaver",
+          "label": "Orb Weaver",
+          "type": "person"
+        },
+        {
+          "id": "person:Website ORB Intelligence Engine",
+          "label": "Website ORB Intelligence Engine",
+          "type": "person"
+        },
+        {
+          "id": "schema.org:SoftwareApplication",
+          "label": "SoftwareApplication",
+          "type": "schema.org"
+        },
+        {
+          "id": "https://orbweaver.spruked.com/admin",
+          "label": "Orb Weaver - Website ORB Intelligence Engine",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com/admin"
+        },
+        {
+          "id": "https://orbweaver.spruked.com/admin/customers",
+          "label": "Orb Weaver - Website ORB Intelligence Engine",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com/admin/customers"
+        },
+        {
+          "id": "https://orbweaver.spruked.com/dashboard",
+          "label": "Orb Weaver - Website ORB Intelligence Engine",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com/dashboard"
+        },
+        {
+          "id": "https://orbweaver.spruked.com/account",
+          "label": "Orb Weaver - Website ORB Intelligence Engine",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com/account"
+        },
+        {
+          "id": "https://orbweaver.spruked.com/cart",
+          "label": "Orb Weaver - Website ORB Intelligence Engine",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com/cart"
+        },
+        {
+          "id": "https://orbweaver.spruked.com/checkout",
+          "label": "Orb Weaver - Website ORB Intelligence Engine",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com/checkout"
+        },
+        {
+          "id": "https://orbweaver.spruked.com/checkout/success",
+          "label": "Orb Weaver - Website ORB Intelligence Engine",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com/checkout/success"
+        },
+        {
+          "id": "https://orbweaver.spruked.com/login",
+          "label": "Orb Weaver - Website ORB Intelligence Engine",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com/login"
+        },
+        {
+          "id": "https://orbweaver.spruked.com/signup",
+          "label": "Orb Weaver - Website ORB Intelligence Engine",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com/signup"
+        },
+        {
+          "id": "https://orbweaver.spruked.com/privacy",
+          "label": "Orb Weaver - Website ORB Intelligence Engine",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com/privacy"
+        },
+        {
+          "id": "https://orbweaver.spruked.com/terms",
+          "label": "Orb Weaver - Website ORB Intelligence Engine",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com/terms"
+        },
+        {
+          "id": "https://orbweaver.spruked.com/sitemap.xml",
+          "label": "https://orbweaver.spruked.com/sitemap.xml",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com/sitemap.xml"
+        },
+        {
+          "id": "https://orbweaver.spruked.com/crawl",
+          "label": "Orb Weaver - Website ORB Intelligence Engine",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com/crawl"
+        },
+        {
+          "id": "https://orbweaver.spruked.com/projects",
+          "label": "Orb Weaver - Website ORB Intelligence Engine",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com/projects"
+        },
+        {
+          "id": "https://orbweaver.spruked.com/reports",
+          "label": "Orb Weaver - Website ORB Intelligence Engine",
+          "type": "page",
+          "url": "https://orbweaver.spruked.com/reports"
+        }
+      ],
+      "edges": [
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:User-agent",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:Content-Signal",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:Allow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:The",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:Search",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:AI-generated",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:ANY RESTRICTIONS EXPRESSED VIA",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:CONTENT SIGNALS ARE EXPRESS",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:RESERVATIONS",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:RIGHTS UNDER ARTICLE",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:THE EUROPEAN UNION DIRECTIVE",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:COPYRIGHT",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:AND RELATED RIGHTS",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:THE DIGITAL SINGLE MARKET",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:BEGIN Cloudflare Managed",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:Amazonbot\nDisallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:Applebot-Extended\nDisallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:Bytespider\nDisallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:CCBot\nDisallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:ClaudeBot\nDisallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:CloudflareBrowserRenderingCrawler\nDisallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:Google-Extended\nDisallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:GPTBot\nDisallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:Disallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "entity:END Cloudflare Managed Content",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "person:ANY RESTRICTIONS EXPRESSED VIA",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "person:CONTENT SIGNALS ARE EXPRESS",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "person:RIGHTS UNDER ARTICLE",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "person:THE EUROPEAN UNION DIRECTIVE",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "person:AND RELATED RIGHTS",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "person:THE DIGITAL SINGLE MARKET",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "person:BEGIN Cloudflare Managed",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "person:Amazonbot\nDisallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "person:Applebot-Extended\nDisallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "person:Bytespider\nDisallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "person:CCBot\nDisallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "person:ClaudeBot\nDisallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "person:CloudflareBrowserRenderingCrawler\nDisallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "person:Google-Extended\nDisallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/robots.txt",
+          "target": "person:GPTBot\nDisallow",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com",
+          "target": "entity:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com",
+          "target": "entity:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com",
+          "target": "entity:You",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com",
+          "target": "entity:JavaScript",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com",
+          "target": "person:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com",
+          "target": "person:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com",
+          "target": "schema.org:SoftwareApplication",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/admin",
+          "target": "entity:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/admin",
+          "target": "entity:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/admin",
+          "target": "entity:You",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/admin",
+          "target": "entity:JavaScript",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/admin",
+          "target": "person:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/admin",
+          "target": "person:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/admin",
+          "target": "schema.org:SoftwareApplication",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/admin/customers",
+          "target": "entity:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/admin/customers",
+          "target": "entity:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/admin/customers",
+          "target": "entity:You",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/admin/customers",
+          "target": "entity:JavaScript",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/admin/customers",
+          "target": "person:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/admin/customers",
+          "target": "person:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/admin/customers",
+          "target": "schema.org:SoftwareApplication",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/dashboard",
+          "target": "entity:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/dashboard",
+          "target": "entity:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/dashboard",
+          "target": "entity:You",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/dashboard",
+          "target": "entity:JavaScript",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/dashboard",
+          "target": "person:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/dashboard",
+          "target": "person:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/dashboard",
+          "target": "schema.org:SoftwareApplication",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/account",
+          "target": "entity:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/account",
+          "target": "entity:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/account",
+          "target": "entity:You",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/account",
+          "target": "entity:JavaScript",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/account",
+          "target": "person:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/account",
+          "target": "person:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/account",
+          "target": "schema.org:SoftwareApplication",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/cart",
+          "target": "entity:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/cart",
+          "target": "entity:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/cart",
+          "target": "entity:You",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/cart",
+          "target": "entity:JavaScript",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/cart",
+          "target": "person:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/cart",
+          "target": "person:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/cart",
+          "target": "schema.org:SoftwareApplication",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/checkout",
+          "target": "entity:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/checkout",
+          "target": "entity:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/checkout",
+          "target": "entity:You",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/checkout",
+          "target": "entity:JavaScript",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/checkout",
+          "target": "person:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/checkout",
+          "target": "person:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/checkout",
+          "target": "schema.org:SoftwareApplication",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/checkout/success",
+          "target": "entity:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/checkout/success",
+          "target": "entity:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/checkout/success",
+          "target": "entity:You",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/checkout/success",
+          "target": "entity:JavaScript",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/checkout/success",
+          "target": "person:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/checkout/success",
+          "target": "person:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/checkout/success",
+          "target": "schema.org:SoftwareApplication",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/login",
+          "target": "entity:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/login",
+          "target": "entity:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/login",
+          "target": "entity:You",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/login",
+          "target": "entity:JavaScript",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/login",
+          "target": "person:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/login",
+          "target": "person:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/login",
+          "target": "schema.org:SoftwareApplication",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/signup",
+          "target": "entity:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/signup",
+          "target": "entity:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/signup",
+          "target": "entity:You",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/signup",
+          "target": "entity:JavaScript",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/signup",
+          "target": "person:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/signup",
+          "target": "person:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/signup",
+          "target": "schema.org:SoftwareApplication",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/privacy",
+          "target": "entity:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/privacy",
+          "target": "entity:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/privacy",
+          "target": "entity:You",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/privacy",
+          "target": "entity:JavaScript",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/privacy",
+          "target": "person:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/privacy",
+          "target": "person:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/privacy",
+          "target": "schema.org:SoftwareApplication",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/terms",
+          "target": "entity:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/terms",
+          "target": "entity:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/terms",
+          "target": "entity:You",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/terms",
+          "target": "entity:JavaScript",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/terms",
+          "target": "person:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/terms",
+          "target": "person:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/terms",
+          "target": "schema.org:SoftwareApplication",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/crawl",
+          "target": "entity:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/crawl",
+          "target": "entity:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/crawl",
+          "target": "entity:You",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/crawl",
+          "target": "entity:JavaScript",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/crawl",
+          "target": "person:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/crawl",
+          "target": "person:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/crawl",
+          "target": "schema.org:SoftwareApplication",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/projects",
+          "target": "entity:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/projects",
+          "target": "entity:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/projects",
+          "target": "entity:You",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/projects",
+          "target": "entity:JavaScript",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/projects",
+          "target": "person:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/projects",
+          "target": "person:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/projects",
+          "target": "schema.org:SoftwareApplication",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/reports",
+          "target": "entity:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/reports",
+          "target": "entity:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/reports",
+          "target": "entity:You",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/reports",
+          "target": "entity:JavaScript",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/reports",
+          "target": "person:Orb Weaver",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/reports",
+          "target": "person:Website ORB Intelligence Engine",
+          "relationship": "mentions"
+        },
+        {
+          "source": "https://orbweaver.spruked.com/reports",
+          "target": "schema.org:SoftwareApplication",
+          "relationship": "mentions"
+        }
+      ],
+      "hubs": [
+        {
+          "id": "entity:Orb Weaver",
+          "label": "Orb Weaver",
+          "mentions": 15
+        },
+        {
+          "id": "entity:Website ORB Intelligence Engine",
+          "label": "Website ORB Intelligence Engine",
+          "mentions": 15
+        },
+        {
+          "id": "entity:You",
+          "label": "You",
+          "mentions": 15
+        },
+        {
+          "id": "entity:JavaScript",
+          "label": "JavaScript",
+          "mentions": 15
+        },
+        {
+          "id": "person:Orb Weaver",
+          "label": "Orb Weaver",
+          "mentions": 15
+        },
+        {
+          "id": "person:Website ORB Intelligence Engine",
+          "label": "Website ORB Intelligence Engine",
+          "mentions": 15
+        },
+        {
+          "id": "schema.org:SoftwareApplication",
+          "label": "SoftwareApplication",
+          "mentions": 15
+        }
+      ],
+      "topic_clusters": [
+        {
+          "topic": "user-agent",
+          "pages": [
+            "https://orbweaver.spruked.com/robots.txt"
+          ],
+          "page_count": 1
+        },
+        {
+          "topic": "orb",
+          "pages": [
+            "https://orbweaver.spruked.com",
+            "https://orbweaver.spruked.com/admin",
+            "https://orbweaver.spruked.com/admin/customers",
+            "https://orbweaver.spruked.com/dashboard",
+            "https://orbweaver.spruked.com/account",
+            "https://orbweaver.spruked.com/cart",
+            "https://orbweaver.spruked.com/checkout",
+            "https://orbweaver.spruked.com/checkout/success",
+            "https://orbweaver.spruked.com/login",
+            "https://orbweaver.spruked.com/signup",
+            "https://orbweaver.spruked.com/privacy",
+            "https://orbweaver.spruked.com/terms",
+            "https://orbweaver.spruked.com/crawl",
+            "https://orbweaver.spruked.com/projects",
+            "https://orbweaver.spruked.com/reports"
+          ],
+          "page_count": 15
+        },
+        {
+          "topic": "https",
+          "pages": [
+            "https://orbweaver.spruked.com/sitemap.xml"
+          ],
+          "page_count": 1
+        }
+      ],
+      "missing_pillar_pages": [
+        {
+          "entity": "Orb Weaver",
+          "reason": "Entity appears across multiple pages but no exact-title pillar page was found"
+        },
+        {
+          "entity": "Website ORB Intelligence Engine",
+          "reason": "Entity appears across multiple pages but no exact-title pillar page was found"
+        },
+        {
+          "entity": "You",
+          "reason": "Entity appears across multiple pages but no exact-title pillar page was found"
+        },
+        {
+          "entity": "JavaScript",
+          "reason": "Entity appears across multiple pages but no exact-title pillar page was found"
+        },
+        {
+          "entity": "Orb Weaver",
+          "reason": "Entity appears across multiple pages but no exact-title pillar page was found"
+        },
+        {
+          "entity": "Website ORB Intelligence Engine",
+          "reason": "Entity appears across multiple pages but no exact-title pillar page was found"
+        },
+        {
+          "entity": "SoftwareApplication",
+          "reason": "Entity appears across multiple pages but no exact-title pillar page was found"
+        }
+      ],
+      "internal_linking_suggestions": []
+    },
+    "competitors": [],
+    "competitor_gap": {
+      "missing_topics": [],
+      "missing_entities": [],
+      "missing_questions": [
+        "Add explicit question-led headings for competitor-covered topics"
+      ],
+      "missing_schema_types": [],
+      "missing_internal_link_hubs": [
+        "other"
+      ]
+    },
+    "template_detection": {
+      "repeated_layouts": [
+        {
+          "signature": "46b4ca0626535b993becae1b0ac6d143",
+          "page_count": 15,
+          "duplicate_text_probability": 100.0,
+          "pages": [
+            "https://orbweaver.spruked.com",
+            "https://orbweaver.spruked.com/admin",
+            "https://orbweaver.spruked.com/admin/customers",
+            "https://orbweaver.spruked.com/dashboard",
+            "https://orbweaver.spruked.com/account",
+            "https://orbweaver.spruked.com/cart",
+            "https://orbweaver.spruked.com/checkout",
+            "https://orbweaver.spruked.com/checkout/success",
+            "https://orbweaver.spruked.com/login",
+            "https://orbweaver.spruked.com/signup",
+            "https://orbweaver.spruked.com/privacy",
+            "https://orbweaver.spruked.com/terms",
+            "https://orbweaver.spruked.com/crawl",
+            "https://orbweaver.spruked.com/projects",
+            "https://orbweaver.spruked.com/reports"
+          ],
+          "orb_statement": "Core pages share 100.0% identical content signatures."
+        }
+      ],
+      "duplicated_titles": [
+        {
+          "title": "orb weaver - website orb intelligence engine",
+          "count": 15
+        }
+      ],
+      "duplicated_meta_descriptions": [
+        {
+          "meta_description": "orb weaver is a local-first website intelligence engine for technical seo audits, site crawling, orb-readable reporting, ga4 analysis, crawl history, and client-ready recommendations.",
+          "count": 15
+        }
+      ]
+    },
+    "error": null
+  },
+  "audit": {
+    "id": "8",
+    "crawl_job_id": "9",
+    "project": {
+      "id": "6",
+      "name": "orb weaver",
+      "domain": "orbweaver.spruked.com",
+      "ga4_property_id": null,
+      "created_at": "2026-06-15T02:48:45.590618"
+    },
+    "created_at": "2026-06-15T02:51:52.618662",
+    "report": {
+      "scores": {
+        "overall": 62.1,
+        "seo": 71.0,
+        "performance": 100,
+        "accessibility": 90.0,
+        "content": 0,
+        "technical": 91.0,
+        "mobile": 80,
+        "security": 100,
+        "authority": 15,
+        "schema": 100
+      },
+      "issues": {
+        "critical": [
+          {
+            "severity": "critical",
+            "category": "on-page",
+            "title": "Title Tag Issues",
+            "description": "2 pages have missing, too long, or too short title tags",
+            "affected_urls": [
+              "https://orbweaver.spruked.com/robots.txt",
+              "https://orbweaver.spruked.com/sitemap.xml"
+            ],
+            "recommendation": "Ensure every page has a unique title tag between 10-60 characters",
+            "impact_score": 85
+          },
+          {
+            "severity": "critical",
+            "category": "on-page",
+            "title": "Missing H1 Tags",
+            "description": "17 pages are missing H1 headings",
+            "affected_urls": [
+              "https://orbweaver.spruked.com/robots.txt",
+              "https://orbweaver.spruked.com",
+              "https://orbweaver.spruked.com/admin",
+              "https://orbweaver.spruked.com/admin/customers",
+              "https://orbweaver.spruked.com/dashboard",
+              "https://orbweaver.spruked.com/account",
+              "https://orbweaver.spruked.com/cart",
+              "https://orbweaver.spruked.com/checkout",
+              "https://orbweaver.spruked.com/checkout/success",
+              "https://orbweaver.spruked.com/login"
+            ],
+            "recommendation": "Every page should have exactly one H1 tag that describes the main topic",
+            "impact_score": 80
+          },
+          {
+            "severity": "critical",
+            "category": "technical",
+            "title": "Missing Mobile Viewport",
+            "description": "2 pages lack mobile viewport meta tag",
+            "affected_urls": [
+              "https://orbweaver.spruked.com/robots.txt",
+              "https://orbweaver.spruked.com/sitemap.xml"
+            ],
+            "recommendation": "Add <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+            "impact_score": 85
+          }
+        ],
+        "warnings": [
+          {
+            "severity": "warning",
+            "category": "on-page",
+            "title": "Meta Description Issues",
+            "description": "17 pages have missing or poorly optimized meta descriptions",
+            "affected_urls": [
+              "https://orbweaver.spruked.com/robots.txt",
+              "https://orbweaver.spruked.com",
+              "https://orbweaver.spruked.com/admin",
+              "https://orbweaver.spruked.com/admin/customers",
+              "https://orbweaver.spruked.com/dashboard",
+              "https://orbweaver.spruked.com/account",
+              "https://orbweaver.spruked.com/cart",
+              "https://orbweaver.spruked.com/checkout",
+              "https://orbweaver.spruked.com/checkout/success",
+              "https://orbweaver.spruked.com/login"
+            ],
+            "recommendation": "Write compelling meta descriptions between 50-160 characters",
+            "impact_score": 55
+          },
+          {
+            "severity": "warning",
+            "category": "content",
+            "title": "Thin Content",
+            "description": "17 pages have less than 300 words",
+            "affected_urls": [
+              "https://orbweaver.spruked.com/robots.txt",
+              "https://orbweaver.spruked.com",
+              "https://orbweaver.spruked.com/admin",
+              "https://orbweaver.spruked.com/admin/customers",
+              "https://orbweaver.spruked.com/dashboard",
+              "https://orbweaver.spruked.com/account",
+              "https://orbweaver.spruked.com/cart",
+              "https://orbweaver.spruked.com/checkout",
+              "https://orbweaver.spruked.com/checkout/success",
+              "https://orbweaver.spruked.com/login"
+            ],
+            "recommendation": "Expand thin pages with comprehensive, valuable content",
+            "impact_score": 65
+          },
+          {
+            "severity": "warning",
+            "category": "content",
+            "title": "Weak Semantic Coverage",
+            "description": "17 pages have shallow topical depth or low semantic coverage",
+            "affected_urls": [
+              "https://orbweaver.spruked.com/robots.txt",
+              "https://orbweaver.spruked.com",
+              "https://orbweaver.spruked.com/admin",
+              "https://orbweaver.spruked.com/admin/customers",
+              "https://orbweaver.spruked.com/dashboard",
+              "https://orbweaver.spruked.com/account",
+              "https://orbweaver.spruked.com/cart",
+              "https://orbweaver.spruked.com/checkout",
+              "https://orbweaver.spruked.com/checkout/success",
+              "https://orbweaver.spruked.com/login"
+            ],
+            "recommendation": "Expand pages around the primary topic, related entities, questions, and supporting subtopics",
+            "impact_score": 62
+          },
+          {
+            "severity": "warning",
+            "category": "content",
+            "title": "Low ORB Semantic Space Score",
+            "description": "16 pages cover less than 65% of their expected semantic space",
+            "affected_urls": [
+              "https://orbweaver.spruked.com",
+              "https://orbweaver.spruked.com/admin",
+              "https://orbweaver.spruked.com/admin/customers",
+              "https://orbweaver.spruked.com/dashboard",
+              "https://orbweaver.spruked.com/account",
+              "https://orbweaver.spruked.com/cart",
+              "https://orbweaver.spruked.com/checkout",
+              "https://orbweaver.spruked.com/checkout/success",
+              "https://orbweaver.spruked.com/login",
+              "https://orbweaver.spruked.com/signup"
+            ],
+            "recommendation": "Add missing entities, questions, supporting subtopics, and schema-aligned language",
+            "impact_score": 74
+          },
+          {
+            "severity": "warning",
+            "category": "technical",
+            "title": "Missing Canonical Tags",
+            "description": "2 pages lack canonical tags",
+            "affected_urls": [
+              "https://orbweaver.spruked.com/robots.txt",
+              "https://orbweaver.spruked.com/sitemap.xml"
+            ],
+            "recommendation": "Add canonical tags to prevent duplicate content issues",
+            "impact_score": 55
+          },
+          {
+            "severity": "warning",
+            "category": "content",
+            "title": "Repeated Template or Boilerplate Pattern",
+            "description": "1 repeated page template clusters were detected",
+            "affected_urls": [
+              "https://orbweaver.spruked.com",
+              "https://orbweaver.spruked.com/admin",
+              "https://orbweaver.spruked.com/admin/customers"
+            ],
+            "recommendation": "Differentiate page body copy, titles, meta descriptions, and section structure for pages sharing a template",
+            "impact_score": 72
+          },
+          {
+            "severity": "warning",
+            "category": "technical",
+            "title": "Potential Orphan Pages",
+            "description": "17 crawled pages have no incoming links from other crawled pages",
+            "affected_urls": [
+              "https://orbweaver.spruked.com/robots.txt",
+              "https://orbweaver.spruked.com",
+              "https://orbweaver.spruked.com/admin",
+              "https://orbweaver.spruked.com/admin/customers",
+              "https://orbweaver.spruked.com/dashboard",
+              "https://orbweaver.spruked.com/account",
+              "https://orbweaver.spruked.com/cart",
+              "https://orbweaver.spruked.com/checkout",
+              "https://orbweaver.spruked.com/checkout/success",
+              "https://orbweaver.spruked.com/login"
+            ],
+            "recommendation": "Link these pages from navigation, hub pages, or related body content",
+            "impact_score": 66
+          }
+        ],
+        "opportunities": [
+          {
+            "severity": "opportunity",
+            "category": "technical",
+            "title": "Weak Internal Link Distribution",
+            "description": "17 pages have fewer than two internal outgoing links",
+            "affected_urls": [
+              "https://orbweaver.spruked.com/robots.txt",
+              "https://orbweaver.spruked.com",
+              "https://orbweaver.spruked.com/admin",
+              "https://orbweaver.spruked.com/admin/customers",
+              "https://orbweaver.spruked.com/dashboard",
+              "https://orbweaver.spruked.com/account",
+              "https://orbweaver.spruked.com/cart",
+              "https://orbweaver.spruked.com/checkout",
+              "https://orbweaver.spruked.com/checkout/success",
+              "https://orbweaver.spruked.com/login"
+            ],
+            "recommendation": "Add contextual internal links to relevant service, category, and supporting content pages",
+            "impact_score": 52
+          }
+        ]
+      },
+      "summary": {
+        "total_issues": 11,
+        "critical_count": 3,
+        "warning_count": 7,
+        "opportunity_count": 1,
+        "total_pages": 17,
+        "avg_load_time": 193.9118048724006
+      },
+      "top_issues": [
+        {
+          "severity": "critical",
+          "category": "on-page",
+          "title": "Title Tag Issues",
+          "description": "2 pages have missing, too long, or too short title tags",
+          "affected_urls": [
+            "https://orbweaver.spruked.com/robots.txt",
+            "https://orbweaver.spruked.com/sitemap.xml"
+          ],
+          "recommendation": "Ensure every page has a unique title tag between 10-60 characters",
+          "impact_score": 85
+        },
+        {
+          "severity": "critical",
+          "category": "technical",
+          "title": "Missing Mobile Viewport",
+          "description": "2 pages lack mobile viewport meta tag",
+          "affected_urls": [
+            "https://orbweaver.spruked.com/robots.txt",
+            "https://orbweaver.spruked.com/sitemap.xml"
+          ],
+          "recommendation": "Add <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+          "impact_score": 85
+        },
+        {
+          "severity": "critical",
+          "category": "on-page",
+          "title": "Missing H1 Tags",
+          "description": "17 pages are missing H1 headings",
+          "affected_urls": [
+            "https://orbweaver.spruked.com/robots.txt",
+            "https://orbweaver.spruked.com",
+            "https://orbweaver.spruked.com/admin",
+            "https://orbweaver.spruked.com/admin/customers",
+            "https://orbweaver.spruked.com/dashboard",
+            "https://orbweaver.spruked.com/account",
+            "https://orbweaver.spruked.com/cart",
+            "https://orbweaver.spruked.com/checkout",
+            "https://orbweaver.spruked.com/checkout/success",
+            "https://orbweaver.spruked.com/login"
+          ],
+          "recommendation": "Every page should have exactly one H1 tag that describes the main topic",
+          "impact_score": 80
+        },
+        {
+          "severity": "warning",
+          "category": "content",
+          "title": "Low ORB Semantic Space Score",
+          "description": "16 pages cover less than 65% of their expected semantic space",
+          "affected_urls": [
+            "https://orbweaver.spruked.com",
+            "https://orbweaver.spruked.com/admin",
+            "https://orbweaver.spruked.com/admin/customers",
+            "https://orbweaver.spruked.com/dashboard",
+            "https://orbweaver.spruked.com/account",
+            "https://orbweaver.spruked.com/cart",
+            "https://orbweaver.spruked.com/checkout",
+            "https://orbweaver.spruked.com/checkout/success",
+            "https://orbweaver.spruked.com/login",
+            "https://orbweaver.spruked.com/signup"
+          ],
+          "recommendation": "Add missing entities, questions, supporting subtopics, and schema-aligned language",
+          "impact_score": 74
+        },
+        {
+          "severity": "warning",
+          "category": "content",
+          "title": "Repeated Template or Boilerplate Pattern",
+          "description": "1 repeated page template clusters were detected",
+          "affected_urls": [
+            "https://orbweaver.spruked.com",
+            "https://orbweaver.spruked.com/admin",
+            "https://orbweaver.spruked.com/admin/customers"
+          ],
+          "recommendation": "Differentiate page body copy, titles, meta descriptions, and section structure for pages sharing a template",
+          "impact_score": 72
+        },
+        {
+          "severity": "warning",
+          "category": "technical",
+          "title": "Potential Orphan Pages",
+          "description": "17 crawled pages have no incoming links from other crawled pages",
+          "affected_urls": [
+            "https://orbweaver.spruked.com/robots.txt",
+            "https://orbweaver.spruked.com",
+            "https://orbweaver.spruked.com/admin",
+            "https://orbweaver.spruked.com/admin/customers",
+            "https://orbweaver.spruked.com/dashboard",
+            "https://orbweaver.spruked.com/account",
+            "https://orbweaver.spruked.com/cart",
+            "https://orbweaver.spruked.com/checkout",
+            "https://orbweaver.spruked.com/checkout/success",
+            "https://orbweaver.spruked.com/login"
+          ],
+          "recommendation": "Link these pages from navigation, hub pages, or related body content",
+          "impact_score": 66
+        },
+        {
+          "severity": "warning",
+          "category": "content",
+          "title": "Thin Content",
+          "description": "17 pages have less than 300 words",
+          "affected_urls": [
+            "https://orbweaver.spruked.com/robots.txt",
+            "https://orbweaver.spruked.com",
+            "https://orbweaver.spruked.com/admin",
+            "https://orbweaver.spruked.com/admin/customers",
+            "https://orbweaver.spruked.com/dashboard",
+            "https://orbweaver.spruked.com/account",
+            "https://orbweaver.spruked.com/cart",
+            "https://orbweaver.spruked.com/checkout",
+            "https://orbweaver.spruked.com/checkout/success",
+            "https://orbweaver.spruked.com/login"
+          ],
+          "recommendation": "Expand thin pages with comprehensive, valuable content",
+          "impact_score": 65
+        },
+        {
+          "severity": "warning",
+          "category": "content",
+          "title": "Weak Semantic Coverage",
+          "description": "17 pages have shallow topical depth or low semantic coverage",
+          "affected_urls": [
+            "https://orbweaver.spruked.com/robots.txt",
+            "https://orbweaver.spruked.com",
+            "https://orbweaver.spruked.com/admin",
+            "https://orbweaver.spruked.com/admin/customers",
+            "https://orbweaver.spruked.com/dashboard",
+            "https://orbweaver.spruked.com/account",
+            "https://orbweaver.spruked.com/cart",
+            "https://orbweaver.spruked.com/checkout",
+            "https://orbweaver.spruked.com/checkout/success",
+            "https://orbweaver.spruked.com/login"
+          ],
+          "recommendation": "Expand pages around the primary topic, related entities, questions, and supporting subtopics",
+          "impact_score": 62
+        },
+        {
+          "severity": "warning",
+          "category": "on-page",
+          "title": "Meta Description Issues",
+          "description": "17 pages have missing or poorly optimized meta descriptions",
+          "affected_urls": [
+            "https://orbweaver.spruked.com/robots.txt",
+            "https://orbweaver.spruked.com",
+            "https://orbweaver.spruked.com/admin",
+            "https://orbweaver.spruked.com/admin/customers",
+            "https://orbweaver.spruked.com/dashboard",
+            "https://orbweaver.spruked.com/account",
+            "https://orbweaver.spruked.com/cart",
+            "https://orbweaver.spruked.com/checkout",
+            "https://orbweaver.spruked.com/checkout/success",
+            "https://orbweaver.spruked.com/login"
+          ],
+          "recommendation": "Write compelling meta descriptions between 50-160 characters",
+          "impact_score": 55
+        },
+        {
+          "severity": "warning",
+          "category": "technical",
+          "title": "Missing Canonical Tags",
+          "description": "2 pages lack canonical tags",
+          "affected_urls": [
+            "https://orbweaver.spruked.com/robots.txt",
+            "https://orbweaver.spruked.com/sitemap.xml"
+          ],
+          "recommendation": "Add canonical tags to prevent duplicate content issues",
+          "impact_score": 55
+        }
+      ]
+    }
+  },
+  "recommendations": [
+    {
+      "severity": "critical",
+      "category": "on-page",
+      "title": "Title Tag Issues",
+      "description": "2 pages have missing, too long, or too short title tags",
+      "affected_urls": [
+        "https://orbweaver.spruked.com/robots.txt",
+        "https://orbweaver.spruked.com/sitemap.xml"
+      ],
+      "recommendation": "Ensure every page has a unique title tag between 10-60 characters",
+      "impact_score": 85
+    },
+    {
+      "severity": "critical",
+      "category": "technical",
+      "title": "Missing Mobile Viewport",
+      "description": "2 pages lack mobile viewport meta tag",
+      "affected_urls": [
+        "https://orbweaver.spruked.com/robots.txt",
+        "https://orbweaver.spruked.com/sitemap.xml"
+      ],
+      "recommendation": "Add <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+      "impact_score": 85
+    },
+    {
+      "severity": "critical",
+      "category": "on-page",
+      "title": "Missing H1 Tags",
+      "description": "17 pages are missing H1 headings",
+      "affected_urls": [
+        "https://orbweaver.spruked.com/robots.txt",
+        "https://orbweaver.spruked.com",
+        "https://orbweaver.spruked.com/admin",
+        "https://orbweaver.spruked.com/admin/customers",
+        "https://orbweaver.spruked.com/dashboard",
+        "https://orbweaver.spruked.com/account",
+        "https://orbweaver.spruked.com/cart",
+        "https://orbweaver.spruked.com/checkout",
+        "https://orbweaver.spruked.com/checkout/success",
+        "https://orbweaver.spruked.com/login"
+      ],
+      "recommendation": "Every page should have exactly one H1 tag that describes the main topic",
+      "impact_score": 80
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Low ORB Semantic Space Score",
+      "description": "16 pages cover less than 65% of their expected semantic space",
+      "affected_urls": [
+        "https://orbweaver.spruked.com",
+        "https://orbweaver.spruked.com/admin",
+        "https://orbweaver.spruked.com/admin/customers",
+        "https://orbweaver.spruked.com/dashboard",
+        "https://orbweaver.spruked.com/account",
+        "https://orbweaver.spruked.com/cart",
+        "https://orbweaver.spruked.com/checkout",
+        "https://orbweaver.spruked.com/checkout/success",
+        "https://orbweaver.spruked.com/login",
+        "https://orbweaver.spruked.com/signup"
+      ],
+      "recommendation": "Add missing entities, questions, supporting subtopics, and schema-aligned language",
+      "impact_score": 74
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Repeated Template or Boilerplate Pattern",
+      "description": "1 repeated page template clusters were detected",
+      "affected_urls": [
+        "https://orbweaver.spruked.com",
+        "https://orbweaver.spruked.com/admin",
+        "https://orbweaver.spruked.com/admin/customers"
+      ],
+      "recommendation": "Differentiate page body copy, titles, meta descriptions, and section structure for pages sharing a template",
+      "impact_score": 72
+    },
+    {
+      "severity": "warning",
+      "category": "technical",
+      "title": "Potential Orphan Pages",
+      "description": "17 crawled pages have no incoming links from other crawled pages",
+      "affected_urls": [
+        "https://orbweaver.spruked.com/robots.txt",
+        "https://orbweaver.spruked.com",
+        "https://orbweaver.spruked.com/admin",
+        "https://orbweaver.spruked.com/admin/customers",
+        "https://orbweaver.spruked.com/dashboard",
+        "https://orbweaver.spruked.com/account",
+        "https://orbweaver.spruked.com/cart",
+        "https://orbweaver.spruked.com/checkout",
+        "https://orbweaver.spruked.com/checkout/success",
+        "https://orbweaver.spruked.com/login"
+      ],
+      "recommendation": "Link these pages from navigation, hub pages, or related body content",
+      "impact_score": 66
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Thin Content",
+      "description": "17 pages have less than 300 words",
+      "affected_urls": [
+        "https://orbweaver.spruked.com/robots.txt",
+        "https://orbweaver.spruked.com",
+        "https://orbweaver.spruked.com/admin",
+        "https://orbweaver.spruked.com/admin/customers",
+        "https://orbweaver.spruked.com/dashboard",
+        "https://orbweaver.spruked.com/account",
+        "https://orbweaver.spruked.com/cart",
+        "https://orbweaver.spruked.com/checkout",
+        "https://orbweaver.spruked.com/checkout/success",
+        "https://orbweaver.spruked.com/login"
+      ],
+      "recommendation": "Expand thin pages with comprehensive, valuable content",
+      "impact_score": 65
+    },
+    {
+      "severity": "warning",
+      "category": "content",
+      "title": "Weak Semantic Coverage",
+      "description": "17 pages have shallow topical depth or low semantic coverage",
+      "affected_urls": [
+        "https://orbweaver.spruked.com/robots.txt",
+        "https://orbweaver.spruked.com",
+        "https://orbweaver.spruked.com/admin",
+        "https://orbweaver.spruked.com/admin/customers",
+        "https://orbweaver.spruked.com/dashboard",
+        "https://orbweaver.spruked.com/account",
+        "https://orbweaver.spruked.com/cart",
+        "https://orbweaver.spruked.com/checkout",
+        "https://orbweaver.spruked.com/checkout/success",
+        "https://orbweaver.spruked.com/login"
+      ],
+      "recommendation": "Expand pages around the primary topic, related entities, questions, and supporting subtopics",
+      "impact_score": 62
+    },
+    {
+      "severity": "warning",
+      "category": "on-page",
+      "title": "Meta Description Issues",
+      "description": "17 pages have missing or poorly optimized meta descriptions",
+      "affected_urls": [
+        "https://orbweaver.spruked.com/robots.txt",
+        "https://orbweaver.spruked.com",
+        "https://orbweaver.spruked.com/admin",
+        "https://orbweaver.spruked.com/admin/customers",
+        "https://orbweaver.spruked.com/dashboard",
+        "https://orbweaver.spruked.com/account",
+        "https://orbweaver.spruked.com/cart",
+        "https://orbweaver.spruked.com/checkout",
+        "https://orbweaver.spruked.com/checkout/success",
+        "https://orbweaver.spruked.com/login"
+      ],
+      "recommendation": "Write compelling meta descriptions between 50-160 characters",
+      "impact_score": 55
+    },
+    {
+      "severity": "warning",
+      "category": "technical",
+      "title": "Missing Canonical Tags",
+      "description": "2 pages lack canonical tags",
+      "affected_urls": [
+        "https://orbweaver.spruked.com/robots.txt",
+        "https://orbweaver.spruked.com/sitemap.xml"
+      ],
+      "recommendation": "Add canonical tags to prevent duplicate content issues",
+      "impact_score": 55
+    }
+  ],
+  "safe_claims": [],
+  "banned_claims": [],
+  "customer_memory_eligibility": {
+    "eligible": true,
+    "reason": "audit_complete"
+  }
+}

@@ -1,0 +1,385 @@
+.
+├── .dockerignore
+├── .env.example
+├── .gitignore
+├── Dockerfile
+├── Preflight Scanner
+│   ├── orbs_preflight.py
+│   ├── preflight_site_scan.py
+│   ├── setup_orb.sh
+│   └── ssi_fastapi.py
+├── README.md
+├── Weaver_ORB
+│   └── Triple_Predicate_Cubed
+│       └── tpc_orb_desktop
+│           ├── backend
+│           ├── engines
+│           │   ├── kokoro_engine
+│           │   ├── phonatory_output_bridge
+│           │   └── qwen_engine
+│           └── tpc_core
+│               ├── axis1_input_trinity
+│               │   └── acp
+│               └── pipeline
+├── backend
+│   ├── Dockerfile
+│   ├── Preflight Scanner
+│   ├── R:\R_Drive_Substrate\Orb_Weaver_Data_Files
+│   │   ├── clients
+│   │   │   ├── halopets.com
+│   │   │   │   ├── approved_claims
+│   │   │   │   ├── banned_claims
+│   │   │   │   ├── claims
+│   │   │   │   │   ├── banned_claims.json
+│   │   │   │   │   └── safe_claims.json
+│   │   │   │   ├── crm_context
+│   │   │   │   │   └── latest_context.json
+│   │   │   │   ├── current
+│   │   │   │   │   ├── latest_audit.json
+│   │   │   │   │   ├── latest_crawl.json
+│   │   │   │   │   └── latest_lexicon.json
+│   │   │   │   ├── dandy_packs
+│   │   │   │   ├── dandy_sponsor_pack
+│   │   │   │   │   └── latest_pack.json
+│   │   │   │   ├── history
+│   │   │   │   │   ├── audit_9.json
+│   │   │   │   │   └── crawl_11.json
+│   │   │   │   ├── local_index
+│   │   │   │   │   └── client_index.sqlite
+│   │   │   │   ├── mail_context
+│   │   │   │   │   └── latest_context.json
+│   │   │   │   ├── owner_seed_changes
+│   │   │   │   ├── recommendations
+│   │   │   │   │   └── audit_9_recommendations.json
+│   │   │   │   ├── visitor_questions
+│   │   │   │   └── website_orb_context
+│   │   │   │       ├── latest_context.json
+│   │   │   │       └── site_lexicon.json
+│   │   │   ├── orbweaver.spruked.com
+│   │   │   │   ├── approved_claims
+│   │   │   │   ├── banned_claims
+│   │   │   │   ├── claims
+│   │   │   │   │   ├── banned_claims.json
+│   │   │   │   │   └── safe_claims.json
+│   │   │   │   ├── crm_context
+│   │   │   │   │   └── latest_context.json
+│   │   │   │   ├── current
+│   │   │   │   │   ├── latest_audit.json
+│   │   │   │   │   ├── latest_crawl.json
+│   │   │   │   │   └── latest_lexicon.json
+│   │   │   │   ├── dandy_packs
+│   │   │   │   ├── dandy_sponsor_pack
+│   │   │   │   │   └── latest_pack.json
+│   │   │   │   ├── history
+│   │   │   │   │   ├── audit_8.json
+│   │   │   │   │   └── crawl_9.json
+│   │   │   │   ├── local_index
+│   │   │   │   │   └── client_index.sqlite
+│   │   │   │   ├── mail_context
+│   │   │   │   │   └── latest_context.json
+│   │   │   │   ├── owner_seed_changes
+│   │   │   │   ├── recommendations
+│   │   │   │   │   └── audit_8_recommendations.json
+│   │   │   │   ├── visitor_questions
+│   │   │   │   └── website_orb_context
+│   │   │   │       ├── latest_context.json
+│   │   │   │       └── site_lexicon.json
+│   │   │   ├── spruked.com
+│   │   │   │   ├── approved_claims
+│   │   │   │   ├── banned_claims
+│   │   │   │   ├── claims
+│   │   │   │   ├── crm_context
+│   │   │   │   │   └── latest_context.json
+│   │   │   │   ├── current
+│   │   │   │   │   ├── latest_crawl.json
+│   │   │   │   │   └── latest_lexicon.json
+│   │   │   │   ├── dandy_packs
+│   │   │   │   ├── dandy_sponsor_pack
+│   │   │   │   │   └── latest_pack.json
+│   │   │   │   ├── history
+│   │   │   │   │   └── crawl_10.json
+│   │   │   │   ├── local_index
+│   │   │   │   │   └── client_index.sqlite
+│   │   │   │   ├── mail_context
+│   │   │   │   │   └── latest_context.json
+│   │   │   │   ├── owner_seed_changes
+│   │   │   │   ├── recommendations
+│   │   │   │   ├── visitor_questions
+│   │   │   │   └── website_orb_context
+│   │   │   │       ├── latest_context.json
+│   │   │   │       └── site_lexicon.json
+│   │   │   ├── stevenrubertsteamwo560af.myclickfunnels.com
+│   │   │   │   ├── approved_claims
+│   │   │   │   ├── banned_claims
+│   │   │   │   ├── claims
+│   │   │   │   ├── crm_context
+│   │   │   │   │   └── latest_context.json
+│   │   │   │   ├── current
+│   │   │   │   │   ├── latest_crawl.json
+│   │   │   │   │   └── latest_lexicon.json
+│   │   │   │   ├── dandy_packs
+│   │   │   │   ├── dandy_sponsor_pack
+│   │   │   │   │   └── latest_pack.json
+│   │   │   │   ├── history
+│   │   │   │   │   └── crawl_6.json
+│   │   │   │   ├── local_index
+│   │   │   │   │   └── client_index.sqlite
+│   │   │   │   ├── mail_context
+│   │   │   │   │   └── latest_context.json
+│   │   │   │   ├── owner_seed_changes
+│   │   │   │   ├── recommendations
+│   │   │   │   ├── visitor_questions
+│   │   │   │   └── website_orb_context
+│   │   │   │       ├── latest_context.json
+│   │   │   │       └── site_lexicon.json
+│   │   │   └── truemarkmint.com
+│   │   │       ├── approved_claims
+│   │   │       ├── banned_claims
+│   │   │       ├── claims
+│   │   │       │   ├── banned_claims.json
+│   │   │       │   └── safe_claims.json
+│   │   │       ├── crm_context
+│   │   │       │   └── latest_context.json
+│   │   │       ├── current
+│   │   │       │   ├── latest_audit.json
+│   │   │       │   ├── latest_crawl.json
+│   │   │       │   ├── latest_lexicon.json
+│   │   │       │   └── latest_preflight.json
+│   │   │       ├── dandy_packs
+│   │   │       ├── dandy_sponsor_pack
+│   │   │       │   └── latest_pack.json
+│   │   │       ├── history
+│   │   │       │   ├── audit_6.json
+│   │   │       │   ├── audit_7.json
+│   │   │       │   ├── crawl_7.json
+│   │   │       │   └── crawl_8.json
+│   │   │       ├── local_index
+│   │   │       │   └── client_index.sqlite
+│   │   │       ├── mail_context
+│   │   │       │   └── latest_context.json
+│   │   │       ├── owner_seed_changes
+│   │   │       ├── recommendations
+│   │   │       │   ├── audit_6_recommendations.json
+│   │   │       │   └── audit_7_recommendations.json
+│   │   │       ├── visitor_questions
+│   │   │       └── website_orb_context
+│   │   │           ├── latest_context.json
+│   │   │           ├── site_lexicon.json
+│   │   │           └── site_preflight_report.json
+│   │   └── global_intelligence
+│   │       ├── audit_patterns.jsonl
+│   │       └── crawl_patterns.jsonl
+│   ├── R:\R_Drive_Substrate\orb_weaver
+│   │   ├── clients
+│   │   │   ├── spruked.com
+│   │   │   │   ├── approved_claims
+│   │   │   │   ├── banned_claims
+│   │   │   │   ├── claims
+│   │   │   │   │   ├── banned_claims.json
+│   │   │   │   │   └── safe_claims.json
+│   │   │   │   ├── crm_context
+│   │   │   │   │   └── latest_context.json
+│   │   │   │   ├── current
+│   │   │   │   │   ├── latest_audit.json
+│   │   │   │   │   ├── latest_crawl.json
+│   │   │   │   │   └── latest_preflight.json
+│   │   │   │   ├── dandy_packs
+│   │   │   │   ├── dandy_sponsor_pack
+│   │   │   │   │   └── latest_pack.json
+│   │   │   │   ├── history
+│   │   │   │   │   ├── audit_3.json
+│   │   │   │   │   ├── audit_4.json
+│   │   │   │   │   ├── crawl_3.json
+│   │   │   │   │   └── crawl_4.json
+│   │   │   │   ├── local_index
+│   │   │   │   │   └── client_index.sqlite
+│   │   │   │   ├── mail_context
+│   │   │   │   │   └── latest_context.json
+│   │   │   │   ├── owner_seed_changes
+│   │   │   │   ├── recommendations
+│   │   │   │   │   ├── audit_3_recommendations.json
+│   │   │   │   │   └── audit_4_recommendations.json
+│   │   │   │   ├── visitor_questions
+│   │   │   │   └── website_orb_context
+│   │   │   │       ├── latest_context.json
+│   │   │   │       └── site_preflight_report.json
+│   │   │   └── www.clickitrv.com
+│   │   │       ├── approved_claims
+│   │   │       ├── banned_claims
+│   │   │       ├── claims
+│   │   │       │   ├── banned_claims.json
+│   │   │       │   └── safe_claims.json
+│   │   │       ├── crm_context
+│   │   │       │   └── latest_context.json
+│   │   │       ├── current
+│   │   │       │   ├── latest_audit.json
+│   │   │       │   └── latest_crawl.json
+│   │   │       ├── dandy_packs
+│   │   │       ├── dandy_sponsor_pack
+│   │   │       │   └── latest_pack.json
+│   │   │       ├── history
+│   │   │       │   ├── audit_5.json
+│   │   │       │   └── crawl_5.json
+│   │   │       ├── local_index
+│   │   │       │   └── client_index.sqlite
+│   │   │       ├── mail_context
+│   │   │       │   └── latest_context.json
+│   │   │       ├── owner_seed_changes
+│   │   │       ├── recommendations
+│   │   │       │   └── audit_5_recommendations.json
+│   │   │       ├── visitor_questions
+│   │   │       └── website_orb_context
+│   │   │           └── latest_context.json
+│   │   └── global_intelligence
+│   │       ├── audit_patterns.jsonl
+│   │       └── crawl_patterns.jsonl
+│   ├── app
+│   │   ├── __init__.py
+│   │   ├── analytics
+│   │   │   ├── __init__.py
+│   │   │   └── ga4.py
+│   │   ├── api
+│   │   │   └── __init__.py
+│   │   ├── audit
+│   │   │   ├── __init__.py
+│   │   │   └── engine.py
+│   │   ├── core
+│   │   │   ├── __init__.py
+│   │   │   └── config.py
+│   │   ├── crawler
+│   │   │   ├── __init__.py
+│   │   │   └── engine.py
+│   │   ├── models
+│   │   │   ├── __init__.py
+│   │   │   └── database.py
+│   │   ├── pack_generator
+│   │   │   ├── api
+│   │   │   ├── builders
+│   │   │   ├── compilers
+│   │   │   ├── core
+│   │   │   ├── tests
+│   │   │   └── utils
+│   │   └── services
+│   │       └── __init__.py
+│   ├── ga4-credentials.json
+│   ├── main.py
+│   ├── requirements.txt
+│   └── tests
+├── deploy
+│   ├── cloudflared
+│   │   └── orbweaver.spruked.com.yml
+│   ├── docker
+│   │   └── start-orb-weaver.sh
+│   └── nginx
+│       └── orb-weaver.conf
+├── docker-compose.yml
+├── docs
+│   ├── DEPLOYMENT_ORB_WEAVER_SPRUKED.md
+│   ├── INTELLIGENCE_PRESERVATION.md
+│   ├── ORB_WEAVER_FAILURE_INVENTORY.md
+│   ├── ORB_WEAVER_INTELLIGENCE_GRAPH_SPEC.md
+│   └── PACK_CONTRACT_V0_1.md
+├── frontend
+│   ├── Dockerfile
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── postcss.config.js
+│   ├── public
+│   │   ├── ORBWEAVERLOGOFINAL.PNG
+│   │   ├── apple-touch-icon.png
+│   │   ├── favicon.ico
+│   │   ├── index.html
+│   │   ├── logositecrawler1600.png
+│   │   ├── marketplace-basic-orb-infographic.png
+│   │   ├── orb-impact-site-logo.png
+│   │   ├── orb-skins
+│   │   │   ├── blueorbsampl1024.png
+│   │   │   ├── natureorb1.png
+│   │   │   └── orbexample2.png
+│   │   ├── orbweaver1600.png
+│   │   ├── orbweaverfavicon-source-512.png
+│   │   ├── orbweaverlogo.png
+│   │   ├── orbweaverlogo1024.png
+│   │   ├── robots.txt
+│   │   └── sitemap.xml
+│   ├── scripts
+│   │   └── preflight-dashboard-smoke.js
+│   ├── src
+│   │   ├── App.tsx
+│   │   ├── assets
+│   │   │   ├── Gemini_Generated_Image_tdi3iktdi3iktdi3.png
+│   │   │   ├── ORBWEAVERLOGOFINAL.PNG
+│   │   │   ├── ORBWEAVERLOGOFINAL2.PNG
+│   │   │   ├── Untitled.xcf
+│   │   │   ├── blueorbsampl1024.png
+│   │   │   ├── infographicbasicorb.png
+│   │   │   ├── natureorb1.png
+│   │   │   ├── orbexample2.png
+│   │   │   ├── orbweaver1600.png
+│   │   │   ├── orbweaver1600.xcf
+│   │   │   ├── orbweaver2.xcf
+│   │   │   ├── orbweaver48.ico
+│   │   │   ├── orbweaver48.xcf
+│   │   │   ├── orbweaverfavicon-source-512.png
+│   │   │   └── orbweaverlogo1024.png
+│   │   ├── components
+│   │   │   ├── IssueCard.tsx
+│   │   │   ├── Layout.tsx
+│   │   │   └── ScoreCircle.tsx
+│   │   ├── index.css
+│   │   ├── index.tsx
+│   │   ├── marketplace
+│   │   │   ├── MarketplaceRoutes.tsx
+│   │   │   ├── README.md
+│   │   │   ├── components
+│   │   │   │   ├── MarketCard.tsx
+│   │   │   │   ├── MarketCollectionRail.tsx
+│   │   │   │   ├── MarketIndexCode.tsx
+│   │   │   │   ├── MarketLayout.tsx
+│   │   │   │   ├── MarketNav.tsx
+│   │   │   │   └── MarketShelf.tsx
+│   │   │   ├── data
+│   │   │   │   └── marketplaceData.ts
+│   │   │   ├── hooks
+│   │   │   │   └── useMarketplace.ts
+│   │   │   ├── pages
+│   │   │   │   ├── MarketplaceCategory.tsx
+│   │   │   │   ├── MarketplaceCollections.tsx
+│   │   │   │   ├── MarketplaceHome.tsx
+│   │   │   │   ├── MarketplaceProduct.tsx
+│   │   │   │   └── MarketplaceSearch.tsx
+│   │   │   ├── services
+│   │   │   │   └── marketplaceApi.ts
+│   │   │   └── styles
+│   │   │       └── market-theme.css
+│   │   ├── pages
+│   │   │   ├── Account.tsx
+│   │   │   ├── AdminCustomers.tsx
+│   │   │   ├── AuditReport.tsx
+│   │   │   ├── AuthPage.tsx
+│   │   │   ├── Cart.tsx
+│   │   │   ├── CrawlJob.tsx
+│   │   │   ├── CrawlJobs.tsx
+│   │   │   ├── Dashboard.tsx
+│   │   │   ├── GA4Dashboard.tsx
+│   │   │   ├── LegalPage.tsx
+│   │   │   ├── Projects.tsx
+│   │   │   ├── ReportCompiler.tsx
+│   │   │   └── marketplace
+│   │   │       └── MarketplacePage.tsx
+│   │   └── services
+│   │       └── api.ts
+│   ├── tailwind.config.js
+│   └── tsconfig.json
+├── ga4-credentials.json
+├── incoming_tpc_pack_generator
+├── logs
+├── scripts
+│   └── setup.sh
+├── structure_tree.txt
+└── tools
+    └── chrome-devtools-mcp
+        └── build-scripts
+            └── tsconfig.tsbuildinfo
+
+173 directories, 210 files

@@ -1,0 +1,109 @@
+{
+  "site_url": "https://spruked.com",
+  "scan_timestamp": "2026-06-13T04:48:44.618581+00:00",
+  "scan_duration": 8.04,
+  "detected": {
+    "existing_chat_widget": false,
+    "external_assistant_endpoint": null,
+    "cms_framework": "Next.js",
+    "has_contact_form": true,
+    "has_auth_pages": true,
+    "has_products": true,
+    "has_checkout": true,
+    "has_booking": true,
+    "has_blog": true,
+    "has_pdfs": false,
+    "robots_txt": true,
+    "robots_disallow_count": 9,
+    "sitemap_xml": true,
+    "sitemap_url_count": 15,
+    "cors_risks": [],
+    "broken_links": [
+      "https://spruked.com/assets/Ulogo96blk.ico",
+      "https://spruked.com/favicon.ico",
+      "https://spruked.com/cdn-cgi/l/email-protection",
+      "https://spruked.com/assets/Ulogo512blk.png",
+      "https://spruked.com/products/orb",
+      "https://spruked.com/assets/CertificateKNFTsample.png",
+      "https://spruked.com/orb-dock-station"
+    ],
+    "placeholder_pages": [
+      "https://spruked.com",
+      "https://spruked.com/orb",
+      "https://spruked.com/brand",
+      "https://spruked.com/checkout",
+      "https://spruked.com/orb-skin-studio",
+      "https://spruked.com/artifacts",
+      "https://spruked.com/",
+      "https://spruked.com/about",
+      "https://spruked.com/cart",
+      "https://spruked.com/goat",
+      "https://spruked.com/truemark/example-object",
+      "https://spruked.com/products",
+      "https://spruked.com/products/truemark-mint",
+      "https://spruked.com/products/truemark-mint/objects",
+      "https://spruked.com/products/alpha-certsig",
+      "https://spruked.com/products/truemark-mint/object-types",
+      "https://spruked.com/cart?add=truemark-mint-object",
+      "https://spruked.com/admin",
+      "https://spruked.com/cart?add=alpha-certsig-license",
+      "https://spruked.com/cart?add=goat-legacy-session",
+      "https://spruked.com/orb-skin-studio/orb_skin_gen.html",
+      "https://spruked.com/orb-skin-studio/gallery.html",
+      "https://spruked.com/orb-skin-studio/pricing.html",
+      "https://spruked.com/orb-skin-studio/account.html",
+      "https://spruked.com/orb-skin-studio/contact.html",
+      "https://spruked.com/orb-skin-studio/cart.html",
+      "https://spruked.com/orb-skin-studio/upload.html"
+    ],
+    "privacy_page": true,
+    "terms_page": true,
+    "external_domains": [
+      "github.com",
+      "linkedin.com",
+      "twitter.com",
+      "www.googletagmanager.com"
+    ],
+    "third_party_scripts": [
+      "googletagmanager.com",
+      "twitter.com",
+      "linkedin.com"
+    ],
+    "exclude_recommendations": [
+      "https://spruked.com/checkout",
+      "https://spruked.com/cart",
+      "https://spruked.com/cart?add=truemark-mint-object",
+      "https://spruked.com/admin",
+      "https://spruked.com/cart?add=alpha-certsig-license",
+      "https://spruked.com/cart?add=goat-legacy-session",
+      "https://spruked.com/orb-skin-studio/cart.html"
+    ],
+    "custom_behavior_flags": [
+      "site_search_present",
+      "support_portal",
+      "learning_management",
+      "subscription_flow"
+    ]
+  },
+  "recommended_install_mode": "full_new_install",
+  "required_custom_steps": [
+    "Configure ORB auth context: do not index login/session pages.",
+    "Mark checkout flow as excluded from SSI indexing.",
+    "Mark booking/scheduling pages as excluded from SSI indexing.",
+    "Integrate ORB React/Vue component or script tag into Next.js root layout."
+  ],
+  "warnings": [
+    "Found 7 broken link(s) on same domain.",
+    "Found 27 placeholder/unfinished page(s).",
+    "Auth pages detected \u2014 ensure ORB does not expose session data.",
+    "E-commerce checkout detected \u2014 PCI scope review recommended before ORB deployment."
+  ],
+  "pages_scanned": 36,
+  "confidence": 1.0,
+  "orb_weaver_project": {
+    "project_id": "2",
+    "domain": "spruked.com",
+    "name": "spruked.com",
+    "output_dir": "/app/report_compiler/2_spruked_com/preflight"
+  }
+}

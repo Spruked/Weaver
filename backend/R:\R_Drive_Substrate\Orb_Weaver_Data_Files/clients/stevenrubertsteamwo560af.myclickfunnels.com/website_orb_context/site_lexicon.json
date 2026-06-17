@@ -1,0 +1,1067 @@
+{
+  "schema": "orb_weaver.site_lexicon.v1",
+  "generated_at": "2026-06-13T20:20:31.892445",
+  "domain": "stevenrubertsteamwo560af.myclickfunnels.com",
+  "project_id": "4",
+  "page_count": 26,
+  "terms": [
+    {
+      "term": "products",
+      "count": 42,
+      "page_coverage": 17
+    },
+    {
+      "term": "shop",
+      "count": 35,
+      "page_coverage": 17
+    },
+    {
+      "term": "sign",
+      "count": 33,
+      "page_coverage": 19
+    },
+    {
+      "term": "facebook",
+      "count": 32,
+      "page_coverage": 16
+    },
+    {
+      "term": "twitter",
+      "count": 30,
+      "page_coverage": 15
+    },
+    {
+      "term": "here",
+      "count": 29,
+      "page_coverage": 2
+    },
+    {
+      "term": "instagram",
+      "count": 28,
+      "page_coverage": 14
+    },
+    {
+      "term": "pinterest",
+      "count": 28,
+      "page_coverage": 14
+    },
+    {
+      "term": "found",
+      "count": 26,
+      "page_coverage": 13
+    },
+    {
+      "term": "get",
+      "count": 24,
+      "page_coverage": 5
+    },
+    {
+      "term": "product",
+      "count": 15,
+      "page_coverage": 3
+    },
+    {
+      "term": "benefit",
+      "count": 14,
+      "page_coverage": 1
+    },
+    {
+      "term": "hero",
+      "count": 13,
+      "page_coverage": 13
+    },
+    {
+      "term": "theme",
+      "count": 13,
+      "page_coverage": 13
+    },
+    {
+      "term": "tried",
+      "count": 13,
+      "page_coverage": 13
+    },
+    {
+      "term": "everything",
+      "count": 13,
+      "page_coverage": 13
+    },
+    {
+      "term": "awesome",
+      "count": 10,
+      "page_coverage": 1
+    },
+    {
+      "term": "add",
+      "count": 10,
+      "page_coverage": 1
+    },
+    {
+      "term": "means",
+      "count": 10,
+      "page_coverage": 1
+    },
+    {
+      "term": "password",
+      "count": 10,
+      "page_coverage": 4
+    },
+    {
+      "term": "thing",
+      "count": 9,
+      "page_coverage": 1
+    },
+    {
+      "term": "title",
+      "count": 8,
+      "page_coverage": 1
+    },
+    {
+      "term": "email",
+      "count": 8,
+      "page_coverage": 6
+    },
+    {
+      "term": "myclickfunnels",
+      "count": 7,
+      "page_coverage": 3
+    },
+    {
+      "term": "com",
+      "count": 7,
+      "page_coverage": 3
+    },
+    {
+      "term": "best",
+      "count": 6,
+      "page_coverage": 2
+    },
+    {
+      "term": "click",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "term": "testimonial",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "term": "exceleronmarketing",
+      "count": 6,
+      "page_coverage": 3
+    },
+    {
+      "term": "customer",
+      "count": 6,
+      "page_coverage": 4
+    },
+    {
+      "term": "center",
+      "count": 6,
+      "page_coverage": 4
+    },
+    {
+      "term": "https",
+      "count": 6,
+      "page_coverage": 2
+    },
+    {
+      "term": "stevenrubertsteamwo560af",
+      "count": 6,
+      "page_coverage": 2
+    },
+    {
+      "term": "new",
+      "count": 5,
+      "page_coverage": 3
+    },
+    {
+      "term": "primary",
+      "count": 4,
+      "page_coverage": 2
+    },
+    {
+      "term": "just",
+      "count": 4,
+      "page_coverage": 2
+    },
+    {
+      "term": "buy",
+      "count": 4,
+      "page_coverage": 2
+    },
+    {
+      "term": "clickfunnels",
+      "count": 4,
+      "page_coverage": 1
+    },
+    {
+      "term": "instant",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "term": "access",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "term": "lorem",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "term": "ipsum",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "term": "dolor",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "term": "sit",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "term": "amet",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "term": "consectetur",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "term": "adipisicing",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "term": "elit",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "term": "remember",
+      "count": 3,
+      "page_coverage": 3
+    },
+    {
+      "term": "account",
+      "count": 3,
+      "page_coverage": 3
+    },
+    {
+      "term": "caps",
+      "count": 3,
+      "page_coverage": 2
+    },
+    {
+      "term": "lock",
+      "count": 3,
+      "page_coverage": 2
+    },
+    {
+      "term": "set",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "term": "google",
+      "count": 3,
+      "page_coverage": 2
+    },
+    {
+      "term": "getting",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "term": "started",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "term": "first",
+      "count": 2,
+      "page_coverage": 2
+    },
+    {
+      "term": "time",
+      "count": 2,
+      "page_coverage": 2
+    },
+    {
+      "term": "create",
+      "count": 2,
+      "page_coverage": 2
+    },
+    {
+      "term": "another",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "term": "example",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "term": "article",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "term": "sitemap",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "term": "already",
+      "count": 1,
+      "page_coverage": 1
+    },
+    {
+      "term": "characters",
+      "count": 1,
+      "page_coverage": 1
+    },
+    {
+      "term": "reset",
+      "count": 1,
+      "page_coverage": 1
+    },
+    {
+      "term": "back",
+      "count": 1,
+      "page_coverage": 1
+    },
+    {
+      "term": "sessions",
+      "count": 1,
+      "page_coverage": 1
+    },
+    {
+      "term": "need",
+      "count": 1,
+      "page_coverage": 1
+    },
+    {
+      "term": "before",
+      "count": 1,
+      "page_coverage": 1
+    },
+    {
+      "term": "continuing",
+      "count": 1,
+      "page_coverage": 1
+    },
+    {
+      "term": "address",
+      "count": 1,
+      "page_coverage": 1
+    },
+    {
+      "term": "accounts",
+      "count": 1,
+      "page_coverage": 1
+    },
+    {
+      "term": "continue",
+      "count": 1,
+      "page_coverage": 1
+    },
+    {
+      "term": "phone",
+      "count": 1,
+      "page_coverage": 1
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "facebook twitter",
+      "count": 32,
+      "page_coverage": 16
+    },
+    {
+      "phrase": "twitter instagram",
+      "count": 32,
+      "page_coverage": 16
+    },
+    {
+      "phrase": "instagram pinterest",
+      "count": 32,
+      "page_coverage": 16
+    },
+    {
+      "phrase": "facebook twitter instagram",
+      "count": 32,
+      "page_coverage": 16
+    },
+    {
+      "phrase": "twitter instagram pinterest",
+      "count": 32,
+      "page_coverage": 16
+    },
+    {
+      "phrase": "page not found",
+      "count": 13,
+      "page_coverage": 0
+    },
+    {
+      "phrase": "awesome thing",
+      "count": 9,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "thing benefit",
+      "count": 9,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "benefit means",
+      "count": 9,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "awesome thing benefit",
+      "count": 9,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "thing benefit means",
+      "count": 9,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "title here",
+      "count": 8,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "sign exceleronmarketing",
+      "count": 8,
+      "page_coverage": 3
+    },
+    {
+      "phrase": "here get",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "here add",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "means awesome",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "title here add",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "benefit means awesome",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "means awesome thing",
+      "count": 6,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "listen episode",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "https stevenrubertsteamwo560af",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "stevenrubertsteamwo560af myclickfunnels",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "myclickfunnels com",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "https stevenrubertsteamwo560af myclickfunnels",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "stevenrubertsteamwo560af myclickfunnels com",
+      "count": 5,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "get best",
+      "count": 4,
+      "page_coverage": 2
+    },
+    {
+      "phrase": "lead magnet",
+      "count": 4,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "add short",
+      "count": 4,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "copy here",
+      "count": 4,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "set new password",
+      "count": 4,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "get instant",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "instant access",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "lorem ipsum",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "ipsum dolor",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "dolor sit",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "sit amet",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "amet consectetur",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "consectetur adipisicing",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "adipisicing elit",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "elit autem",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "autem dolore",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "dolore alias",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "alias numquam",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "numquam enim",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "enim voluptate",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "voluptate quam",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "customer center",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "center sign",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "customer center sign",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "set new",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "new password",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "another example article",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "sign clickfunnels",
+      "count": 3,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "amazing product",
+      "count": 3,
+      "page_coverage": 0
+    },
+    {
+      "phrase": "getting started",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "exceleronmarketing customer",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "password caps",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "caps lock",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "center sign exceleronmarketing",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "sign exceleronmarketing customer",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "exceleronmarketing customer center",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "password caps lock",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "another example",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "example article",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "sign google",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "com https",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "myclickfunnels com https",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "com https stevenrubertsteamwo560af",
+      "count": 2,
+      "page_coverage": 1
+    },
+    {
+      "phrase": "exclusive for you",
+      "count": 2,
+      "page_coverage": 0
+    },
+    {
+      "phrase": "getting started with your blog",
+      "count": 1,
+      "page_coverage": 0
+    },
+    {
+      "phrase": "all right you ready",
+      "count": 1,
+      "page_coverage": 0
+    },
+    {
+      "phrase": "submit your info down below and get contact",
+      "count": 1,
+      "page_coverage": 0
+    },
+    {
+      "phrase": "that will hook your audience pay attention",
+      "count": 1,
+      "page_coverage": 0
+    },
+    {
+      "phrase": "access powerful resources",
+      "count": 1,
+      "page_coverage": 0
+    },
+    {
+      "phrase": "more about",
+      "count": 1,
+      "page_coverage": 0
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Sign",
+      "count": 23
+    },
+    {
+      "entity": "Shop Blog About",
+      "count": 17
+    },
+    {
+      "entity": "Products Home About",
+      "count": 17
+    },
+    {
+      "entity": "Products SOCIAL Facebook Twitter",
+      "count": 17
+    },
+    {
+      "entity": "Instagram Pinterest Facebook Twitter",
+      "count": 17
+    },
+    {
+      "entity": "Instagram Pinterest Working",
+      "count": 17
+    },
+    {
+      "entity": "About",
+      "count": 16
+    },
+    {
+      "entity": "Hero Theme",
+      "count": 14
+    },
+    {
+      "entity": "Page Not Found Shop",
+      "count": 13
+    },
+    {
+      "entity": "Blog About",
+      "count": 13
+    },
+    {
+      "entity": "Page",
+      "count": 13
+    },
+    {
+      "entity": "Somewhere Else PAGES Home",
+      "count": 13
+    },
+    {
+      "entity": "Ready",
+      "count": 4
+    },
+    {
+      "entity": "Get",
+      "count": 4
+    },
+    {
+      "entity": "Customer Center",
+      "count": 4
+    },
+    {
+      "entity": "Thursday",
+      "count": 3
+    },
+    {
+      "entity": "August",
+      "count": 3
+    },
+    {
+      "entity": "Jane Doe CEO",
+      "count": 3
+    },
+    {
+      "entity": "Best Blog Ever Lorem",
+      "count": 3
+    },
+    {
+      "entity": "Autem",
+      "count": 3
+    },
+    {
+      "entity": "You",
+      "count": 3
+    },
+    {
+      "entity": "Buy Now",
+      "count": 3
+    },
+    {
+      "entity": "Getting",
+      "count": 2
+    },
+    {
+      "entity": "Product",
+      "count": 2
+    },
+    {
+      "entity": "Primary Blog Shop Blog",
+      "count": 2
+    },
+    {
+      "entity": "Primary Blog",
+      "count": 2
+    },
+    {
+      "entity": "Get Our Best Selling",
+      "count": 2
+    },
+    {
+      "entity": "Super",
+      "count": 2
+    },
+    {
+      "entity": "Get Our Best Deal",
+      "count": 2
+    },
+    {
+      "entity": "PAGES Home About",
+      "count": 2
+    },
+    {
+      "entity": "Full Name Email Phone",
+      "count": 2
+    },
+    {
+      "entity": "Click",
+      "count": 2
+    },
+    {
+      "entity": "ExceleronMarketing Sign",
+      "count": 2
+    },
+    {
+      "entity": "First",
+      "count": 2
+    },
+    {
+      "entity": "Create",
+      "count": 2
+    },
+    {
+      "entity": "Email",
+      "count": 2
+    },
+    {
+      "entity": "Awesome",
+      "count": 1
+    },
+    {
+      "entity": "Benefit",
+      "count": 1
+    },
+    {
+      "entity": "WHY",
+      "count": 1
+    },
+    {
+      "entity": "Testimonial",
+      "count": 1
+    },
+    {
+      "entity": "Title Here Add",
+      "count": 1
+    },
+    {
+      "entity": "Listen",
+      "count": 1
+    },
+    {
+      "entity": "Product Title Here Add",
+      "count": 1
+    },
+    {
+      "entity": "Link",
+      "count": 1
+    },
+    {
+      "entity": "And",
+      "count": 1
+    },
+    {
+      "entity": "YES",
+      "count": 1
+    },
+    {
+      "entity": "CLICK HERE",
+      "count": 1
+    },
+    {
+      "entity": "Your Best Email Address",
+      "count": 1
+    },
+    {
+      "entity": "THEM",
+      "count": 1
+    },
+    {
+      "entity": "More Episode",
+      "count": 1
+    },
+    {
+      "entity": "That Products Funnel AMAZING",
+      "count": 1
+    },
+    {
+      "entity": "PRODUCT",
+      "count": 1
+    },
+    {
+      "entity": "Inside",
+      "count": 1
+    },
+    {
+      "entity": "Home Page All Right",
+      "count": 1
+    },
+    {
+      "entity": "Submit",
+      "count": 1
+    },
+    {
+      "entity": "ASAP",
+      "count": 1
+    },
+    {
+      "entity": "Primary Blog Register",
+      "count": 1
+    },
+    {
+      "entity": "And Get Instant Access",
+      "count": 1
+    },
+    {
+      "entity": "Read All About",
+      "count": 1
+    },
+    {
+      "entity": "COMPANY BLOG",
+      "count": 1
+    },
+    {
+      "entity": "Read More Another",
+      "count": 1
+    },
+    {
+      "entity": "Shop",
+      "count": 1
+    },
+    {
+      "entity": "Check Out These Products",
+      "count": 1
+    },
+    {
+      "entity": "Best Deal",
+      "count": 1
+    },
+    {
+      "entity": "Exclusive For You Lead",
+      "count": 1
+    },
+    {
+      "entity": "Magnet Value Offer Lorem",
+      "count": 1
+    },
+    {
+      "entity": "GET INSTANT ACCESS Exclusive",
+      "count": 1
+    },
+    {
+      "entity": "For You Lead Magnet",
+      "count": 1
+    },
+    {
+      "entity": "Value Offer Lorem",
+      "count": 1
+    },
+    {
+      "entity": "GET INSTANT ACCESS PAGES",
+      "count": 1
+    },
+    {
+      "entity": "Home About",
+      "count": 1
+    },
+    {
+      "entity": "ExceleronMarketing Email Remember",
+      "count": 1
+    },
+    {
+      "entity": "ExceleronMarketing Customer Center Sign",
+      "count": 1
+    },
+    {
+      "entity": "Password",
+      "count": 1
+    },
+    {
+      "entity": "Email Already",
+      "count": 1
+    }
+  ],
+  "orb_usage": {
+    "purpose": "site-specific vocabulary for ORB grounding, answer style, content gap review, and Basic ORB deployment planning",
+    "privacy": "client-local; do not append raw client lexicon entries to global intelligence"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "site_url": "https://truemarkmint.com",
+  "scan_timestamp": "2026-06-15T01:59:16.289382+00:00",
+  "scan_duration": 3.49,
+  "detected": {
+    "existing_chat_widget": false,
+    "external_assistant_endpoint": null,
+    "cms_framework": "unknown",
+    "has_contact_form": false,
+    "has_auth_pages": true,
+    "has_products": true,
+    "has_checkout": true,
+    "has_booking": false,
+    "has_blog": true,
+    "has_pdfs": false,
+    "robots_txt": true,
+    "robots_disallow_count": 9,
+    "sitemap_xml": true,
+    "sitemap_url_count": 13,
+    "cors_risks": [],
+    "broken_links": [
+      "https://truemarkmint.com/favicon-tm.ico",
+      "https://truemarkmint.com/favicon.ico",
+      "https://truemarkmint.com/favicon-512.png"
+    ],
+    "placeholder_pages": [],
+    "privacy_page": false,
+    "terms_page": false,
+    "external_domains": [
+      "true-mark.spruked.com"
+    ],
+    "third_party_scripts": [
+      "googletagmanager.com"
+    ],
+    "exclude_recommendations": [
+      "https://truemarkmint.com/cart",
+      "https://truemarkmint.com/checkout",
+      "https://truemarkmint.com/admin/login",
+      "https://truemarkmint.com/login",
+      "https://truemarkmint.com/admin/dashboard"
+    ],
+    "custom_behavior_flags": []
+  },
+  "recommended_install_mode": "full_new_install",
+  "required_custom_steps": [
+    "Configure ORB auth context: do not index login/session pages.",
+    "Mark checkout flow as excluded from SSI indexing."
+  ],
+  "warnings": [
+    "Found 3 broken link(s) on same domain.",
+    "Auth pages detected \u2014 ensure ORB does not expose session data.",
+    "E-commerce checkout detected \u2014 PCI scope review recommended before ORB deployment."
+  ],
+  "pages_scanned": 18,
+  "confidence": 0.9,
+  "orb_weaver_project": {
+    "project_id": "5",
+    "domain": "truemarkmint.com",
+    "name": "TrueMarkMint Customer ORB Install Lab",
+    "output_dir": "/app/report_compiler/5_truemarkmint_customer_orb_install_lab/preflight"
+  }
+}
